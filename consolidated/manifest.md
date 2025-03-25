@@ -1,7 +1,7 @@
 # Navy/DoD Document Manifest
 
 This master manifest consolidates all reference document collections. 
-**Total documents: 2134**
+**Total documents: 1324**
 
 ## Collections Summary
 
@@ -10,7 +10,7 @@ This master manifest consolidates all reference document collections.
 | [BUPERS Instructions](#bupers-instructions) | `bupers_manifest.md` | 98 |
 | [CJCS](#cjcs) | `cjcs_manifest.md` | 163 |
 | [DoD / DoW](#dod-dow) | `dow_manifest.md` | 92 |
-| [MILPERSMAN](#milpersman) | `milpersman_manifest.md` | 821 |
+| [MILPERSMAN](#milpersman) | `milpersman_manifest.md` | 11 |
 | [OPNAV Instructions](#opnav-instructions) | `opnav_manifest.md` | 366 |
 | [RESPERSMAN](#respersman) | `respersman_manifest.md` | 36 |
 | [SECNAV Instructions](#secnav-instructions) | `secnav_instructions_manifest.md` | 414 |
@@ -314,935 +314,134 @@ This master manifest consolidates all reference document collections.
 
 ---
 
-# DoD / DoW Publications — Document Manifest
+# DOW Consolidated PDF Manifest
 
-| # | Section | Document Number | Title | Pages | Date |
-|---|---------|----------------|-------|-------|------|
-| 1 | Instructions | DoDI 1035.01 | TELEWORK AND REMOTE WORK | 39 | January 8, 2024 |
-| 2 | Instructions | DoDI 1200.07 | SCREENING THE READY RESERVE | 19 | January 22, 2021 |
-| 3 | Instructions | DoDI 1200.15 | ASSIGNMENT TO AND TRANSFER BETWEEN RESERVE CATEGORIES AND DISCHARGE FROM RESERVE STATUS | 10 | November 7, 2019 |
-| 4 | Instructions | DoDI 1205.12 | CIVILIAN EMPLOYMENT AND REEMPLOYMENT RIGHTS FOR SERVICE MEMBERS, FORMER SERVICE MEMBERS, AND APPLICANTS OF THE MILITARY SERVICES | 28 | November 15, 2024 |
-| 5 | Instructions | DoDI 1205.13 | JUNIOR RESERVE OFFICERS' TRAINING CORPS PROGRAM | 34 | March 14, 2024 |
-| 6 | Instructions | DoDI 1205.18 | FULL-TIME SUPPORT (FTS) TO THE RESERVE COMPONENTS | 12 | June 5, 2020 |
-| 7 | Instructions | DoDI 1205.22 | EMPLOYER SUPPORT OF THE GUARD AND RESERVE | 13 | October 1, 2024 |
-| 8 | Instructions | DoDI 1215.06 | UNIFORM RESERVE, TRAINING, AND RETIREMENT CATEGORIES FOR THE RESERVE COMPONENTS | 48 | July 12, 2022 |
-| 9 | Instructions | DoDI 1215.07 | SERVICE CREDIT FOR NON-REGULAR RETIREMENT | 20 | May 17, 2021 |
-| 10 | Instructions | DoDI 1215.08 | SENIOR RESERVE OFFICERS' TRAINING CORPS (ROTC) PROGRAMS | 43 | August 12, 2025 |
-| 11 | Instructions | DoDI 1215.13 | READY RESERVE MEMBER PARTICIPATION POLICY | 18 | May 5, 2015 |
-| 12 | Instructions | DoDI 1215.15 | MILITARY RESERVE EXCHANGE PROGRAM (MREP) | 8 | October 13, 2016 |
-| 13 | Instructions | DoDI 1215.17 | EDUCATIONAL REQUIREMENTS FOR APPOINTMENT TO A GRADE ABOVE FIRST LIEUTENANT OR LIEUTENANT (JUNIOR GRADE) IN A RESERVE COMPONENT | 8 | May 5, 2020 |
-| 14 | Instructions | DoDI 1215.21 | RESERVE COMPONENT (RC) USE OF ELECTRONIC-BASED DISTRIBUTED LEARNING METHODS FOR TRAINING | 9 | May 12, 2020 |
-| 15 | Instructions | DoDI 1215.22 | RESERVE COMPONENT REPRESENTATION, NORTH ATLANTIC TREATY ORGANIZATION (NATO) NATIONAL RESERVE FORCES COMMITTEE (NRFC) AND NATO SCHOOLS | 8 | November 12, 2015 |
-| 16 | Instructions | DoDI 1225.06 | EQUIPPING THE RESERVE FORCES | 17 | June 28, 2022 |
-| 17 | Instructions | DoDI 1225.08 | RESERVE COMPONENT (RC) FACILITIES PROGRAMS AND UNIT STATIONING | 22 | February 28, 2020 |
-| 18 | Instructions | DoDI 1225.09 | BILLETING FOR RESERVE COMPONENT MEMBERS | 4 | December 17, 2001 |
-| 19 | Instructions | DoDI 1235.09 | MANAGEMENT OF THE STANDBY RESERVE | 10 | May 7, 2024 |
-| 20 | Instructions | DoDI 1235.11 | MANAGEMENT OF INDIVIDUAL MOBILIZATION AUGMENTEES (IMAs) | 10 | July 10, 2015 |
-| 21 | Instructions | DoDI 1235.12 | ACCESSING THE RESERVE COMPONENTS (RC) | 37 | February 28, 2017 |
-| 22 | Instructions | DoWI 1235.13 | ADMINISTRATION AND MANAGEMENT OF THE INDIVIDUAL READY RESERVE AND THE INACTIVE NATIONAL GUARD | 15 | March 23, 2026 |
-| 23 | Instructions | DoDI 1241.01 | RESERVE COMPONENT (RC) LINE OF DUTY DETERMINATION FOR MEDICAL AND DENTAL TREATMENTS AND INCAPACITATION PAY ENTITLEMENTS | 19 | April 19, 2016 |
-| 24 | Instructions | DoDI 1241.05 | RESERVE INCOME REPLACEMENT PROGRAM (RIRP) | 10 | May 15, 2018 |
-| 25 | Instructions | DoDI 1250.02 | DOD RESERVE FORCES SENIOR ENLISTED ADVISORS COUNCIL | 8 | April 30, 2020 |
-| 26 | Instructions | DoDI 1320.08 | CONTINUATION OF COMMISSIONED OFFICERS ON ACTIVE DUTY AND ON THE RESERVE ACTIVE-STATUS LIST | 11 | August 28, 2020 |
-| 27 | Instructions | DoDI 1322.16 | MONTGOMERY GI BILL PROGRAM | 11 | December 28, 2022 |
-| 28 | Instructions | DoDI 1322.17 | MONTGOMERY GI BILL-SELECTED RESERVE (MGIB-SR) | 23 | January 15, 2015 |
-| 29 | Instructions | DoDI 1322.30 | RESERVE EDUCATIONAL ASSISTANCE PROGRAM (REAP) | 13 | May 13, 2020 |
-| 30 | Instructions | DoDI 1332.14 | ENLISTED ADMINISTRATIVE SEPARATIONS | 63 | August 1, 2024 |
-| 31 | Instructions | DoDI 1332.30 | COMMISSIONED OFFICER ADMINISTRATIVE SEPARATIONS | 27 | September 9, 2021 |
-| 32 | Instructions | DoDI 1332.32 | SELECTIVE EARLY RETIREMENT OR REMOVAL OF OFFICERS ON THE ACTIVE DUTY LIST, THE WARRANT OFFICER ACTIVE DUTY LIST, OR THE RESERVE ACTIVE STATUS LIST | 9 | May 6, 2020 |
-| 33 | Instructions | DoDI 1334.01 | WEARING OF THE UNIFORM | 6 | July 13, 2021 |
-| 34 | Instructions | DoDI 1340.09 | HAZARD PAY PROGRAM | 34 | February 2, 2024 |
-| 35 | Instructions | DoDI 1340.23 | WAIVER PROCEDURES FOR DEBTS RESULTING FROM ERRONEOUS PAY AND ALLOWANCES | 24 | February 14, 2006 |
-| 36 | Instructions | DoDI 1340.24 | FAMILY SEPARATION ALLOWANCE | 8 | June 15, 2023 |
-| 37 | Instructions | DoDI 1340.25 | COMBAT ZONE TAX EXCLUSION (CZTE) | 12 | September 28, 2010 |
-| 38 | Instructions | DoDI 1340.26 | ASSIGNMENT AND SPECIAL DUTY PAYS | 16 | January 11, 2019 |
-| 39 | Instructions | DoDI 1340.27 | MILITARY FOREIGN LANGUAGE SKILL PROFICIENCY BONUSES | 29 | August 17, 2022 |
-| 40 | Instructions | DoDI 1352.01 | MANAGEMENT OF REGULAR AND RESERVE RETIRED MILITARY MEMBERS | 14 | December 8, 2016 |
-| 41 | Instructions | DoDI 3300.05 | RESERVE COMPONENT INTELLIGENCE ENTERPRISE (RCIE) MANAGEMENT | 14 | August 7, 2020 |
-| 42 | Instructions | DoDI 3325.11 | MANAGEMENT OF THE JOINT RESERVE INTELLIGENCE PROGRAM (JRIP) | 15 | September 24, 2020 |
-| 43 | Instructions | DoWI 5160.71 | DOW LANGUAGE TESTING PROGRAM | 22 | February 11, 2026 |
-| 44 | Instructions | DoDI 5200.01 | DOD INFORMATION SECURITY PROGRAM AND PROTECTION OF SENSITIVE COMPARTMENTED INFORMATION (SCI) | 13 | October 22, 2024 |
-| 45 | Instructions | DoDI 5200.02 | DOD PERSONNEL SECURITY PROGRAM (PSP) | 14 | September 24, 2020 |
-| 46 | Instructions | DoDI 5200.48 | CONTROLLED UNCLASSIFIED INFORMATION (CUI) | 40 | March 6, 2020 |
-| 47 | Instructions | DoDI 6400.01 | FAMILY ADVOCACY PROGRAM (FAP) | 14 | May 1, 2019 |
-| 48 | Instructions | DoDI 6490.06 | COUNSELING SERVICES FOR DOD MILITARY, GUARD AND RESERVE, CERTAIN AFFILIATED PERSONNEL, AND THEIR FAMILY MEMBERS | 12 | March 31, 2017 |
-| 49 | Instructions | DoDI 6490.16 | DEFENSE SUICIDE PREVENTION PROGRAM | 40 | February 2, 2023 |
-| 50 | Instructions | DoDI 6495.02 Vol 1 | SEXUAL ASSAULT PREVENTION AND RESPONSE: PROGRAM PROCEDURES | 158 | March 18, 2025 |
-| 51 | Instructions | DoDI 6495.02 Vol 2 | SEXUAL ASSAULT PREVENTION AND RESPONSE: EDUCATION AND TRAINING | 23 | March 18, 2025 |
-| 52 | Instructions | DoDI 6495.02 Vol 3 | SEXUAL ASSAULT PREVENTION AND RESPONSE: RETALIATION RESPONSE FOR ADULT SEXUAL ASSAULT CASES | 41 | July 26, 2024 |
-| 53 | Instructions | DoDI 6495.03 | DEFENSE SEXUAL ASSAULT ADVOCATE CERTIFICATION PROGRAM (D-SAACP) | 18 | February 28, 2020 |
-| 54 | Instructions | DoDI 8010.01 | DEPARTMENT OF DEFENSE INFORMATION NETWORK (DODIN) TRANSPORT | 40 | September 10, 2018 |
-| 55 | Instructions | DoDI 8140.02 | IDENTIFICATION, TRACKING, AND REPORTING OF CYBERSPACE WORKFORCE REQUIREMENTS | 19 | December 21, 2021 |
-| 56 | Instructions | DoDI 8310.01 | INFORMATION TECHNOLOGY STANDARDS IN THE DOD | 38 | April 7, 2023 |
-| 57 | Instructions | DoDI 8320.05 | ELECTROMAGNETIC SPECTRUM DATA SHARING | 14 | November 22, 2017 |
-| 58 | Instructions | DoDI 8320.07 | IMPLEMENTING THE SHARING OF DATA, INFORMATION, AND INFORMATION TECHNOLOGY (IT) SERVICES IN THE DEPARTMENT OF DEFENSE | 32 | December 5, 2017 |
-| 59 | Instructions | DoDI 8330.01 | INTEROPERABILITY OF INFORMATION TECHNOLOGY, INCLUDING NATIONAL SECURITY SYSTEMS | 48 | September 27, 2022 |
-| 60 | Instructions | DoDI 8410.01 | INTERNET DOMAIN NAME AND INTERNET PROTOCOL ADDRESS SPACE USE AND APPROVAL | 20 | June 4, 2021 |
-| 61 | Instructions | DoDI 8410.02 | SUPPORT TO DOD INFORMATION NETWORK OPERATIONS | 12 | December 8, 2021 |
-| 62 | Instructions | DoDI 8410.03 | NETWORK MANAGEMENT (NM) | 25 | July 19, 2017 |
-| 63 | Instructions | DoDI 8420.02 | DOD SATELLITE COMMUNICATIONS | 51 | August 3, 2023 |
-| 64 | Instructions | DoDI 8500.01 | CYBERSECURITY | 58 | October 7, 2019 |
-| 65 | Instructions | DoDI 8510.01 | RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS | 36 | July 19, 2022 |
-| 66 | Instructions | DoDI 8520.02 | PUBLIC KEY INFRASTRUCTURE AND PUBLIC KEY ENABLING | 52 | May 18, 2023 |
-| 67 | Instructions | DoDI 8520.03 | IDENTITY AUTHENTICATION FOR INFORMATION SYSTEMS | 46 | May 19, 2023 |
-| 68 | Instructions | DoDI 8520.04 | ACCESS MANAGEMENT FOR DOD INFORMATION SYSTEMS | 30 | September 3, 2024 |
-| 69 | Instructions | DoDI 8523.01 | COMMUNICATIONS SECURITY | 13 | January 6, 2021 |
-| 70 | Instructions | DoDI 8530.01 | CYBERSECURITY ACTIVITIES SUPPORT TO DOD INFORMATION NETWORK OPERATIONS | 45 | July 25, 2017 |
-| 71 | Instructions | DoDI 8530.03 | CYBER INCIDENT RESPONSE | 41 | August 9, 2023 |
-| 72 | Instructions | DoDI 8531.01 | DOD VULNERABILITY MANAGEMENT | 24 | September 15, 2020 |
-| 73 | Instructions | DoDI 8540.01 | CROSS DOMAIN (CD) POLICY | 60 | August 28, 2017 |
-| 74 | Instructions | DoDI 8551.01 | PORTS, PROTOCOLS, AND SERVICES MANAGEMENT | 15 | May 31, 2023 |
-| 75 | Instructions | DoDI 8560.01 | COMMUNICATIONS SECURITY (COMSEC) MONITORING | 13 | August 22, 2018 |
-| 76 | Instructions | DoDI 8580.1 | INFORMATION ASSURANCE (IA) IN THE DEFENSE ACQUISITION SYSTEM | 11 | July 9, 2004 |
-| 77 | Instructions | DoDI 8580.02 | SECURITY OF INDIVIDUALLY IDENTIFIABLE HEALTH INFORMATION IN DOD HEALTH CARE PROGRAMS | 27 | August 12, 2015 |
-| 78 | Instructions | DoDI 8582.01 | SECURITY OF NON-DOD INFORMATION SYSTEMS PROCESSING UNCLASSIFIED NONPUBLIC DOD INFORMATION | 13 | December 9, 2019 |
-| 79 | Instructions | DoDI 8585.01 | DOD CYBER RED TEAMS | 26 | January 11, 2024 |
-| 80 | Manual | DoDM 1348.33 Vol 4 | MANUAL OF MILITARY DECORATIONS AND AWARDS: DOD JOINT DECORATIONS AND AWARDS | 60 | September 19, 2023 |
-| 81 | Manual | DoDM 1348.33 Vol 1 | MANUAL OF MILITARY DECORATIONS AND AWARDS: MEDAL OF HONOR | 28 | April 7, 2025 |
-| 82 | Manual | DoDM 1348.33 Vol 3 | MANUAL OF MILITARY DECORATIONS AND AWARDS: DOD-WIDE PERSONAL PERFORMANCE AND VALOR DECORATIONS | 41 | July 9, 2024 |
-| 83 | Manual | DoDM 1348.33 Vol 2 | MANUAL OF MILITARY DECORATIONS AND AWARDS: DOD SERVICE AWARDS – CAMPAIGN, EXPEDITIONARY, AND SERVICE MEDALS | 67 | January 19, 2024 |
-| 84 | Manual | DoDM 5200.01 Vol 3 | DOD INFORMATION SECURITY PROGRAM: PROTECTION OF CLASSIFIED INFORMATION | 120 | January 17, 2025 |
-| 85 | Manual | DoDM 5200.01 Vol 1 | DOD INFORMATION SECURITY PROGRAM: OVERVIEW, CLASSIFICATION, AND DECLASSIFICATION | 75 | January 17, 2025 |
-| 86 | Manual | DoDM 5200.01 Vol 2 | DOD INFORMATION SECURITY PROGRAM: MARKING OF INFORMATION | 111 | July 28, 2020 |
-| 87 | Manual | DoD 5200.08-R | PHYSICAL SECURITY PROGRAM | 25 | October 19, 2020 |
-| 88 | Manual | DoDM 5205.02 | DOD OPERATIONS SECURITY (OPSEC) PROGRAM MANUAL | 39 | October 29, 2020 |
-| 89 | Manual | DoDM 5400.07 | DOD FREEDOM OF INFORMATION ACT (FOIA) PROGRAM | 43 | January 25, 2017 |
-| 90 | Manual | DoD 5400.11-R | DEPARTMENT OF DEFENSE PRIVACY PROGRAM | 110 | May 14, 2007 |
-| 91 | Manual | DoDD 5500.07 | ETHICS AND STANDARDS OF CONDUCT (JOINT ETHICS REGULATION CANCELLED — SEE DoDD 5500.07) | 1 | May 15, 2024 |
-| 92 | Manual | DoDM 8140.03 | CYBERSPACE WORKFORCE QUALIFICATION AND MANAGEMENT PROGRAM | 32 | February 15, 2023 |
+**Total Documents:** 92  
+**Instructions:** 79 documents  
+**Manuals:** 13 documents  
+**Output:** dow.pdf (32.2 MB)  
+
+---
+
+| # | Section | Document ID | Document Name | Title | Publication Date |
+|---|---------|-------------|---------------|-------|------------------|
+| 1 | Instructions | 103501p | 103501p.pdf | DoDI 1035.01, "Telework and Remote Work," January 8, 2024 | 2024-01-08 |
+| 2 | Instructions | 120007p | 120007p.pdf | Department of Defense Instruction 1200.07, "Screening the Ready Reserve," January 22, 2021 | 2021-01-21 |
+| 3 | Instructions | 120015p | 120015p.pdf | DoDI 1200.15, November 7, 2019 | 2019-11-05 |
+| 4 | Instructions | 120512p | 120512p.pdf | DoD Instruction 1205.12, "Civilian Employment and Reemployment Rights for Service Members, Former Service Members, and Applicants of the Military Services," November 15, 2024 | 2024-11-15 |
+| 5 | Instructions | 120513p | 120513p.pdf | DoD Instruction 1205.13, "Junior Reserve Officers' Traning Corps Program," May 21, 2021; Incorporating Change 1 on March 14, 2024 | 2024-03-14 |
+| 6 | Instructions | 120518p | 120518p.pdf | DoDI 1205.18, "FULL-TIME SUPPORT (FTS) TO THE RESERVE COMPONENTS" June 5, 2020 | 2020-06-05 |
+| 7 | Instructions | 120522p | 120522p.pdf | DoD Instruction 1205.22, "Employer Support of the Guard and Reserve," February 6, 2017; Incorporating Change 1 on October 1, 2024 | 2024-10-01 |
+| 8 | Instructions | 121506p | 121506p.pdf | DoDI 1215.06, "Uniform Reserve, Training, and Retirement Categories for the Reserve Components," March 11, 2014, Incorporating Change 2 July 12, 2022 | 2022-07-12 |
+| 9 | Instructions | 121507p | 121507p.pdf | DoDI 1215.07, "Service Credit for Non-Regular Retirement," July 30, 2019; Incorporating Change 1 on May 17, 2021 | 2021-05-17 |
+| 10 | Instructions | 121508p | 121508p.pdf | DoDI 1215.08, "Senior Reserve Officers’ Training Corps (ROTC) Programs," January 19, 2017, Change 2 Effective August 12, 2025 | 2025-08-12 |
+| 11 | Instructions | 121513p | 121513p.pdf | DoD Instruction 1215.13, May 5, 2015 | 2015-05-05 |
+| 12 | Instructions | 121515p | 121515p.pdf | DoDI 1215.15, July 1, 2014, Incorporating Change 1 on October 13, 2016 | 2019-01-29 |
+| 13 | Instructions | 121517p | 121517p.pdf | DoDI 1215.17, "Educational Requirements for Appointment to a Grade Above First Lieutenant or Lieutenant (Junior Grade) in a Reserve Component," January 29, 2014; Incorporating Change 1 on May 5, 2020 | 2020-05-05 |
+| 14 | Instructions | 121521p | 121521p.pdf | DoDI 1215.21, "Reserve Component (RC) Use of Electronic-based Distributed Learning Methods for Training," October 10, 2014; Incorporating Change 1 on May 12, 2020 | 2020-05-12 |
+| 15 | Instructions | 121522p | 121522p.pdf | DoD Instruction 1215.22, November 12, 2015 | 2015-11-12 |
+| 16 | Instructions | 122506p | 122506p.pdf | DoDI 1225.06, "Equipping the Reserve Forces," May 16, 2012, Incorporating Change 2, June 28, 2022 | 2022-06-28 |
+| 17 | Instructions | 122508p | 122508p.pdf | DoDI 1225.08, "Reserve Component (RC) Facilities Programs and Unit Stationing", May 10, 2016, Incorporating Change 2 on February 28, 2020. | 2020-02-28 |
+| 18 | Instructions | 122509p | 122509p.pdf | DoD Instruction 1225.9, December 17, 2001 | 2007-01-24 |
+| 19 | Instructions | 123509p | 123509p.pdf | DoD Instruction 1235.09 "Management of the Standby Reserve," May 7, 2024 | 2024-05-07 |
+| 20 | Instructions | 123511p | 123511p.pdf | DoD Instruction 1235.11, July 10, 2015 | 2015-07-10 |
+| 21 | Instructions | 123512p | 123512p.pdf | DoDI 1235.12, June 7, 2016, Incorporating Change 1 on February 28, 2017 | 2019-02-26 |
+| 22 | Instructions | 123513p | 123513p.pdf | DoWI 1235.13, "Administration and Management of the Individual Ready Reserve and the Inactive National Guard," March 23, 2026 | 2026-03-23 |
+| 23 | Instructions | 124101p | 124101p.pdf | DoD Instruction 1241.01, April 19, 2016 | 2016-04-19 |
+| 24 | Instructions | 124105p | 124105p.pdf | DoDI 1241.05, May 15, 2018 | 2018-05-15 |
+| 25 | Instructions | 125002p | 125002p.pdf | DoDI 1250.02, "DoD Reserve Forces Senior Enlisted Advisors Council," October 31, 2013; Incorporating Change 1 on April 30, 2020 | 2020-04-30 |
+| 26 | Instructions | 132008p | 132008p.pdf | DoDI 1320.08, "CONTINUATION OF COMMISSIONED OFFICERS ON ACTIVE DUTY AND ON THE RESERVE ACTIVE-STATUS LIST," July 7, 2017, Incorporating Change 2 on August 28, 2020 | 2020-08-28 |
+| 27 | Instructions | 132216p | 132216p.pdf | DoDI 1322.16, Montgomery GI Bill Program, December 28, 2022 | 2022-12-27 |
+| 28 | Instructions | 132217p | 132217p.pdf | DoD Instruction 1322.17, January 15, 2015 | 2015-01-15 |
+| 29 | Instructions | 132230p | 132230p.pdf | DoDI 1322.30, "Reserve Educational Assistance Program (REAP)," March 14, 2014; Incorporating Change 1 on May 13, 2020 | 2020-05-13 |
+| 30 | Instructions | 133214p | 133214p.pdf | DoD Instruction 1332.14, "Enlisted Adminstrative Separations," August 1, 2024 | 2024-08-01 |
+| 31 | Instructions | 133230p | 133230p.pdf | DoDI 1332.30, "Commissioned Officer Administrative Separations," May 11, 2018, Change 3 Effective September 9, 2021 | 2021-09-09 |
+| 32 | Instructions | 133232p | 133232p.pdf | DoDI 1332.32, "Selective Early Retirement or Removal of Officers on the Active Duty List, the Warrant Officer Active Duty List, or the Reserve Active Status List," May 2, 2014; Incorporating Change 1 on May 6, 2020 | 2020-05-06 |
+| 33 | Instructions | 133401p | 133401p.pdf | DoDI 1334.01, "Wearing of the Uniform," July 13, 2021 | 2021-07-13 |
+| 34 | Instructions | 134009p | 134009p.pdf | DoD Instruction 1340.09, Hazard Pay Program, January 26, 2018; Incorporating Change 1 on February 02, 2024 | 2024-02-02 |
+| 35 | Instructions | 134023p | 134023p.pdf | DoD Instruction 1340.23; February 14, 2006 | 2006-12-04 |
+| 36 | Instructions | 134024p | 134024p.pdf | DoDI 1340.24, "Familiy Separation Allowance," June 15, 2023 | 2023-06-15 |
+| 37 | Instructions | 134025p | 134025p.pdf | DoD Instruction 1340.25, September 28, 2010 | 2010-09-28 |
+| 38 | Instructions | 134026p | 134026p.pdf | DoDI 1340.26, September 25, 2017, Incorporating Change 1 on January 11, 2019 | 2019-01-11 |
+| 39 | Instructions | 134027p | 134027p.pdf | DoD Instruction 1340.27, "Military Foreign Language Skill Proficiency Bonus," August 17, 2022 | 2022-08-16 |
+| 40 | Instructions | 135201_dodi_2016 | 135201_dodi_2016.pdf | DoD Instruction 1352.01, December 8, 2016 | 2016-12-08 |
+| 41 | Instructions | 330005p | 330005p.pdf | DoDI 3300.05, "Reserve Component Intelligence Enterprise (RCIE) Management," July 17 2013, Incorporating Change 2, Effective August 7, 2020 | 2020-08-17 |
+| 42 | Instructions | 332511p | 332511p.pdf | DoDI 3325.11, "Management of the Joint Reserve Intelligence Program (JRIP)," June 26, 2015; Incorporating Change 2 on September 24, 2020 | 2020-09-24 |
+| 43 | Instructions | 516071p | 516071p.pdf | DoW Instruction 5160.71, "DoW Language Testing Program," June 30, 2022, Incorporating Change 1 on February 11, 2026 | 2026-02-11 |
+| 44 | Instructions | 520001p | 520001p.pdf | DoDI 5200.01, "DoD Information Security Program and Protection of Sensitive Compartmented Information (SCI)," April 21, 2016; Incorporating Change 2 on October 1, 2020 | 2024-10-22 |
+| 45 | Instructions | 520002p | 520002p.pdf | DoDI 5200.02, "DoD Personnel Security Program (PSP)," March 21, 2014; Incorporating Change 3 on September 24, 2020 | 2020-09-24 |
+| 46 | Instructions | 520048p | 520048p.pdf | DoDI 5200.48, "Controlled Unclassified Information (CUI)," Effective March 6, 2020 | 2020-03-06 |
+| 47 | Instructions | 640001p | 640001p.pdf | DoDI 6400.01, May 1, 2019 | 2019-05-01 |
+| 48 | Instructions | 649006p | 649006p.pdf | DoD Instruction 6490.06, April 21, 2009; Incorporating Change 2, March 31, 2017 | 2019-04-03 |
+| 49 | Instructions | 649016p | 649016p.pdf | DoD Instruction 6490.16, "Defense Suicide Prevention Program," November 6, 2017; Incorporating Change 3 on February 2, 2023 | 2023-02-02 |
+| 50 | Instructions | 649502_vol01 | 649502_vol01.pdf | DoDI 6495.02, Volume 1, "Adult Sexual Assault Prevention and Response:  Program Procedures," March 28, 2013, Incorporating Change 9, March 18, 2025 | 2025-03-18 |
+| 51 | Instructions | 649502_vol2p | 649502_vol2p.pdf | DoD Instruction 6495.02, Vol 2, "Sexual Assaul Prevention and Response: Education and Training," April 9, 2021; Incorporating Change 1 on March 18, 2025 | 2025-03-18 |
+| 52 | Instructions | 649502_vol3 | 649502_vol3.pdf | DoDI 6495.02, Volume 3, "Sexual Assault Prevention and Response: Retaliation Response for Adult Sexual Assault Cases," June 24, 2022, Incorporating Change 1, July 26, 2024 | 2024-07-26 |
+| 53 | Instructions | 649503p | 649503p.pdf | DoDI 6495.03, Defense Sexual Assualt Advocate Certification Program (D-SAACP), February 28, 2020 | 2020-03-04 |
+| 54 | Instructions | 801001p | 801001p.pdf | DoDI 8010.01, September 10, 2018 | 2018-09-10 |
+| 55 | Instructions | 814002p | 814002p.pdf | DoDI 8140.02, Identification, Tracking, and Reporting of Cyberspace Workforce Requirements, December 21, 2021 | 2021-12-20 |
+| 56 | Instructions | 831001p | 831001p.pdf | DoDI 8310.01, "Information Technology Standards in the DoD," April 7, 2023 | 2025-03-25 |
+| 57 | Instructions | 832005p | 832005p.pdf | DoDI 8320.05, August 18, 2011, Incorporating Change 1 on November 22, 2017 | 2019-01-24 |
+| 58 | Instructions | 832007p | 832007p.pdf | DoDI 8320.07, August 3, 2015, Incorporating Change 1 on December 5, 2017 | 2019-06-06 |
+| 59 | Instructions | 833001p | 833001p.pdf | DoDI 8330.01, Interoperability of Information Technology, Including National Security Systems, September 27, 2022 | 2022-09-27 |
+| 60 | Instructions | 841001p | 841001p.pdf | DoDI 8410.01, "Internet Domain Name and Internet Protocol Address Space Use and Approval" December 4, 2015, Incorporating Change 1 June 4, 2021 | 2022-08-08 |
+| 61 | Instructions | 841002p | 841002p.pdf | DoDI 8410.02, "Support to DoD Information Network Operations," effective December 8, 2021 | 2021-12-08 |
+| 62 | Instructions | 841003p | 841003p.pdf | DoDI 8410.03, August 29, 2012, Incorporating Change 1 on July 19, 2017 | 2019-06-06 |
+| 63 | Instructions | 842002p | 842002p.pdf | DoD Instruction 8420.02, "DoD Satellite Communications," August 3, 2023 | 2023-08-03 |
+| 64 | Instructions | 850001_2014 | 850001_2014.pdf | DoDI 8500.01, March 14, 2014, Incorporating Change 1 on October 7, 2019 | 2019-10-07 |
+| 65 | Instructions | 851001p | 851001p.pdf | DoDI 8510.01, "Risk Management Framework for DoD Systems," July 19, 2022 | 2022-07-19 |
+| 66 | Instructions | 852002p | 852002p.pdf | DoD Instruction 8520.02 "Public Key Infrastructure and Public Key Enabling," May 18, 2023 | 2023-05-18 |
+| 67 | Instructions | 852003p | 852003p.pdf | DoDI 8520.03, "Identity Authentication for Information Systems," May 19, 2023 | 2023-05-19 |
+| 68 | Instructions | 852004p | 852004p.pdf | DoD Instruction 8520.04, "Access Management for DoD Information Systems," September 3, 2024 | 2024-09-03 |
+| 69 | Instructions | 852301p | 852301p.pdf | DoDI 8523.01, "Communications Security," January 6, 2021 | 2021-01-06 |
+| 70 | Instructions | 853001p | 853001p.pdf | DoDI 8530.01, March 7, 2016, Incorporating Change 1, July 25, 2017 | 2019-02-26 |
+| 71 | Instructions | 853003p | 853003p.pdf | DoDI 8530.02, "Cyber Incident Response," August 9, 2023 | 2023-08-08 |
+| 72 | Instructions | 853101p | 853101p.pdf | DoDI 8531.01, "DoD Vulnerability Management," September 15, 2020 | 2020-09-15 |
+| 73 | Instructions | 854001p | 854001p.pdf | DoDI 8540.01, 05/08/2015, Incorporating Change 1, 8/28/2017 | 2019-02-26 |
+| 74 | Instructions | 855101p | 855101p.pdf | DoD Instruction 8551.01, "Ports, Protocols, and Services Management," May 31, 2023 | 2023-05-31 |
+| 75 | Instructions | 856001p | 856001p.pdf | DoDI 8560.01, August 22, 2018 | 2018-08-22 |
+| 76 | Instructions | 858001p | 858001p.pdf | DoD Instruction 8580.01, July 9, 2004 | 2007-06-04 |
+| 77 | Instructions | 858002_2015_dodi | 858002_2015_dodi.pdf | DoD Instruction 8580.02, August 12, 2015 | 2015-08-12 |
+| 78 | Instructions | 858201p | 858201p.pdf | DoD Instruction 8582.01 "Security of Non-DoD Instruction Systems Processing Unclassifided Nonpublic DoD Information, December 9, 2019" | 2019-12-09 |
+| 79 | Instructions | 858501p | 858501p.pdf | DoD Instruction 8585.01, "DoD Cyber Red Teams," January 11, 2024 | 2024-01-11 |
+| 80 | Manual | 134833_Vol04 | 134833_Vol04.pdf | DoD Manual 1348.33, Volume 4, "Manual of Military Decorations and Awards: DoD Joint Decorations and Awards," December 21, 2016; Incorporating Change 6 on September 19, 2023 | 2023-09-19 |
+| 81 | Manual | 134833_vol1 | 134833_vol1.pdf | DoDM 1348.33, Volume 1, "Manual of Military Decoration and Awards:  Medal of Honor," December 21, 2016; Change 5 Effective April 7, 2025 | 2025-04-07 |
+| 82 | Manual | 134833_vol3 | 134833_vol3.pdf | DoDM 1348.33, Volume 3, "Manual of Military Decorations and Awards: DoD-wide Personal Performance and Valor Decorations," December 21, 2016; Incorporating Change 5 on July 9, 2024 | 2024-07-09 |
+| 83 | Manual | 134833m_vol02 | 134833m_vol02.pdf | DoDM 1348.33, Volume 2, "Manual of Military Decorations and Awards:  DoD Service Awards - Campaign, Expeditionary, and Service Medals," December 21, 2016, Change 5 Effective January 19, 2024 | 2024-01-19 |
+| 84 | Manual | 520001_p | 520001_p.pdf | DoD Manual 5200.01, Volume 3, "DoD Information Security Program: Protection of Classified Information," February 24, 2012, Incorporating Change 4 on January 17, 2025 | 2025-04-10 |
+| 85 | Manual | 520001m_vol1 | 520001m_vol1.pdf | DoDM 5200.01, Volume 1, "DoD Information Security Program:  Overview, Classification, and Declassification," February 24, 2012; Incorporating Change 3 on January 17, 2025 | 2025-04-10 |
+| 86 | Manual | 520001m_vol2 | 520001m_vol2.pdf | DoDM 5200.01, Volume 2, "DoD Information Security Program: Marking of Information," February 24, 2012, Incorporating Change 4 on July 28, 2020 | 2020-08-04 |
+| 87 | Manual | 520008rm | 520008rm.pdf | DoD 5200.08-R, "Physical Security Program," April 9, 2007; Incorporating Change 2 on October 19, 2020 | 2020-10-16 |
+| 88 | Manual | 520502m | 520502m.pdf | DoDM 5205.02, "DoD Operations Security (OPSEC) Program Manual," November 3, 2008; Incorporating Change 2 on October 29, 2020 | 2020-10-28 |
+| 89 | Manual | 540007_dodm_2017 | 540007_dodm_2017.pdf | DoD Manual 5400.07, January 25, 2017 | 2017-01-25 |
+| 90 | Manual | 540011r | 540011r.pdf | DoD 5400.11-R, May 14, 2007 | 2007-05-17 |
+| 91 | Manual | 5500.07 placeholder | 5500.07 placeholder.pdf | DoD Instruction C-2000.23, July 15, 2008 | 2024-05-15 |
+| 92 | Manual | 814003p | 814003p.pdf | DoDM 8140.03, "Cyberspace Workfroce Qualification and Management Program," February 15, 2023 | 2023-02-15 |
 
 
 ---
 
-# MILPERSMAN — Military Personnel Manual
+# MILPERSMAN Consolidated PDF Manifest
 
-**Total Documents:** 821  
-**Source File:** milpersman.pdf  
-**Total Pages:** 3,748  
+**Source File:** milpersman.pdf
+**Total Pages:** 73
+**Total Documents:** 11
 
-| # | Document ID | Title | Pages | Date |
-|---|-------------|-------|-------|------|
-| 1 | MILPERSMAN 1000-020 | PAY AND PERSONNEL RECORD MAINTENANCE RESPONSIBILITIES | 2 | 11 Apr 2015 |
-| 2 | MILPERSMAN 1000-021 | COMMAND PAY AND PERSONNEL ADMINISTRATOR (CPPA) PROGRAM | 13 | 18 Oct 2021 |
-| 3 | MILPERSMAN 1000-025 | PERSONNEL TRANSACTION TIMELINESS | 2 | 14 Jan 2020 |
-| 4 | MILPERSMAN 1000-030 | ACTIVE DUTY SERVICE DATE (ADSD) FOR ENLISTED PERSONNEL | 2 | 02 Apr 2025 |
-| 5 | MILPERSMAN 1000-060 | MILITARY PERSONNEL SOCIAL SECURITY NUMBER (SSN) | 2 | 20 Oct 2013 |
-| 6 | MILPERSMAN 1000-090 | RACE ENTRIES ON FORMS, RECORDS, AND REPORTS | 7 | 20 Jun 2007 |
-| 7 | MILPERSMAN 1000-100 | HOME OF RECORD AND PLACE FROM WHICH ORDERED TO ACTIVE DUTY | 4 | 21 Nov 2015 |
-| 8 | MILPERSMAN 1000-110 | NAME AND ADDRESS LISTS OF MEMBERS OF THE NAVY AND NAVY RESERVE | 2 | 10 Nov 2005 |
-| 9 | MILPERSMAN 1000-120 | CORRECTION OF DATE OF BIRTH | 3 | 8 Nov 2011 |
-| 10 | MILPERSMAN 1000-130 | NAME CHANGE OF SERVICE MEMBER | 2 | 05 May 2024 |
-| 11 | MILPERSMAN 1000-140 | MAILING ADDRESS OF MEMBERS ON INACTIVE DUTY | 3 | 24 Feb 2011 |
-| 12 | MILPERSMAN 1000-150 | BOARD FOR CORRECTION OF NAVAL RECORDS (BCNR) | 3 | 2 Feb 2006 |
-| 13 | MILPERSMAN 1000-160 | NAVAL DISCHARGE REVIEW BOARD (NDRB) | 2 | 21 Aug 2006 |
-| 14 | MILPERSMAN 1000-170 | SAILING DIARY | 5 | 29 May 2025 |
-| 15 | MILPERSMAN 1001-020 | TRAINING AND ADMINISTRATION OF THE RESERVE (TAR) NAVY RESERVE OFFICER PROGRAM | 5 | 06 Dec 2023 |
-| 16 | MILPERSMAN 1001-021 | FULL-TIME SUPPORT (FTS) OF THE NAVY RESERVE ENLISTED PROGRAM | 3 | 3 Jul 2019 |
-| 17 | MILPERSMAN 1001-022 | PERMANENT PROFESSIONAL RECRUITER (PPR) DESIGNATOR OF THE NAVY RESERVE OFFICER PROGRAM | 3 | 02 Oct 2023 |
-| 18 | MILPERSMAN 1001-030 | CIVILIAN EMPLOYMENT OF INACTIVE DUTY NAVY RESERVISTS | 1 | 16 Sep 2005 |
-| 19 | MILPERSMAN 1001-040 | FOREIGN TRAVEL AND RESIDENCE OF INACTIVE DUTY NAVY RESERVISTS | 1 | 13 Sep 2005 |
-| 20 | MILPERSMAN 1001-060 | ASSIGNMENT OF ENLISTED NAVAL RESERVISTS TO ACTIVE DUTY | 2 |  |
-| 21 | MILPERSMAN 1001-070 | INACTIVE DUTY RESERVISTS WHO ARE STUDENTS OR GRADUATES OF MEDICAL SCHOOLS OR THEOLOGICAL STUDIES | 3 | 15 Sep 2005 |
-| 22 | MILPERSMAN 1001-080 | MINIMUM REQUIRED SERVICE OF NAVY RESERVE OFFICERS WITH AN INITIAL 3 TO 6 MONTHS OF ACTIVE DUTY FOR TRAINING IN LIEU OF 2 OR MORE YEARS ACTIVE DUTY | 1 |  |
-| 23 | MILPERSMAN 1001-090 | MINIMUM REQUIRED ACTIVE SERVICE OF RESERVE OFFICERS | 1 | 1 Jun 2016 |
-| 24 | MILPERSMAN 1001-100 | NAVY RESERVE STATUS AND CATEGORIES | 13 | 12 Oct 2015 |
-| 25 | MILPERSMAN 1001-125 | REQUIREMENTS FOR TRANSFER FROM SELECTED RESERVE OR INDIVIDUAL READY RESERVE–VOLUNTARY TRAINING UNIT TO THE INDIVIDUAL READY RESERVE–ACTIVE STATUS POOL, STANDBY RESERVE–ACTIVE, OR STANDBY RESERVE–INACTIVE | 9 | 9 Oct 2019 |
-| 26 | MILPERSMAN 1001-135 | SCREENING REQUIREMENTS FOR INDIVIDUAL READY RESERVE– ACTIVE STATUS POOL | 2 | 20 Feb 2018 |
-| 27 | MILPERSMAN 1001-145 | _______________________________________________________________ | 7 | 8 Oct 2019 |
-| 28 | MILPERSMAN 1001-150 | NAVY RESERVE PARTICIPATION REQUIREMENTS Responsibl e Office NAVPERSCOM (PERS-91) | 12 |  |
-| 29 | MILPERSMAN 1001-170 | RESERVE FAMILY MEMBER IDENTIFICATION CARDS AND DEFENSE ENROLLMENT ELIGIBILITY SYSTEM (DEERS) ENROLLMENT PROGRAM | 3 | 14 Aug 2024 |
-| 30 | MILPERSMAN 1001-260 | TARGETED RE-ENTRY PROGRAM | 14 | 29 Sep 2020 |
-| 31 | MILPERSMAN 1050-010 | LEAVE | 15 | 29 Mar 2013 |
-| 32 | MILPERSMAN 1050-050 | HOSPITALIZATION WHILE ON LEAVE | 2 | 16 Feb 2012 |
-| 33 | MILPERSMAN 1050-070 | SPECIAL LEAVE ACCRUAL | 8 | 22 Jan 2010 |
-| 34 | MILPERSMAN 1050-080 | COMPUTATION OF LEAVE - OVERVIEW | 1 |  |
-| 35 | MILPERSMAN 1050-081 | COMPUTATION OF LEAVE - GENERAL INSTRUCTIONS | 2 |  |
-| 36 | MILPERSMAN 1050-082 | COMPUTATION OF LEAVE - EXAMPLES OF CHARGING LEAVE, PROCEED, AND TRAVEL TIME | 6 |  |
-| 37 | MILPERSMAN 1050-083 | COMPUTATION OF LEAVE - EXAMPLE OF CHARGING LEAVE DURING PCS WITH TDY EN ROUTE | 2 |  |
-| 38 | MILPERSMAN 1050-084 | COMPUTATION OF LEAVE -EXAMPLES OF CHARGING LEAVE WHEN NO TRAVEL AND PROCEED TIME AUTHORIZED | 2 |  |
-| 39 | MILPERSMAN 1050-085 | COMPUTATION OF LEAVE -EXAMPLE OF CHARGING LEAVE WHEN UNACCOUNTED TIME EXISTS | 2 |  |
-| 40 | MILPERSMAN 1050-090 | LEAVE: DAY OF DEPARTURE/RETURN | 3 | 17 May 2022 |
-| 41 | MILPERSMAN 1050-100 | Leave: Check-In/Check-Out Procedures | 4 | 05 Sep 2025 |
-| 42 | MILPERSMAN 1050-110 | ABSENCES OVER LEAVE OR LIBERTY (AOL) | 4 |  |
-| 43 | MILPERSMAN 1050-120 | SEPARATION LEAVE | 7 |  |
-| 44 | MILPERSMAN 1050-130 | EMERGENCY LEAVE | 4 |  |
-| 45 | MILPERSMAN 1050-140 | COMPUTATION OF EMERGENCY LEAVE INVOLVING GOVERNMENT - FUNDED TRAVEL | 7 |  |
-| 46 | MILPERSMAN 1050-150 | LEAVE EN ROUTE IN EXECUTION OF ORDERS | 4 |  |
-| 47 | MILPERSMAN 1050-160 | LEAVEDURINGTEMPORARY DUTY OR TEMPORARY ADDITIONAL DUTY | 2 |  |
-| 48 | MILPERSMAN 1050-170 | LEAVE IN CONJUNCTION WITHTEMPORARY ADDITIONAL DUTY | 2 |  |
-| 49 | MILPERSMAN 1050-180 | C ONVALESCENT LEAVE | 3 | 27 Mar 2023 |
-| 50 | MILPERSMAN 1050-190 | SICK IN QUARTERS (SIQ) S TATUS | 1 |  |
-| 51 | MILPERSMAN 1050-200 | REST AND RECUPERATION LEAVE PROGRAM | 4 | 4 Apr 2012 |
-| 52 | MILPERSMAN 1050-210 | ENVIRONMENTAL AND MORALELEAVE(EML) | 3 |  |
-| 53 | MILPERSMAN 1050-220 | RECRUITING ASSISTANCE LEAVE PROGRAM | 1 | 10 Sep 2014 |
-| 54 | MILPERSMAN 1050-230 | LEAVE FOR MIDSHIPMEN | 1 |  |
-| 55 | MILPERSMAN 1050-240 | LEAVE FOR NAVALACADEMYMIDSHIPMEN CANDIDATES WHO AREGRADUATES OF NAVALACADEMYPREPARATORY SCHOOL | 1 |  |
-| 56 | MILPERSMAN 1050-250 | FOREIGN LEAVE TRAVEL | 5 | 14 Jun 2007 |
-| 57 | MILPERSMAN 1050-260 | LEAVE/EMERGENCY LEAVE IN THE REPUBLIC OF THE PHILIPPINES | 3 |  |
-| 58 | MILPERSMAN 1050-270 | ADMINISTRATIVE ABSENCES | 6 | 10 May 2017 |
-| 59 | MILPERSMAN 1050-271 | POST-DEPLOYMENT MOBILIZATION RESPITEABSENCE FOR ACTIVEDUTYPERSONNEL | 5 | 2 Aug 2007 |
-| 60 | MILPERSMAN 1050-272 | POST-DEPLOYMENT/MOBILIZATION RESPITE ABSENCE FOR MOBILIZED RESERVE COMPONENT PERSONNEL | 19 | 11 Apr 2015 |
-| 61 | MILPERSMAN 1050-280 | DEFINITION OF LIBERTY | 2 |  |
-| 62 | MILPERSMAN 1050-290 | POLICY CONCERNING LIBERTY | 4 | 25 Feb 2015 |
-| 63 | MILPERSMAN 1050-310 | APPELLATE LEAVE | 1 | 21 Nov 2023 |
-| 64 | MILPERSMAN 1050-320 | REQUEST (VOLUNTARY) APPELLATE LEAVE | 5 | 24 Jan 2024 |
-| 65 | MILPERSMAN 1050-340 | MANDATORY (INVOLUNTARY) APPELLATE LEAVE | 4 | 28 Feb 2024 |
-| 66 | MILPERSMAN 1050-350 | Appellate Review | 3 | 28 Feb 2024 |
-| 67 | MILPERSMAN 1050-360 | PROCEDURES FOR RECALLING A MEMBER FROM APPELLATE LEAVE | 2 | 23 Feb 2009 |
-| 68 | MILPERSMAN 1050-400 | ACCRUED LEAVE CREDITABLE UPON RETIREMENT | 2 | 20 Apr 2012 |
-| 69 | MILPERSMAN 1050-410 | CONSECUTIVE OVERSEAS TOUR (COT) AND IN-PLACE CONSECUTIVE OVERSEAS TOUR (IPCOT) LEAVE TRAVEL ENTITLEMENT | 7 |  |
-| 70 | MILPERSMAN 1050-440 | ADMINISTRATIVE ABSENCE TO OBTAIN A LEGAL MARRIAGE | 4 | 25 Sep 2013 |
-| 71 | MILPERSMAN 1070-020 | OFFICER OFFICIAL MILITARY PERSONNEL FILE (OMPF) | 6 | 18 Apr 2024 |
-| 72 | MILPERSMAN 1070-030 | CREATING THE OFFICER PERMANENT PERSONNEL RECORD | 3 | 27 Mar 2024 |
-| 73 | MILPERSMAN 1070-080 | ENLISTED OFFICIAL MILITARY PERSONNEL FILE (OMPF) | 6 | 26 Jun 2024 |
-| 74 | MILPERSMAN 1070-090 | CREATING THE ENLISTED PERMANENT PERSONNEL RECORD | 3 |  |
-| 75 | MILPERSMAN 1070-111 | SUBMISSION OF NAVY STANDARD INTEGRATED PERSONNEL SYSTEM (NSIPS) AND ELECTRONIC SERVICE RECORD (ESR) DOCUMENTS TO THE OFFICIAL MILITARY PERSONNEL FILE (OMPF) | 4 | 14 May 2015 |
-| 76 | MILPERSMAN 1070-150 | REQUESTS FOR RECORDS INCLUDED IN THE OFFICIAL MILITARY PERSONNEL FILE (OMPF) | 4 | 31 Jul 2024 |
-| 77 | MILPERSMAN 1070-181 | OFFICER PHOTOGRAPHS | 3 | 30 Sep 2024 |
-| 78 | MILPERSMAN 1070-230 | DD 4 ENLISTMENT/REENLISTMENT DOCUMENT -ARMED FORCES OF THE UNITED STATES | 1 | 12 Jun 2023 |
-| 79 | MILPERSMAN 1070-240 | NAVPERS 1070/601, IMMEDIATE REENLISTMENT CONTRACT | 2 |  |
-| 80 | MILPERSMAN 1070-250 | NAVPERS 1070/621, AGREEMENT TO EXTEND ENLISTMENT | 2 |  |
-| 81 | MILPERSMAN 1070-260 | NAVPERS 1070/622, A GREEMENT TO RECALL OR EXTEND ACTIVE DUTY | 1 |  |
-| 82 | MILPERSMAN 1070-270 | and | 7 | 1 May 2019 |
-| 83 | MILPERSMAN 1070-271 | ________________________________________________________________ | 5 | 20 Jan 2019 |
-| 84 | MILPERSMAN 1070-300 | NAVPERS 1070/606, R ECORD OF UNAUTHORIZED ABSENCE | 1 | 2 Sep 2004 |
-| 85 | MILPERSMAN 1070-310 | NAVPERS 1070/607 COURT MEMORANDUM | 1 | 18 Oct 2019 |
-| 86 | MILPERSMAN 1070-320 | ADMINISTRATIVE REMARKS | 7 | 21 Oct 2019 |
-| 87 | MILPERSMAN 1070-330 | NAVPERS 1070/615, RECORD OF DISCHARGE FROM THE | 2 | 14 Mar 2017 |
-| 88 | MILPERSMAN 1070-340 | DD 214 CERTIFICATE OF RELEASE OR DISCHARGE FROM ACTIVE DUTY | 1 | 15 May 2023 |
-| 89 | MILPERSMAN 1070-360 | NAVPERS 1070/887 SEX OFFENSE ACCOUNTABILITY RECORD | 3 | 30 Dec 2015 |
-| 90 | MILPERSMAN 1080-010 | NAVPERS 18068F, MANUAL OF NAVY ENLISTED MANPOWER AND PERSONNEL CLASSIFICATIONS AND OCCUPATIONAL STANDARDS | 2 | 18 Jul 2008 |
-| 91 | MILPERSMAN 1080-020 | NAVPERS 15839I, MANUAL OF NAVY OFFICER MANPOWER AND PERSONNEL CLASSIFICATIONS | 1 | 22 Jul 2008 |
-| 92 | MILPERSMAN 1100-011 | FIRST ENLISTMENTS AND THE MILITARY SERVICE OBLIGATION | 5 | 09 Jan 2026 |
-| 93 | MILPERSMAN 1100-020 | APPOINTMENT IN THE NURSE CORPS OF THE NAVY ON ACTIVE DUTY | 3 | 15 Aug 2007 |
-| 94 | MILPERSMAN 1100-030 | PROCEDURES FOR EFFECTING APPOINTMENTS AND DELIVERING ORIGINAL COMMISSIONS | 4 | 30 Jul 2024 |
-| 95 | MILPERSMAN 1100-050 | ELIGIBILITY REQUIREMENTS FOR MEMBERSHIP IN THE READY RESERVE | 1 | 28 Jul 2005 |
-| 96 | MILPERSMAN 1100-060 | SUBMISSION OF APPLICATION FOR VOLUNTARY TERMINATION OF TEMPORARY APPOINTMENT AND REVERSION OF LIMITED DUTY OFFICERS (LDOs) | 5 | 15 Sep 2006 |
-| 97 | MILPERSMAN 1131-040 | APPOINTMENT OF OFFICERS IN THE NAVY RESERVE, PRIOR SERVICE | 5 | 28 May 2024 |
-| 98 | MILPERSMAN 1131-050 | MEDICAL ENLISTED COMMISSIONING PROGRAM | 2 | 21 Jun 2007 |
-| 99 | MILPERSMAN 1133-020 | NAVY RESERVE ENLISTMENT PROGRAMS | 2 | 24 May 2018 |
-| 100 | MILPERSMAN 1133-060 | PRIOR SERVICE (PRISE) III PROGRAM | 4 | 20 May 2017 |
-| 101 | MILPERSMAN 1133-061 | PRIOR SERVICE RE-ENLISTMENT ELIGIBILITY – RESERVE | 14 | 28 Oct 2024 |
-| 102 | MILPERSMAN 1133-062 | ACTIVE COMPONENT AND FULL TIME SUPPORT (FTS) TO SELECTED RESERVE (SELRES) DELAYED AFFILIATION PROGRAM (DAP) | 11 | 13 Jan 2020 |
-| 103 | MILPERSMAN 1133-070 | FULFILLMENT OF THE 8-YEAR OBLIGATION | 2 | 13 Apr 2005 |
-| 104 | MILPERSMAN 1133-090 | NEW ACCESSION TRAINING (NAT) PROGRAM | 11 | 24 Apr 2018 |
-| 105 | MILPERSMAN 1160-010 | AGE LIMITATION OF ENLISTED PERSONNEL FOR CONTINUATION ON ACTIVE DUTY | 3 | 1 Feb 2020 |
-| 106 | MILPERSMAN 1160-020 | ENLISTMENT AND REENLISTMENT CEREMONY AND RECOGNITION ITEMS | 3 | 06 Mar 2026 |
-| 107 | MILPERSMAN 1160-030 | ENLISTMENTS AND REENLISTMENTS UNDER CONTINUOUS SERVICE CONDITIONS | 15 |  |
-| 108 | MILPERSMAN 1160-031 | REQUIRED COUNSELING UPON ENLISTMENT AND REENLISTMENT | 2 | 30 Jul 2024 |
-| 109 | MILPERSMAN 1160-040 | EXTENSION OF ENLISTMENTS | 13 | 11 Apr 2021 |
-| 110 | MILPERSMAN 1160-050 | Voluntary or Involuntary Extension of Enlisted Personnel Beyond Expiration of Enlistment, Fulfillment of Service Obligation, or Expiration of Tour of Active Service | 10 | 29 Dec 2025 |
-| 111 | MILPERSMAN 1160-060 | AGREEMENTS OF ENLISTED NAVAL RESERVISTS , FLEET RESERVISTS , AND INDUCTEES TO REMAIN ON ACTIVE DUTY | 3 |  |
-| 112 | MILPERSMAN 1160-070 | REENLISTMENT /EXTENSION OF ENLISTMENT IN THE INDIVIDUAL READY RESERVE (IRR) | 5 | 28 Dec 2006 |
-| 113 | MILPERSMAN 1160-100 | SELECTIVE TRAINING AND REENLISTMENT (STAR) P ROGRAM | 7 | 13 Feb 2023 |
-| 114 | MILPERSMAN 1160-120 | ACTIVE COMPONENT AND TRAINING AND ADMINISTRATION OF THE RESERVE HIGH YEAR TENURE PROGRAM | 11 | 13 Jul 2023 |
-| 115 | MILPERSMAN 1160-135 | HIGH YEAR TENURE AND LENGTH OF SERVICE FOR SELECTED RESERVE, INDIVIDUAL READY RESERVE (VOLUNTARY TRAINING UNIT & ACTIVE STATUS POOL), AND STANDBY RESERVE–ACTIVE (USNR-S1) | 18 | 22 Apr 2025 |
-| 116 | MILPERSMAN 1160-140 | CAREER WAYPOINTS | 8 | 3 Jul 2024 |
-| 117 | MILPERSMAN 1200-010 | SUBMARINE PATROL INSIGNIA QUALIFICATIONS | 2 | 23 Jan 2024 |
-| 118 | MILPERSMAN 1200-020 | DEEP SUBMERGENCE INSIGNIA QUALIFICATIONS | 1 | 23 Jan 2024 |
-| 119 | MILPERSMAN 1200-030 | SMALL CRAFT INSIGNIA | 3 | 23 Jul 2021 |
-| 120 | MILPERSMAN 1200-040 | CRAFTMASTER INSIGNIA | 2 | 17 Oct 2022 |
-| 121 | MILPERSMAN 1200-050 | ORGANIZATION OF THE ENLISTED CLASSIFICATION PROGRAM | 2 | 14 Jul 2009 |
-| 122 | MILPERSMAN 1200-070 | NUCLEAR WEAPONS SECURITY (NWS) INSIGNIA | 3 | 20 May 2024 |
-| 123 | MILPERSMAN 1210-010 | NAVAL AVIATOR AND FLIGHT OFFICER DESIGNATIONS | 4 | 30 May 2017 |
-| 124 | MILPERSMAN 1210-020 | NAVAL ASTRONAUT DESIGNATION | 1 | 18 Apr 2008 |
-| 125 | MILPERSMAN 1210-030 | FLIGHT SURGEON | 3 | 7 Feb 2020 |
-| 126 | MILPERSMAN 1210-040 | FLIGHT NURSE SUBSPECIALTY DESIGNATION | 2 | 11 Apr 2021 |
-| 127 | MILPERSMAN 1210-081 | MEDICAL SERVICE CORPS FLIGHT OFFICER DESIGNATION | 5 | 1 Jun 2019 |
-| 128 | MILPERSMAN 1210-090 | SURFACE WARFARE OFFICER (SWO) DESIGNATION | 4 | 27 Sep 2006 |
-| 129 | MILPERSMAN 1210-100 | LINE OFFICER DESIGNATION : QUALIFIED IN SUBMARINES | 4 | 9 Jan 2015 |
-| 130 | MILPERSMAN 1210-110 | ENGINEERING DUTY OFFICER DESIGNATION : QUALIFIED IN SUBMARINES | 5 | 12 Aug 2021 |
-| 131 | MILPERSMAN 1210-111 | ENGINEERING DUTY OFFICER DIVER | 9 | 19 Mar 2026 |
-| 132 | MILPERSMAN 1210-120 | SUPPLY CORPS OFFICER DESIGNATION : QUALIFIED IN SUBMARINES | 2 |  |
-| 133 | MILPERSMAN 1210-130 | MEDICAL OFFICER DESIGNATION : QUALIFIED IN SUBMARINES | 3 | 18 Apr 2024 |
-| 134 | MILPERSMAN 1210-145 | DIVING CHIEF WARRANT OFFICER (7201) | 3 | 14 Jul 2025 |
-| 135 | MILPERSMAN 1210-150 | SURFACE WARFARE SUPPLY CORPS OFFICER DESIGNATION | 2 | 27 Sep 2006 |
-| 136 | MILPERSMAN 1210-160 | SURFACE WARFARE OFFICERS (SWO) (111X) REQUIREMENTS FOR COMMAND OF SURFACE SHIPS | 2 | 27 Sept 2006 |
-| 137 | MILPERSMAN 1210-170 | COMMAND AT SEA INSIGNIA: QUALIFICATIONS | 3 | 24 Apr 2021 |
-| 138 | MILPERSMAN 1210-180 | COMMAND ASHORE INSIGNIA: QUALIFICATIONS | 3 | 12 Mar 2023 |
-| 139 | MILPERSMAN 1210-190 | ACTIVE DUTY ENGINEERING DUTY OFFICER (1440): QUALIFICATIONS | 2 | 3 Apr 2009 |
-| 140 | MILPERSMAN 1210-200 | INACTIVE DUTY ENGINEERING DUTY OFFICER (1445): QUALIFICATIONS NAVSEASYSCOM (10R) | 2 | 29 Dec 2006 |
-| 141 | MILPERSMAN 1210-210 | INFORMATION WARFARE OFFICER QUALIFICATION | 1 | 13 Apr 2010 |
-| 142 | MILPERSMAN 1210-220 | NAVAL SPECIAL WARFARE (NSW) OFFICER – SEA-AIR-LAND (SEAL) | 4 | 8 Nov 2021 |
-| 143 | MILPERSMAN 1210-230 | EXPLOSIVE ORDNANCE DISPOSAL (EOD) OFFICER | 11 | 09 Mar 2026 |
-| 144 | MILPERSMAN 1210-240 | FLIGHT METEOROLOGIST QUALIFICATIONS | 2 | 24 Apr 2018 |
-| 145 | MILPERSMAN 1210-250 | SPECIAL EVALUATOR/NON-AERONAUTICALLY DESIGNATED OFFICERS ASSIGNED DUTY INVOLVING FLYING | 2 | 16 Jul 2007 |
-| 146 | MILPERSMAN 1210-260 | AVIATION OPERATIONS OFFICERS AND NON-AERONAUTICALLY DESIGNATED OFFICERS AND ENLISTED ASSIGNED DUTY INVOLVING FLYING | 5 | 2 Aug 2018 |
-| 147 | MILPERSMAN 1210-270 | OFFICER DESIGNATION CODES | 1 |  |
-| 148 | MILPERSMAN 1210-280 | DESIGNATION OF LIMITED DUTY OR CHIEF WARRANT OFFICER AS ELIGIBLE TO SUCCEED TO COMMAND | 1 |  |
-| 149 | MILPERSMAN 1210-300 | SURFACE WARFARE MEDICAL DEPARTMENT OFFICER (SWMDO) QUALIFICATION AND DESIGNATION | 2 | 27 Sep 2006 |
-| 150 | MILPERSMAN 1210-310 | NAVY OCEAN FACILITIES PROGRAM (OFP) OFFICER | 9 | 14 Mar 2017 |
-| 151 | MILPERSMAN 1210-320 | NAVY EXPEDITIONARY SUPPLY CORPS OFFICER DESIGNATION | 2 | 2 Oct 2013 |
-| 152 | MILPERSMAN 1212-010 | LATERAL TRANSFER AND CHANGE OF DESIGNATOR CODES OF REGULAR AND RESERVE OFFICER | 16 | 21 Jun 2022 |
-| 153 | MILPERSMAN 1212-020 | REDESIGNATION PROCEDURES FOR LIMITED DUTY OFFICERS (LDO) AND CHIEF WARRANT OFFICERS (CWO) WITHIN THEIR RESPECTIVE COMMUNITIES | 4 | 24 Aug 2021 |
-| 154 | MILPERSMAN 1212-030 | REDESIGNATION OF LIMITED DUTY OFFICERS | 3 | 29 Nov 2022 |
-| 155 | MILPERSMAN 1212-040 | ENGINEERING DUTY (ED) OPTION PROGRAM | 5 | 22 Feb 2020 |
-| 156 | MILPERSMAN 1212-050 | INFORMATION WARFARE COMMUNITY (IWC) OPTION PROGRAM | 5 | 3 Jul 2019 |
-| 157 | MILPERSMAN 1213-020 | SUSPENSION AND REMOVAL OF FOREIGN AREA OFFICER (FAO) ADDITIONAL QUALIFICATION DESIGNATORS (AQDs) | 5 | 8 Oct 2011 |
-| 158 | MILPERSMAN 1214-010 | OFFICER SUBSPECIALTY SYSTEM | 3 | 23 Jan 2008 |
-| 159 | MILPERSMAN 1220-010 | AIRCREW AND AVIATION RESCUE SWIMMER PROGRAMS | 12 | 22 Aug 2025 |
-| 160 | MILPERSMAN 1220-020 | NAVAL AIRCREW WARFARE SPECIALIST (NAWS) DESIGNATION | 6 | 9 Feb 2019 |
-| 161 | MILPERSMAN 1220-022 | U.S. MARINE CORPS (USMC) COMBAT AIRCREW INSIGNIA | 2 | 17 Oct 2008 |
-| 162 | MILPERSMAN 1220-030 | PARACHUTIST DESIGNATION AND DUTY | 8 | 18 Apr 2020 |
-| 163 | MILPERSMAN 1220-040 | SUBMARINE QUALIFICATIONS DESIGNATION FOR ENLISTED MEMBERS | 8 | 14 Jun 2018 |
-| 164 | MILPERSMAN 1220-050 | ENLISTED SURFACE WARFARE SPECIALIST (ESWS) DESIGNATION | 3 | 27 Sep 2006 |
-| 165 | MILPERSMAN 1220-060 | ENLISTED AVIATION WARFARE SPECIALIST (EAWS) DESIGNATION | 3 |  |
-| 166 | MILPERSMAN 1220-070 | ENLISTED EXPLOSIVE ORDNANCE DISPOSAL WARFARE (EWS) SPECIALIST DESIGNATION OPNAV (N85) | 2 | 10 Mar 2010 |
-| 167 | MILPERSMAN 1220-080 | ENLISTED DIVING WARFARE SPECIALIST (DWS) DESIGNATION | 2 | 30 Sep 2022 |
-| 168 | MILPERSMAN 1220-100 | NAVY DIVER (ND) RATING | 32 | 18 Aug 2025 |
-| 169 | MILPERSMAN 1220-101 | U.S. MARINE CORPS (USMC) MARINE COMBATANT DIVER | 3 |  |
-| 170 | MILPERSMAN 1220-102 | Self-Contained Underwater Breathing Apparatus (SCUBA) Diver Program | 19 | 14 May 2025 |
-| 171 | MILPERSMAN 1220-200 | EXPLOSIVE ORDNANCE DISPOSAL (EOD) RATING | 19 | 14 Aug 2024 |
-| 172 | MILPERSMAN 1220-280 | HAZARDOUS DUTY INCENTIVE PAY (HDIP) FOR DEMOLITION DUTY | 3 | 6 Aug 2022 |
-| 173 | MILPERSMAN 1220-300 | SPECIAL WARFARE OPERATOR (SO) RATING | 18 | 24 Jun 2022 |
-| 174 | MILPERSMAN 1220-350 | ASSAULT BOAT COXSWAIN QUALIFICATIONS | 3 | 2 June 2006 |
-| 175 | MILPERSMAN 1220-360 | DAMAGE CONTROL SCENE LEADER QUALIFICATIONS | 1 | 16 May 2006 |
-| 176 | MILPERSMAN 1220-370 | ENLISTED EXPEDITIONARY WARFARE (EXW) SPECIALIST DESIGNATION | 2 | 22 Dec 2006 |
-| 177 | MILPERSMAN 1220-400 | SPECIAL WARFARE BOAT OPERATOR (SB) RATING | 17 | 02 May 2023 |
-| 178 | MILPERSMAN 1220-410 | SEA-AIR-LAND (SEAL)/EXPLOSIVE ORDNANCE DISPOSAL (EOD)/SPECIAL WARFARE COMBATANT -CRAFT CREWMAN (SWCC)/DIVER/AVIATION RESCUE SWIMMER (AIRR) PHYSICAL SCREENING TESTING STANDARDS AND PROCEDURES | 11 | 3 Dec 2021 |
-| 179 | MILPERSMAN 1221-021 | NAVY ENLISTED CLASSIFICATION (NEC) CODE AWARD AND REMOVAL PROCEDURES | 2 | 11 Jun 2024 |
-| 180 | MILPERSMAN 1221-030 | PURPOSE AND SCOPE OF NAVY PERSONNEL CLASSIFICATION SYSTEM | 6 | 17 Oct 2008 |
-| 181 | MILPERSMAN 1223-010 | ENLISTED PAYGRADES AND TITLES | 1 | 18 Jul 2008 |
-| 182 | MILPERSMAN 1236-010 | ARMED FORCES CLASSIFICATION TEST (AFCT) ADMINISTRATION AND PROCEDURES FOR NAVY PERSONNEL | 5 | 14 Apr 2021 |
-| 183 | MILPERSMAN 1236-020 | (Scanned/image-only — text not extractable) | 3 |  |
-| 184 | MILPERSMAN 1236-030 | SAFEGUARDING ENLISTED CLASSIFICATION TEST MATERIAL | 7 | 4 Jun 2011 |
-| 185 | MILPERSMAN 1300-010 | FLAG LEVEL REVIEW CONCERNING PERSONNEL ASSIGNMENT | 2 | 29 Aug 2005 |
-| 186 | MILPERSMAN 1300-035 | ASSIGNMENTS OUTSIDE THE DEPARTMENT OF DEFENSE (DOD) | 7 | 21 Oct 2016 |
-| 187 | MILPERSMAN 1300-060 | ADMINISTRATION OF NAVAL MEMBERS PERFORMING DUTY WITH THE ARMY, AIR FORCE, OR COAST GUARD | 6 | 29 Aug 2005 |
-| 188 | MILPERSMAN 1300-070 | ADMINISTRATION OF ARMY AND AIR FORCE MEMBERS PERFORMING DUTY WITH THE NAVY | 8 | 4 May 2016 |
-| 189 | MILPERSMAN 1300-081 | INTERSERVICE TRANSFER OF AN OFFICER OUT OF THE NAVY | 10 | 3 Jun 2011 |
-| 190 | MILPERSMAN 1300-082 | INTER-SERVICE TRANSFER OF AN OFFICER INTO THE NAVY | 9 | 28 May 2024 |
-| 191 | MILPERSMAN 1300-090 | PERMANENT CHANGE OF STATION (PCS) ENTITLEMENT | 1 | 2 Nov 2018 |
-| 192 | MILPERSMAN 1300-100 | PERMANENT CHANGE OF STATION (PCS) ENTITLEMENT | 4 |  |
-| 193 | MILPERSMAN 1300-110 | (Scanned/image-only — text not extractable) | 2 |  |
-| 194 | MILPERSMAN 1300-120 | PERMANENT CHANGE OF STATION (PCS) ENTITLEMENT | 3 | 20 Aug 2010 |
-| 195 | MILPERSMAN 1300-130 | (Scanned/image-only — text not extractable) | 2 |  |
-| 196 | MILPERSMAN 1300-150 | COMMAND SPONSORSHIP OF DEPENDENTS AT OVERSEAS DUTY STATIONS - OVERVIEW | 1 | 18 Aug 2010 |
-| 197 | MILPERSMAN 1300-160 | COMMAND SPONSORSHIP OF DEPENDENTS AT OVERSEAS DUTY STATIONS - APPLICABILITY AND DEFINITIONS | 3 | 10 Dec 2008 |
-| 198 | MILPERSMAN 1300-170 | COMMAND SPONSORSHIP OF DEPENDENTS AT OVERSEAS DUTY STATIONS - CRITERIA AND STATUS | 3 | 20 Aug 2010 |
-| 199 | MILPERSMAN 1300-180 | COMMAND SPONSORSHIP OF DEPENDENTS AT OVERSEAS DUTY STATIONS - STATUS CHANGE, PROHIBITIONS , AND DEPENDENT ENTRY APPROVAL | 4 | 26 Aug 2010 |
-| 200 | MILPERSMAN 1300-190 | COMMAND SPONSORSHIP OF DEPENDENTS AT OVERSEAS DUTY STATIONS - POLICIES ON TRANSPORTATION AT GOVERNMENT EXPENSE | 3 | 8 Nov 2010 |
-| 201 | MILPERSMAN 1300-200 | COMMAND SPONSORSHIP OF DEPENDENTS AT OVERSEAS DUTY STATIONS - POLICIES ON OVERSEAS STATION ALLOWANCES | 2 | 10 Dec 2008 |
-| 202 | MILPERSMAN 1300-210 | COMMAND SPONSORSHIP OF DEPENDENTS AT OVERSEAS DUTY STATIONS - POLICIES ON NONCOMMAND-SPONSORED DEPENDENTS | 2 | 8 Nov 2010 |
-| 203 | MILPERSMAN 1300-302 | SUITABILITY FOR OVERSEAS/REMOTE DUTY ASSIGNMENT AND SUITABILITY REPORTING | 24 | 20 Mar 2024 |
-| 204 | MILPERSMAN 1300-306 | OVERSEAS SCREENING DEFICIENCY REPORTS AND EARLY RETURN REQUEST | 6 | 3 Dec 2009 |
-| 205 | MILPERSMAN 1300-308 | OVERSEAS TOUR LENGTHS AND TYPES | 8 | 26 Nov 2018 |
-| 206 | MILPERSMAN 1300-310 | OVERSEAS EXTENSIONS | 2 | 2 Sep 2010 |
-| 207 | MILPERSMAN 1300-312 | UNITS TRANSITIONING TO OVERSEAS LOCATIONS | 3 | 27 Apr 2007 |
-| 208 | MILPERSMAN 1300-314 | DIEGO GARCIA ASSIGNMENTS | 2 | 3 Aug 2014 |
-| 209 | MILPERSMAN 1300-316 | DEPENDENT ENTRY APPROVAL INFORMATION | 2 | 30 Apr 2007 |
-| 210 | MILPERSMAN 1300-320 | NUCLEAR WEAPONS (NW) PERSONNEL RELIABILITY PROGRAM (PRP) PRELIMINARY SUITABILITY SCREENING | 8 | 20 Feb 2018 |
-| 211 | MILPERSMAN 1300-400 | DISLOCATION ALLOWANCE (DLA) AND SECRETARY OF THE NAVY FINDS (SECNAVFIND) | 4 | 12 Dec 2006 |
-| 212 | MILPERSMAN 1300-500 | REASSIGNMENTS FOR HUMANITARIAN REASONS (HUMS) | 19 | 12 Oct 2019 |
-| 213 | MILPERSMAN 1300-600 | TWILIGHT TOURS | 3 | 2 Aug 2019 |
-| 214 | MILPERSMAN 1300-700 | EXCEPTIONAL FAMILY MEMBER PROGRAM (EFMP) | 9 | 5 Nov 2018 |
-| 215 | MILPERSMAN 1300-800 | TRANSFER OF PERSONNEL TO OPERATIONAL DUTY (OPERATIONAL SCREENING) | 8 | 14 Nov 2011 |
-| 216 | MILPERSMAN 1300-802 | NAVY EXPEDITIONARY INTELLIGENCE COMMAND (NAVEXINTCOM) | 4 | 10 Jul 2024 |
-| 217 | MILPERSMAN 1300-803 | COASTAL RIVERINE FORCE (CRF) | 6 | 26 May 2016 |
-| 218 | MILPERSMAN 1300-804 | ASSIGNMENT TO COASTAL RIVERINE FORCE (CRF) TRAINING EVALUATION UNIT (TEU) | 2 | 7 Oct 2013 |
-| 219 | MILPERSMAN 1300-807 | NAVY EXPEDITIONARY LOGISTICS SUPPORT GROUP (NAVELSG) TYPE 2 SEA DUTY COMPONENTS | 5 |  |
-| 220 | MILPERSMAN 1300-996 | ASSIGNMENT TO NAVAL CRIMINAL INVESTIGATIVE SERVICE | 6 | 25 Jul 2019 |
-| 221 | MILPERSMAN 1300-1000 | MILITARY COUPLE AND SINGLE PARENT ASSIGNMENT | 8 | 05 Apr 2024 |
-| 222 | MILPERSMAN 1300-1100 | IMMEDIATE FAMILY MEMBER ASSIGNMENT OR REASSIGNMENT | 3 | 23 Feb 2007 |
-| 223 | MILPERSMAN 1300-1200 | SAFETY TRANSFERS | 9 | 6 Apr 2019 |
-| 224 | MILPERSMAN 1300-1205 | EXPEDITED TRANSFERS | 33 | 7 Feb 2022 |
-| 225 | MILPERSMAN 1300-1300 | ASSIGNMENT OF ACTIVE DUTY PERSONNEL WITH BLOODBORNE PATHOGENS (BBP) | 8 | 8 Nov 2021 |
-| 226 | MILPERSMAN 1300-1306 | ACTIVE DUTY PREGNANCY | 10 | 24 Aug 2018 |
-| 227 | MILPERSMAN 1300-1400 | LIMITED DUTY AND PHYSICAL EVALUATION BOARD | 20 | 15 May 2025 |
-| 228 | MILPERSMAN 1300-1401 | PERMANENT LIMITED DUTY | 9 | 26 Feb 2025 |
-| 229 | MILPERSMAN 1301-100 | OFFICER DISTRIBUTION - OVERVIEW | 10 | 1 Mar 2016 |
-| 230 | MILPERSMAN 1301-102 | OFFICER DISTRIBUTION - PROCESS | 9 | 18 Nov 2015 |
-| 231 | MILPERSMAN 1301-104 | OFFICER DISTRIBUTION - GENERAL TOUR LENGTHS AND ROTATIONS | 6 | 06 August 2003 |
-| 232 | MILPERSMAN 1301-106 | OFFICER DISTRIBUTION - TIME ON STATION (TOS) | 4 | 28 May 2021 |
-| 233 | MILPERSMAN 1301-108 | OFFICER DISTRIBUTION – RETAINABILITY | 6 | 28 May 2021 |
-| 234 | MILPERSMAN 1301-110 | OFFICER DISTRIBUTION - PRESCRIBED SEA TOUR (PST) AND RECOMMENDED SHORE TOUR LENGTHS | 39 | 08 Oct 2024 |
-| 235 | MILPERSMAN 1301-112 | OFFICER DISTRIBUTION - COMMAND TOUR LENGTHS | 3 | 22 Mar 2021 |
-| 236 | MILPERSMAN 1301-114 | OFFICER DISTRIBUTION - ASSIGNMENT TO /FROM NAVY PERSONNEL COMMAND (NAVPERSCOM) | 4 | 8 Jul 2022 |
-| 237 | MILPERSMAN 1301-116 | OFFICER DISTRIBUTION – U.S. MILITARY ACADEMY AND | 1 |  |
-| 238 | MILPERSMAN 1301-118 | OFFICER DISTRIBUTION - MAJOR DEFENSE ACQUISITION POSITION TOUR LENGTHS | 1 | 11 Apr 2021 |
-| 239 | MILPERSMAN 1301-120 | OFFICER DISTRIBUTION – JOINT DUTY ASSIGNMENT TOUR LENGTHS (O-6 AND BELOW) | 4 | 1 Sep 2017 |
-| 240 | MILPERSMAN 1301-122 | OFFICER DISTRIBUTION – TRANSFER OF OFFICERS TO OPERATIONAL DUTY (OPERATIONAL SCREENING) | 4 | 18 September 2003 |
-| 241 | MILPERSMAN 1301-200 | OFFICER SPECIAL ASSIGNMENTS | 3 | 29 Dec 2020 |
-| 242 | MILPERSMAN 1301-201 | OFFICER SPECIAL ASSIGNMENTS - ENSIGN “STASH” | 1 | 11 Sept 2003 |
-| 243 | MILPERSMAN 1301-202 | Officer Special Assignments – Nominative Billets/Nomination of Officers | 10 | 20 Mar 2025 |
-| 244 | MILPERSMAN 1301-203 | OFFICER SPECIAL ASSIGNMENTS – AIDE ASSIGNMENTS | 2 | 1 Apr 2016 |
-| 245 | MILPERSMAN 1301-205 | OFFICER SPECIAL ASSIGNMENTS - U. S. NAVAL ACADEMY | 2 | 21 Jun 2007 |
-| 246 | MILPERSMAN 1301-207 | OFFICER SPECIAL ASSIGNMENTS – DEFENSE ATTACHE’ | 10 | 3 Feb 2015 |
-| 247 | MILPERSMAN 1301-208 | OFFICER SPECIAL ASSIGNMENTS - NAVY RECRUITING COMMAND | 2 | 27 Apr 2007 |
-| 248 | MILPERSMAN 1301-209 | OFFICER SPECIAL ASSIGNMENTS - NAVAL RESERVE OFFICER TRAINING CORPS (NROTC) | 2 | 16 Apr 2008 |
-| 249 | MILPERSMAN 1301-210 | OFFICER SPECIAL ASSIGNMENTS – NAVY RECRUIT TRAINING COMMAND (NAVCRUITRACOM) | 1 | 21 Jun 2007 |
-| 250 | MILPERSMAN 1301-211 | OFFICER SPECIAL ASSIGNMENTS - NAVY HEADQUARTERS / STAFF LEVEL EQUAL OPPORTUNITY BILLETS | 1 | 15 Jun 2007 |
-| 251 | MILPERSMAN 1301-212 | OFFICER SPECIAL ASSIGNMENTS - NAVY FLIGHT DEMONSTRATION SQUADRON (BLUE ANGELS) ASSIGNMENTS | 2 | 4 Aug 2006 |
-| 252 | MILPERSMAN 1301-213 | OFFICER SPECIAL ASSIGNMENTS - RESERVE FLEET LOGISTICS SUPPORT SQUADRON (VR) | 1 | 09 Jul 2024 |
-| 253 | MILPERSMAN 1301-214 | OFFICER SPECIAL ASSIGNMENTS - NAVAL LEADERSHIP INSTRUCTOR (FACILITATOR ) ASSIGNMENTS | 2 | 14 Feb 2021 |
-| 254 | MILPERSMAN 1301-215 | OFFICER SPECIAL ASSIGNMENTS – BRIG/TRANSIENT PERSONNEL UNIT (TPU)/R EGIONAL RESTRICTION BARRACKS (RRB) | 3 | 15 Dec 2009 |
-| 255 | MILPERSMAN 1301-216 | OFFICER SPECIAL ASSIGNMENTS – JOINT DUTY ASSIGNMENTS (JDA) | 8 | 3 Jul 2019 |
-| 256 | MILPERSMAN 1301-217 | (Scanned/image-only — text not extractable) | 2 |  |
-| 257 | MILPERSMAN 1301-219 | OFFICER SPECIAL ASSIGNMENTS - LIMITED DUTY OFFICER (LDO) AND CHIEF WARRANT OFFICER (CWO) ASSIGNMENTS | 2 | 11 Sept 2003 |
-| 258 | MILPERSMAN 1301-220 | OFFICER SPECIAL ASSIGNMENTS - ENGINEERING DUTY OFFICER (EDO) | 3 | 17 May 2022 |
-| 259 | MILPERSMAN 1301-221 | OFFICER SPECIAL ASSIGNMENTS – TRAINING AND ADMINISTRATION OF THE RESERVE (TAR) | 4 | 3 Jul 2024 |
-| 260 | MILPERSMAN 1301-222 | OFFICER SPECIAL ASSIGNMENTS - SURFACE WARFARE OFFICER (SWO) DEPARTMENT HEAD AND DIVISION OFFICER ASSIGNMENTS TO AFLOAT BILLETS | 3 | 18 September 2003 |
-| 261 | MILPERSMAN 1301-223 | OFFICER SPECIAL ASSIGNMENTS – NUCLEAR QUALIFIED SURFACE WARFARE OFFICERS (SWO) TO CONVENTIONALLY POWERED SHIPS | 3 | 22 Apr 2019 |
-| 262 | MILPERSMAN 1301-224 | OFFICER SPECIAL ASSIGNMENTS - PRISONERS OF WAR (POW) REASSIGNMENTS | 1 | 10 Nov 2020 |
-| 263 | MILPERSMAN 1301-226 | OFFICER SPECIAL ASSIGNMENTS - TRAINING INSTRUCTOR DUTY | 1 | 28 June 2006 |
-| 264 | MILPERSMAN 1301-227 | OFFICER SPECIAL ASSIGNMENTS – OFFICERS WITHOUT SECURITY CLEARANCES | 2 | 1 Jun 2016 |
-| 265 | MILPERSMAN 1301-228 | OFFICER SPECIAL ASSIGNMENTS – OFFICERS NOT IN COMPLIANCE WITH PHYSICAL READINESS STANDARDS | 1 | 24 Aug 2018 |
-| 266 | MILPERSMAN 1301-229 | OFFICER SPECIAL ASSIGNMENTS - NAVAL INSPECTOR GENERAL (NAVINSGEN) ASSIGNMENTS TO STAFFS OF MAJOR COMMANDS | 2 | 15 Mar 2007 |
-| 267 | MILPERSMAN 1301-230 | (Scanned/image-only — text not extractable) | 2 |  |
-| 268 | MILPERSMAN 1301-233 | SPECIALTY CAREER PATH UPDATE | 6 | 14 Mar 2019 |
-| 269 | MILPERSMAN 1301-234 | OFFICER SPECIAL ASSIGNMENTS – HUMAN RESOURCES COMMUNITY | 8 | 05 Apr 2024 |
-| 270 | MILPERSMAN 1301-235 | COMMAND POLICIES AND PROCEDURES – SPECIFIC POLICIES RELATED TO SCREENING ENGINEERING DUTY OFFICERS TO COMMAND OR PROGRAM MANAGER ASSIGNMENTS | 8 | 21 Feb 2026 |
-| 271 | MILPERSMAN 1301-236 | OFFICER SPECIAL ASSIGNMENTS – AVIATION ACQUISITION PROFESSIONAL (AP) UNRESTRICTED LINE (URL) MAJOR PROGRAM MANAGER ELIGIBLE (MPM-E) CAREER PATH | 3 | 12 Aug 2024 |
-| 272 | MILPERSMAN 1301-237 | OFFICER SPECIAL ASSIGNMENTS – INFORMATION WARFARE LINE (IWL) OFFICER SELECTION AND ASSIGNMENT TO O-4 MILESTONE AND LEADERSHIP, O-5 MILESTONE AND COMMAND BILLETS, AND O-6 MAJOR COMMAND AND INFORMATION WARFARE COMMANDER BILLETS | 7 | 16 Feb 2026 |
-| 273 | MILPERSMAN 1301-239 | PUBLIC AFFAIRS OFFICER (PAO) MILESTONE AND COMMAND SCREENING QUALIFICATION AND ASSIGNMENT OR DECLINATION | 5 | 20 Feb 2024 |
-| 274 | MILPERSMAN 1301-240 | OFFICER SPECIAL ASSIGNMENTS - NAVY CYBER WARFARE DEVELOPMENT GROUP | 4 | 15 Dec 2022 |
-| 275 | MILPERSMAN 1301-500 | CONSIDERATION OF ACCESSIONS, INTERSERVICE TRANSFERS, AND RECALLS FOR ACTIVE DUTY PROMOTION SELECTION BOARDS | 2 | 29 Dec 2006 |
-| 276 | MILPERSMAN 1301-600 | VOLUNTARY AND INVOLUNTARY RECALL/MOBILIZATION OF | 4 | 22 Sep 2003 |
-| 277 | MILPERSMAN 1301-700 | ACQUISITION PROFESSIONAL MEMBERSHIP (APM) | 5 | 30 Sep 2024 |
-| 278 | MILPERSMAN 1301-710 | COMMAND POLICIES AND PROCEDURES – ACTIVE COMPONENT CHAPLAIN CORPS OFFICER SCREENING AND ASSIGNMENT TO COMMANDER MILESTONE BILLETS | 5 | 23 Jan 2021 |
-| 279 | MILPERSMAN 1301-800 | COMMAND POLICIES AND PROCEDURES - OVERVIEW | 6 | 4 Oct 2014 |
-| 280 | MILPERSMAN 1301-802 | COMMAND POLICIES AND PROCEDURES – SPECIFIC POLICIES RELATED TO COMMAND | 7 | 11 Nov 2018 |
-| 281 | MILPERSMAN 1301-804 | OFFICER POLICIES AND PROCEDURES – COMMAND SCREEN PROCEDURES | 7 | 4 Sep 2020 |
-| 282 | MILPERSMAN 1301-806 | COMMAND POLICIES AND PROCEDURES – COMMAND ASHORE | 3 | 2 Oct 2014 |
-| 283 | MILPERSMAN 1301-808 | COMMAND POLICIES AND PROCEDURES - ACQUISITION CORPS (AC) MAJOR ASSIGNMENT | 1 | 14 Aug 2007 |
-| 284 | MILPERSMAN 1301-809 | COMMAND POLICIES AND PROCEDURES – FOREIGN AREA OFFICER (FAO) ASSIGNMENTS TO MILESTONE BILLETS | 5 | 14 Jul 2025 |
-| 285 | MILPERSMAN 1301-810 | COMMAND POLICIES AND PROCEDURES - COMMAND OF MAJOR LABORATORIES | 1 | 13 Aug 2007 |
-| 286 | MILPERSMAN 1301-812 | COMMAND POLICIES AND PROCEDURES – SCREENING FOR FULL TIME SUPPORT COMMAND AND NAVY RESERVE ECHELON IV AND V COMMAND | 3 | 21 Sep 2015 |
-| 287 | MILPERSMAN 1301-815 | POLICIES AND PROCEDURES – ACTIVE COMPONENT MEDICAL DEPARTMENT OFFICER SCREENING AND ASSIGNMENT TO MEDICAL DEPARTMENT CAREER MILESTONE BILLETS | 4 | 16 Feb 2017 |
-| 288 | MILPERSMAN 1301-816 | COMMAND POLICIES AND PROCEDURES - NAVY RECRUITING DISTRICT EXECUTIVE OFFICER (XO) TO COMMANDING OFFICER (CO) FLEET-UP | 1 | 16 Jun 2012 |
-| 289 | MILPERSMAN 1301-818 | PROCEDURES FOR OFFICERS NOT DESIRING ORDERS TO COMMAND OR EXECUTIVE OFFICER | 3 | 29 Dec 2020 |
-| 290 | MILPERSMAN 1301-820 | COMMAND POLICIES AND PROCEDURES - COMMAND – EXECUTIVE OFFICER (XO) ASSIGNMENT COORDINATION | 3 | 22 Sep 2003 |
-| 291 | MILPERSMAN 1301-824 | COMMAND POLICIES AND PROCEDURES - MAJOR FLEET READINESS CENTER EXECUTIVE OFFICER (XO) TO COMMANDING OFFICER (CO) FLEET UP | 1 | 28 Apr 2012 |
-| 292 | MILPERSMAN 1301-826 | COMMAND POLICIES AND PROCEDURES - SHORE STATION SENIOR LEADERSHIP (SSSL) TRAINING REQUIREMENTS | 7 | 12 Jun 2024 |
-| 293 | MILPERSMAN 1301-900 | SUBSPECIALTY MANAGEMENT, GRADUATE EDUCATION, AND SERVICE COLLEGES | 8 | 12 Sep 2005 |
-| 294 | MILPERSMAN 1301-902 | SELECTION FOR FULLY-FUNDED GRADUATE EDUCATION NAVPERSCOM (PERS-440) | 10 | 26 Sep 2008 |
-| 295 | MILPERSMAN 1301-904 | SERVICE COLLEGES | 13 | 17 Apr 2024 |
-| 296 | MILPERSMAN 1301-906 | NAVY OFFICER LEADERSHIP CONTINUUM TRAINING | 7 | 7 Mar 2021 |
-| 297 | MILPERSMAN 1301-907 | NAVAL LEADER LEGAL TRAINING CONTINUUM | 4 | 08 May 2025 |
-| 298 | MILPERSMAN 1306-100 | ENLISTED DISTRIBUTION MANAGEMENT SYSTEM | 12 | 30 Nov 2010 |
-| 299 | MILPERSMAN 1306-101 | ENLISTED ASSIGNMENT SYSTEM | 7 | 5 Nov 2010 |
-| 300 | MILPERSMAN 1306-102 | TYPE DUTY ASSIGNMENT CODES | 3 | 27 Apr 2007 |
-| 301 | MILPERSMAN 1306-104 | PROJECTED ROTATION DATE (PRD) | 5 | 8 Aug 2014 |
-| 302 | MILPERSMAN 1306-106 | TIME ON STATION (TOS) AND RETAINABILITY OBLIGATED SERVICE (OBLISERV) | 8 | 4 May 2019 |
-| 303 | MILPERSMAN 1306-108 | ENLISTED MANNING INQUIRY REPORT (EMIR) | 3 | 4 May 2019 |
-| 304 | MILPERSMAN 1306-110 | ENLISTED DUTY P | 2 | 30 Aug 2011 |
-| 305 | MILPERSMAN 1306-112 | NAVPERS 1306/7, ENLISTED PERSONNEL ACTION REQUEST | 4 | 9 Jan 2015 |
-| 306 | MILPERSMAN 1306-114 | EARLY RETURN FOR CAUSE (ERFC) OF ENLISTED PERSONNEL | 4 | 14 Nov 2011 |
-| 307 | MILPERSMAN 1306-116 | PRESCRIBED SEA TOUR (PST)/N ORMAL SHORE TOUR (NST) | 7 | 9 Mar 2007 |
-| 308 | MILPERSMAN 1306-118 | ACTIVITY TOUR UPON COMPLETION OF AN OVERSEAS DEPARTMENT OF DEFENSE (DOD) AREA TOUR | 3 | 27 Apr 2007 |
-| 309 | MILPERSMAN 1306-120 | COMMANDING OFFICER SHIPBOARD OPERATIONAL HOLDS (OPHOLD) | 3 | 11 Dec 2019 |
-| 310 | MILPERSMAN 1306-122 | PERMANENT CHANGE OF STATION (PCS) AND PERMANENT CHANGE OF ACTIVITY (PCA) MOVE DETERMINATION | 2 | 14 May 2007 |
-| 311 | MILPERSMAN 1306-124 | TOUR EXTENSIONS AND SPLIT TOURS | 4 | 30 Aug 2011 |
-| 312 | MILPERSMAN 1306-125 | ENLISTED RECORD FLAGS | 3 | 3 Sep 2014 |
-| 313 | MILPERSMAN 1306-126 | FIRST-TERM PERSONNEL ASSIGNMENT | 4 | 22 Apr 2010 |
-| 314 | MILPERSMAN 1306-128 | ROTATION FOR CONSTRUCTION RATING PERSONNEL | 1 | 14 Feb 2005 |
-| 315 | MILPERSMAN 1306-130 | POST-CONFINEMENT ASSIGNMENT PROCEDURES | 2 | 3 May 2020 |
-| 316 | MILPERSMAN 1306-132 | REASSIGNMENT OF ENLISTED PERSONNEL ASHORE – COMPLETION OF TOUR (COMPTOUR) | 1 | 26 Jul 2013 |
-| 317 | MILPERSMAN 1306-134 | ASSIGNMENT | 1 | 30 Aug 2011 |
-| 318 | MILPERSMAN 1306-136 | SECURITY LIMITATIONS FOR SURFACE NUCLEAR POWERED SHIPS | 1 | 28 Sep 2010 |
-| 319 | MILPERSMAN 1306-141 | VOLUNTARY SEA DUTY PROGRAM | 9 | 16 Jan 2020 |
-| 320 | MILPERSMAN 1306-200 | ISOLATED DUTY TOURS | 2 | 13 Jan 2020 |
-| 321 | MILPERSMAN 1306-300 | OVERSEAS TOUR EXTENSION INCENTIVES PROGRAM (OTEIP) | 13 | 29 Sep 2017 |
-| 322 | MILPERSMAN 1306-400 | SUBMARINE DUTY | 2 | 8 Feb 2007 |
-| 323 | MILPERSMAN 1306-402 | QUALIFICATION FOR ASSIGNMENT TO SUBMARINE DUTY | 9 | 27 Apr 2025 |
-| 324 | MILPERSMAN 1306-404 | REQUEST FOR SUBMARINE TRAINING AND ASSIGNMENT | 3 | 12 Apr 2007 |
-| 325 | MILPERSMAN 1306-406 | REASSIGNMENT OF QUALIFIED SUBMARINERS | 3 | 12 Apr 2007 |
-| 326 | MILPERSMAN 1306-408 | PERFORMANCE MONITORING TEAM (PMT) | 2 | 28 Feb 2007 |
-| 327 | MILPERSMAN 1306-410 | CHIEF OF THE BOAT | 4 | 1 Feb 2020 |
-| 328 | MILPERSMAN 1306-412 | NEW CONSTRUCTION , OVERHAUL (OVHL), DEPOT MODERNIZATION PERIOD (DMP), CONVERSION, DEACTIVATION , OR DECOMMISSIONING (DECOM) | 15 | 25 Jul 2017 |
-| 329 | MILPERSMAN 1306-414 | SPECIAL PROCEDURES FOR ASSIGNMENT OF SSBN PERSONNEL | 7 | 9 Mar 2016 |
-| 330 | MILPERSMAN 1306-416 | PROCESSING OF PERSONNEL DISQUALIFIED FROM SUBMARINE DUTY | 17 | 05 Mar 2003 |
-| 331 | MILPERSMAN 1306-418 | SUBMARINE NR-1 AND DEEP SUBMERGENCE UNIT (DSU) DUTY | 3 | 13 Apr 2007 |
-| 332 | MILPERSMAN 1306-420 | ASSIGNMENT TO FLAG WRITER TRAINING FOR SUBMARINE QUALIFIED YEOMAN | 1 | 28 Feb 2007 |
-| 333 | MILPERSMAN 1306-422 | ASSIGNMENT TO SUBMARINE SURVEILLANCE EQUIPMENT PROGRAM (SSEP) GROOM TEAMS AND SUPPORT BILLETS | 3 | 08 Apr 2025 |
-| 334 | MILPERSMAN 1306-423 | ASSIGNMENT TO UNDERSEA SURVEILLANCE BILLETS | 4 | 18 Dec 2019 |
-| 335 | MILPERSMAN 1306-424 | PHYSICAL QUALIFICATIONS FOR SUBMARINE DUTY | 1 | 8 Feb 2007 |
-| 336 | MILPERSMAN 1306-425 | ASSIGNMENT TO – NAVY DATA COMMAND BILLETS | 3 | 12 Jun 2024 |
-| 337 | MILPERSMAN 1306-500 | NUCLEAR POWER TRAINING PROGRAM | 2 | 28 Feb 2007 |
-| 338 | MILPERSMAN 1306-502 | QUALIFICATIONS FOR ASSIGNMENT TO NUCLEAR PROPULSION PROGRAM SCHOOLS | 4 | 14 Jun 2007 |
-| 339 | MILPERSMAN 1306-504 | REQUESTS FOR ASSIGNMENT TO NUCLEAR PROPULSION TRAINING | 4 | 13 Apr 2007 |
-| 340 | MILPERSMAN 1306-600 | SERVICE SCHOOLS | 1 | 22 Sep 2005 |
-| 341 | MILPERSMAN 1306-602 | CLASS “A” AND SERVICE SCHOOL REQUIREMENTS | 9 | 3 Sep 2018 |
-| 342 | MILPERSMAN 1306-604 | ACTIVE OBLIGATED SERVICE (OBLISERV) FOR SERVICE SCHOOLS | 6 | 17 May 2022 |
-| 343 | MILPERSMAN 1306-611 | PROFESSIONAL APPRENTICESHIP CAREER TRACK (PACT) PROGRAM | 8 | 15 Dec 2022 |
-| 344 | MILPERSMAN 1306-614 | TRANSFER ORDERS, FAMILY MEMBER TRAVEL, HOUSEHOLD GOODS INFORMATION , AND LEAVE | 2 | 30 Apr 2007 |
-| 345 | MILPERSMAN 1306-616 | INELIGIBLE STUDENTS RECEIVED BY TRAINING ACTIVITY | 3 | 31 Oct 2018 |
-| 346 | MILPERSMAN 1306-618 | CLASS “A” SCHOOL AND RATING ENTRY REQUIREMENTS | 6 | 14 Jul 2025 |
-| 347 | MILPERSMAN 1306-700 | EXCHANGES OF DUTY (SWAPS) | 4 | 21 Jul 2012 |
-| 348 | MILPERSMAN 1306-800 | SPECIAL PROCEDURES FOR UNITS UNDERGOING CONSTRUCTION , CONVERSION | 6 | 15 Aug 2007 |
-| 349 | MILPERSMAN 1306-802 | SURFACE SHIPS UNDERGOING CONSTRUCTION AND CONVERSION | 12 | 22 Aug 2020 |
-| 350 | MILPERSMAN 1306-803 | SPECIAL PROCEDURES FOR NEWLY ESTABLISHED / RECOMMISSIONED NAVAL CONSTRUCTION FORCE (NCF) UNITS | 2 | 17 Jan 2007 |
-| 351 | MILPERSMAN 1306-804 | NEWLY ESTABLISHED OR TRANSITIONING AIRCRAFT SQUADRONS | 8 | 29 Dec 2006 |
-| 352 | MILPERSMAN 1306-900 | ASSIGNMENT OF ENLISTED PERSONNEL TO SPECIAL PROGRAMS | 11 | 24 Apr 2018 |
-| 353 | MILPERSMAN 1306-901 | NAVY FOOD MANAGEMENT TEAMS (NFMTS) | 1 | 8 Feb 2007 |
-| 354 | MILPERSMAN 1306-902 | REGIONAL MAINTENANCE CENTER (RMC)/S HIP REPAIR FACILITY (SRF) PROGRAM | 2 | 29 Aug 2008 |
-| 355 | MILPERSMAN 1306-904 | BRIG/TRANSIENT PERSONNEL UNIT (TPU)/TRANSIENT PERSONNEL DETACHMENT (TPD) STAFF | 3 | 28 Feb 2024 |
-| 356 | MILPERSMAN 1306-905 | COMMAND CAREER COUNSELOR PROGRAM | 1 | 11 Aug 2022 |
-| 357 | MILPERSMAN 1306-906 | NAVAL INTELLIGENCE SUPPORT CENTER | 3 | 14 Jul 2025 |
-| 358 | MILPERSMAN 1306-907 | NAVY CEREMONIAL GUARD | 4 | 19 Nov 2022 |
-| 359 | MILPERSMAN 1306-912 | SEABEE CONSTRUCTION DIVER (CD) PROGRAM | 36 | 04 Apr 2025 |
-| 360 | MILPERSMAN 1306-913 | FLAG OFFICER WRITER (NEC 791D) | 8 | 20 Mar 2025 |
-| 361 | MILPERSMAN 1306-914 | MILITARY ASSISTANCE ADVISORY GROUPS (MAAGS), | 2 | 6 Jun 2017 |
-| 362 | MILPERSMAN 1306-915 | PROFESSIONAL DEVELOPMENT INSTRUCTOR (PDI) | 2 | 24 Apr 2018 |
-| 363 | MILPERSMAN 1306-916 | NAVY DRUG AND ALCOHOL COUNSELOR AND INTERN | 3 | 24 Jul 2018 |
-| 364 | MILPERSMAN 1306-917 | NAVY COMMAND CLIMATE SPECIALIST (CCS) | 3 | 15 Sep 2018 |
-| 365 | MILPERSMAN 1306-918 | NAVAL SUPPORT UNIT, STATE DEPARTMENT | 5 | 27 May 2014 |
-| 366 | MILPERSMAN 1306-919 | NAVY FLIGHT DEMONSTRATION SQUADRON (NAVFLIGHTDEMRON) (BLUE ANGELS) | 1 | 27 Apr 2007 |
-| 367 | MILPERSMAN 1306-920 | USS CONSTITUTION | 4 | 22 Sep 2022 |
-| 368 | MILPERSMAN 1306-921 | PERSONNEL EXCHANGE PROGRAM (PEP) | 4 | 18 May 2018 |
-| 369 | MILPERSMAN 1306-924 | MOBILE UTILITIES SUPPORT EQUIPMENT (MUSE) PROGRAM | 5 | 24 Apr 2018 |
-| 370 | MILPERSMAN 1306-925 | SENIOR ENLISTED ACADEMIES (SEA) MyNavy Career Center | 6 | 25 Jan 2024 |
-| 371 | MILPERSMAN 1306-926 | JOINT STAFF DUTY WITH MILITARY ENTRANCE PROCESSING STATIONS (MEPS) | 2 | 23 Oct 2017 |
-| 372 | MILPERSMAN 1306-927 | NAVY HARBOR PILOT PROGRAM | 2 | 1 Mar 2007 |
-| 373 | MILPERSMAN 1306-928 | NAVY MUSIC PROGRAM (MU) | 3 | 18 Apr 2024 |
-| 374 | MILPERSMAN 1306-929 | NAVY MANPOWER ANALYSIS CENTER (NAVMAC) | 2 | 30 Aug 2011 |
-| 375 | MILPERSMAN 1306-930 | HISTORIC SHIP NAUTILUS (SSN 571) | 2 | 27 Dec 2006 |
-| 376 | MILPERSMAN 1306-931 | NAVY ABSENTEE COLLECTION AND INFORMATION CENTER (NACIC) | 2 | 28 Jul 2018 |
-| 377 | MILPERSMAN 1306-934 | NUCLEAR TRAINED PERSONNEL ASSIGNED TO NUCLEAR CAPABLE INTERMEDIATE MAINTENANCE ACTIVITIES (IMA) | 2 | 20 Apr 2006 |
-| 378 | MILPERSMAN 1306-935 | COMMAND MASTER CHIEF (CMC) PROGRAM | 2 | 16 Mar 2007 |
-| 379 | MILPERSMAN 1306-936 | ADVANCEMENT EXAMINATION DEVELOPER AND MILITARY EXAM LEADER | 1 | 3 May 2012 |
-| 380 | MILPERSMAN 1306-937 | CULINARY SPECIALIST EXECUTIVE SERVICES PROGRAM | 7 | 02 May 2025 |
-| 381 | MILPERSMAN 1306-939 | WHITE HOUSE COMMUNICATIONS AGENCY (WHCA) | 2 | 29 Feb 2016 |
-| 382 | MILPERSMAN 1306-940 | NAVAL RESERVE OFFICER TRAINING CORPS (NROTC) TRAINING AND SUPPORT PERSONNEL | 1 | 16 Mar 2007 |
-| 383 | MILPERSMAN 1306-942 | USS ARIZONA (BB 39) MEMORIAL | 3 | 22 Sep 2022 |
-| 384 | MILPERSMAN 1306-943 | MOBILE ENVIRONMENTAL TEAMS (METS) | 1 | 30 May 2003 |
-| 385 | MILPERSMAN 1306-944 | NAVAL SPECIAL WARFARE TACTICAL COMMUNICATIONS COMMANDS (TACCOMM) | 3 | 10 Nov 2020 |
-| 386 | MILPERSMAN 1306-945 | FLAG OFFICER (STAFF) DUTY | 1 | 20 Dec 2017 |
-| 387 | MILPERSMAN 1306-946 | NAVY TUGMASTER PROGRAM | 2 | 16 Mar 2007 |
-| 388 | MILPERSMAN 1306-947 | NAVY EXCHANGE SERVICE COMMAND (NEXCOM) FLEET ASSISTANCE TEAMS | 2 | 25 Apr 2018 |
-| 389 | MILPERSMAN 1306-948 | COMMANDER NAVAL AIR FORCES (CNAF) AVIATION MAINTENANCE MANAGEMENT TEAM (AMMT) | 1 | 29 Dec 2006 |
-| 390 | MILPERSMAN 1306-949 | LANDING CRAFT, AIR CUSHION (LCAC) | 5 | 8 Nov 2021 |
-| 391 | MILPERSMAN 1306-950 | MARINE HELICOPTER SQUADRON ONE (HMX-1) (NIGHTHAWKS) | 2 | 24 Apr 2018 |
-| 392 | MILPERSMAN 1306-953 | INSTRUCTOR DUTY | 2 | 30 Aug 2011 |
-| 393 | MILPERSMAN 1306-954 | RECRUIT DIVISION COMMANDER (RDC) DUTY | 8 | 08 Jul 2024 |
-| 394 | MILPERSMAN 1306-955 | SURVIVAL, EVASION, RESISTANCE, AND ESCAPE (SERE) INSTRUCTOR | 2 | 14 Jan 2020 |
-| 395 | MILPERSMAN 1306-956 | NAVY RESERVE INSTRUCTOR DUTY | 1 | 24 Apr 2018 |
-| 396 | MILPERSMAN 1306-957 | NAVAL NUCLEAR POWER PROGRAM TRAINING ACTIVITIES | 6 | 2 Aug 2018 |
-| 397 | MILPERSMAN 1306-958 | ACADEMIC REMEDIAL TRAINING (ART) INSTRUCTION DUTY | 1 | 30 Aug 2011 |
-| 398 | MILPERSMAN 1306-959 | AFLOAT TRAINING GROUPS (ATGS) | 3 | 27 Sep 2018 |
-| 399 | MILPERSMAN 1306-960 | INSTRUCTOR DUTY AT FIELD MEDICAL SERVICE SCHOOLS (FLDMEDSERVSCOL S) | 1 | 24 Apr 2018 |
-| 400 | MILPERSMAN 1306-961 | CRYPTOLOGIC TECHNICIAN INTERPRET IVE (CTI) LANGUAGE INSTRUCTOR CANDIDATES | 2 | 15 Nov 2024 |
-| 401 | MILPERSMAN 1306-962 | INSTRUCTOR DUTY AT NAVAL SCHOOL OF MUSIC | 3 | 05 May 2024 |
-| 402 | MILPERSMAN 1306-964 | RECRUITING DUTY | 9 | 10 Dec 2024 |
-| 403 | MILPERSMAN 1306-965 | CAREER RECRUITER FORCE (CRF) | 2 | 24 Apr 2018 |
-| 404 | MILPERSMAN 1306-966 | ENLISTED RATING DETAILER | 3 | 21 Apr 2022 |
-| 405 | MILPERSMAN 1306-968 | CAMP DAVID (NAVAL SUPPORT FACILITY, THURMONT MD) | 3 | 24 Aug 2018 |
-| 406 | MILPERSMAN 1306-970 | JOINT COMMUNICATIONS SUPPORT ELEMENT (JCSE) | 3 | 24 Apr 2018 |
-| 407 | MILPERSMAN 1306-971 | NAVY MILITARY TRAINING INSTRUCTOR DUTY | 5 | 31 Oct 2018 |
-| 408 | MILPERSMAN 1306-972 | PATROL COASTAL (PC) CREW | 2 | 18 Oct 2017 |
-| 409 | MILPERSMAN 1306-973 | NAVY PROVISIONAL GUARD BATTALION (CUBA) | 2 | 24 Apr 2018 |
-| 410 | MILPERSMAN 1306-975 | NAVAL SPECIAL WARFARE METEOROLOGY AND OCEANOGRAPHY SUPPORT TEAMS (NSW METOC) | 2 | 12 May 2006 |
-| 411 | MILPERSMAN 1306-976 | ENLISTED MUSICIAN (MU) ASSIGNMENTS TO NAVY | 2 | 17 Apr 2024 |
-| 412 | MILPERSMAN 1306-978 | LITTORAL COMBAT SHIP (LCS) | 8 |  |
-| 413 | MILPERSMAN 1306-979 | RECRUITMENT /ASSIGNMENT TO COMMANDER, NAVAL SPECIAL WARFARE DEVELOPMENT GROUP (COMNAVSPECWARDEVGRU) | 3 | 3 May 2012 |
-| 414 | MILPERSMAN 1306-980 | Navy Interactive ON-NET (ION) Operator Certification Program | 5 | 08 Apr 2025 |
-| 415 | MILPERSMAN 1306-981 | NAVY INTERACTIVE ON-NET (ION) COMPUTER NETWORK EXPLOITATION (CNE) TRAINER CERTIFICATION PROGRAM | 3 | 29 May 2007 |
-| 416 | MILPERSMAN 1306-982 | ASSIGNMENT OF NUCLEAR-TRAINED MASTER CHIEF PETTY OFFICERS (MCPO) AS REACTOR DEPARTMENT MASTER CHIEF (RDMC) | 3 | 14 Jan 2019 |
-| 417 | MILPERSMAN 1306-983 | MEDICAL DEEP SEA DIVING AND FLEET MARINE FORCE RECONNAISSANCE CORPSMAN PROGRAMS | 17 | 24 Apr 2018 |
-| 418 | MILPERSMAN 1306-984 | NAVAL SPECIAL WARFAR E COMMAND (NAVSPECWARCOM ) TACTICAL INFORMATION OPERATIONS (TIO) PR OGRAM | 5 | 12 Oct 2019 |
-| 419 | MILPERSMAN 1306-985 | UNITED STATES SPECIAL OPERATIONS COMMAND (USSOCOM) | 2 | 30 Nov 2017 |
-| 420 | MILPERSMAN 1306-986 | RECRUITMENT /ASSIGNMENT TO NAVAL S PECIAL WARFARE GROUP TEN SPECIAL RECONNAISSANC E TEAMS AND THE LANGUAGE AND REGIONAL EXPERT PROGRAM | 6 | 24 Aug 2021 |
-| 421 | MILPERSMAN 1306-987 | INSTRUCTOR DUTY FOR ENLISTED MEDICAL EDUCATION AND TRAINING CAMPUS (METC) | 2 | 18 Oct 2010 |
-| 422 | MILPERSMAN 1306-989 | ASSIGNMENT TO CRYPTOLOGIC WARFARE MARITIME ACTIVITY SIXTY ONE (CWMA-61) SPECIAL PROJECTS | 5 | 29 May 2025 |
-| 423 | MILPERSMAN 1306-990 | DEFENSE COURIER DUTY | 4 | 29 Oct 2024 |
-| 424 | MILPERSMAN 1306-991 | MARINE BARRACKS WASHINGTON, DC (8TH AND I) | 3 | 18 Oct 2017 |
-| 425 | MILPERSMAN 1306-992 | ASSIGNMENT TO SUBMARINE LEARNING CENTER STAFF OR SITE INSTRUCTOR DUTY | 3 | 18 Dec 2019 |
-| 426 | MILPERSMAN 1306-993 | HARBOR PATROL UNIT (HPU) LEVEL II COXSWAIN (NEC 853A) – MASTER-AT-ARMS | 3 | 2 Aug 2018 |
-| 427 | MILPERSMAN 1306-994 | 3-M SYSTEM COORDINATOR AT SEA AND SHORE | 3 | 24 Aug 2018 |
-| 428 | MILPERSMAN 1306-995 | ASSIGNMENT TO CRYPTOLOGIC AIRCREW BILLETS | 4 | 18 Dec 2019 |
-| 429 | MILPERSMAN 1306-996 | NAVAL NETWORK WARFARE COMMAND BLUE TEAMS | 2 | 21 Aug 2024 |
-| 430 | MILPERSMAN 1306-997 | ASSIGNMENT TO NAVY INFORMATION OPERATIONS DETACHMENT JACKSONVILLE , FLORIDA | 4 | 7 Jul 2021 |
-| 431 | MILPERSMAN 1306-999 | ASSIGNMENT TO NAVAL INTELLIGENCE SPECIAL CAREER PROGRAM | 6 | 16 Feb 2026 |
-| 432 | MILPERSMAN 1306-1000 | REENLISTMENT INCENTIVES | 6 | 30 Aug 2011 |
-| 433 | MILPERSMAN 1306-1001 | NAVY WOUNDED WARRIOR-SAFE HARBOR DUTY | 3 | 20 Dec 2024 |
-| 434 | MILPERSMAN 1306-1003 | Assignment To Fleet Cyber Command Cyber Mission Force Australia | 4 | 26 Jun 2025 |
-| 435 | MILPERSMAN 1306-1005 | NAVAL SPECIAL WARFARE GROUP LOGISTICS SUPPORT UNIT | 2 | 2 Sep 2021 |
-| 436 | MILPERSMAN 1306-1007 | NAVAL INFORMATION WARFARE TRAINING GROUP | 10 | 21 Nov 2023 |
-| 437 | MILPERSMAN 1306-1008 | ASSIGNMENT TO NAVY CYBER WARFARE DEVELOPMENT GROUP | 4 | 15 Dec 2022 |
-| 438 | MILPERSMAN 1306-1009 | NAVAL SPECIAL WARFARE GROUP FOUR SPECIAL BOAT TEAMS | 3 | 22 Jul 2024 |
-| 439 | MILPERSMAN 1306-1010 | ZUMWALT-CLASS GUIDED MISSILE DESTROYER (DDG 1000-CLASS) | 8 | 31 Aug 2017 |
-| 440 | MILPERSMAN 1306-1015 | QUALIFICATION FOR ASSIGNMENT TO NAVAL SPECIAL OPERATIONS SUPPORT DUTIES | 6 | 10 Jul 2024 |
-| 441 | MILPERSMAN 1306-1016 | NAVAL SPECIAL WARFARE (NSW) WOMEN IN SPECIAL OPERATIONS FORCES (WISOF) CADRE | 6 | 10 Dec 2024 |
-| 442 | MILPERSMAN 1306-1017 | NAVAL SPECIAL WARFARE GROUP ONE AND TWO COMMANDS | 3 | 19 Aug 2024 |
-| 443 | MILPERSMAN 1306-1100 | PERSONNEL REASSIGNMENT /SEPARATION PROCEDURES INCIDENT TO ACTIVITY DEACTIVATION | 8 | 01 May 2003 |
-| 444 | MILPERSMAN 1306-1500 | ENLISTED COMPONENT CHANGE PROGRAMS AND RECALL OF RESERVE MEMBERS TO FULL-TIME SUPPORT - OVERVIEW | 2 | 3 Jul 2019 |
-| 445 | MILPERSMAN 1306-1501 | ENLISTED ACTIVE COMPONENT TO RESERVE COMPONENT (AC2TAR/AC2SELRES) ELIGIBILITY REQUIREMENTS AND APPLICATION PROCEDURES | 10 | 14 May 2025 |
-| 446 | MILPERSMAN 1306-1502 | ENLISTED RESERVE COMPONENT TO ACTIVE COMPONENT (RC2AC) OR ENLISTED RESERVE COMPONENT RECALL TO TRAINING AND ADMINISTRATION OF THE RESERVES (RC2TAR) TRANSITION PROCEDURES | 17 | 7 Sep 2022 |
-| 447 | MILPERSMAN 1306-1600 | (Scanned/image-only — text not extractable) | 18 |  |
-| 448 | MILPERSMAN 1306-1700 | AVAILABILITY PROCESSING – GENERAL INFORMATION | 5 | 7 Nov 2018 |
-| 449 | MILPERSMAN 1306-1702 | AVAILABILITY PROCESSING – REPORT SUBMISSIONS | 19 | 7 Nov 2018 |
-| 450 | MILPERSMAN 1306-1704 | AVAILABILITY PROCESSING – DATA ITEM DESCRIPTIONS AND REMARKS FOR REPORT SUBMISSIONS | 8 | 15 Nov 2018 |
-| 451 | MILPERSMAN 1306-1705 | AVAILABILITY PROCESSING – TRACKING ORDERS STATUS AND TRACER ACTIONS AFTER REPORT SUBMISSION | 2 | 9 Nov 2018 |
-| 452 | MILPERSMAN 1306-1706 | AVAILABILITY PROCESSING – CHANGES AND DELETIONS AFTER INITIAL REPORT SUBMISSION | 2 | 15 Nov 2018 |
-| 453 | MILPERSMAN 1306-1800 | PROCEDURES FOR MEMBERS ASSIGNED TO ACTIVITIES SCHEDULED FOR CHANGE OF HOMEPORT OR PERMANENT DUTY STATION (PDS) | 19 | 27 May 2003 |
-| 454 | MILPERSMAN 1320-020 | MESSAGE ORDERS FOR INACTIVE DUTY RESERVE OFFICERS | 9 |  |
-| 455 | MILPERSMAN 1320-030 | DELEGATION OF AUTHORITY TO ISSUE ORDERS AND ADMINISTRATIVE CONTROL OF ORDERS AND TRAVEL | 2 |  |
-| 456 | MILPERSMAN 1320-060 | PERMANENT CHANGE OF STATION TRANSFER ORDER (PCSTO), DELIVERY, INTERPRETATION , AND EXECUTION | 3 |  |
-| 457 | MILPERSMAN 1320-090 | PROCEED TIME IN EXECUTION OF ORDERS | 5 | 12 Dec 2008 |
-| 458 | MILPERSMAN 1320-100 | TRAVEL TIME IN EXECUTION OF PERMANENT CHANGE OF STATION (PCS) ORDERS AND TEMPORARY ADDITIONAL DUTY (TAD) ORDERS | 3 | 22 Aug 2005 |
-| 459 | MILPERSMAN 1320-110 | TRAVEL TIME IN CONJUNCTION WITH CALL TO OR RELEASE FROM ACTIVE DUTY | 3 |  |
-| 460 | MILPERSMAN 1320-120 | (Scanned/image-only — text not extractable) | 1 |  |
-| 461 | MILPERSMAN 1320-140 | PERMANENT CHANGE OF STATION (PCS) TRANSFER ORDER REPORTING | 3 | 5 Aug 2014 |
-| 462 | MILPERSMAN 1320-170 | MEDICAL EXAMINATION OF FIREFIGHTING INSTRUCTOR PERSONNEL | 1 | 24 Apr 2023 |
-| 463 | MILPERSMAN 1320-200 | TEMPORARY DUTY TRAVEL ENTITLEMENT | 6 | 4 Feb 2011 |
-| 464 | MILPERSMAN 1320-210 | PERMISSIVE TEMPORARY DUTY (PTDY) FOR HOUSE HUNTING | 6 | 03 Apr 2023 |
-| 465 | MILPERSMAN 1320-220 | PERMISSIVE TEMPORARY DUTY (PTDY) AUTHORIZATION FOR JOB/HOUSE HUNTING | 6 | 14 Jul 2009 |
-| 466 | MILPERSMAN 1320-300 | TYPES OF ORDERS | 14 | 25 Jul 2014 |
-| 467 | MILPERSMAN 1320-306 | PERMANENT CHANGE OF STATION (PCS) TRANSFER ORDER DELIVERY AND INTERPRETATION | 5 | 27 Apr 2007 |
-| 468 | MILPERSMAN 1320-307 | PERMANENT CHANGE OF STATION/TEMPORARY ADDITIONAL DUTY WARM HAND-OFF PROCEDURES | 4 | 11 Dec 2023 |
-| 469 | MILPERSMAN 1320-308 | PERMANENT CHANGE OF STATION (PCS) TRANSFER ORDER EXECUTION | 9 | 29 May 2007 |
-| 470 | MILPERSMAN 1320-310 | PERMANENT CHANGE OF STATION (PCS) TRANSFER ORDER ENDORSEMENTS | 4 | 17 Jun 2003 |
-| 471 | MILPERSMAN 1320-311 | PERMANENT CHANGE OF STATION (PCS) ORDERS MODIFICATION OR CANCELLATION | 3 | 30 Apr 2007 |
-| 472 | MILPERSMAN 1320-312 | ORDER CLARIFICATION AND CLAIMS | 2 | 21 Mar 2007 |
-| 473 | MILPERSMAN 1320-314 | TEMPORARY DUTY (TDY) TRAVEL ORDERS | 10 | 1 Jun 2016 |
-| 474 | MILPERSMAN 1320-316 | GENERAL COURT-MARTIAL ORDERS | 2 | 15 Aug 2007 |
-| 475 | MILPERSMAN 1320-320 | PERMANENT CHANGE OF STATION (PCS) ORDERS TO SHIPS UNDER CONSTRUCTION AT CIVILIAN SHIPBUILDING COMPANIES OR YARDS | 8 | 30 Apr 2007 |
-| 476 | MILPERSMAN 1320-322 | CHANGE OF HOMEPORT OR PERMANENT DUTY STATION (PDS) OF A VESSEL, SHIP-BASED SQUADRON OR STAFF, OR MOBILE UNIT | 4 | 22 May 2007 |
-| 477 | MILPERSMAN 1320-324 | PERMANENT CHANGE OF STATION (PCS) PROCEDURES FOR FORWARD DEPLOYED COMMANDS OF THE MILITARY SEALIFT COMMAND | 3 | 31 July 2006 |
-| 478 | MILPERSMAN 1320-326 | PERSONNEL SUPPORT FUNCTIONS FOR NATO SOUTHERN REGION | 1 | 30 Apr 2007 |
-| 479 | MILPERSMAN 1321-020 | OFFICER FLIGHT ORDERS (NON-AERONAUTICALLY DESIGNATED) | 4 | 10 Nov 2005 |
-| 480 | MILPERSMAN 1321-030 | OFFICERS DETAILED TO RECRUITING DUTY | 2 | 22 Nov 2006 |
-| 481 | MILPERSMAN 1321-040 | DETAIL OF CHIEFS OF STAFF, EXECUTIVE ASSISTANTS, FLAG SECRETARIES , FLAG LIEUTENANTS , AND AIDES | 1 | 1 Apr 2016 |
-| 482 | MILPERSMAN 1321-050 | ASSIGNMENT TO DUTY OF LIMITED DUTY OFFICERS | 1 |  |
-| 483 | MILPERSMAN 1321-100 | ORDERS FOR OFFICER SPECIAL PROGRAMS | 3 | 18 Dec 2023 |
-| 484 | MILPERSMAN 1321-105 | ACTIVE COMPONENT(AC), INDEFINITE RECALL PROGRAM FOR RESERVE COMPONENT (RC) OFFICERS | 7 | 5 Nov 2018 |
-| 485 | MILPERSMAN 1321-110 | ACTIVE COMPONENT (AC), MPN-FUNDED, DEFINITE RECALL PROGRAM FOR OFFICERS | 8 | 10 May 2017 |
-| 486 | MILPERSMAN 1326-010 | TRANSFER OF ENLISTED PERSONNEL ON BUREAU OF NAVAL PERSONNEL ORDERS | 3 | 6 Sep 2005 |
-| 487 | MILPERSMAN 1326-020 | PERMANENT AND TEMPORARY FLIGHT ORDER TO ENLISTED PERSONNEL | 4 | 26 Apr 2007 |
-| 488 | MILPERSMAN 1326-040 | MILITARY PERSONNEL, NAVY (MPN) - FUNDED ACTIVE DUTY (ACDU) DEFINITE RECALL PROGRAM FOR ENLISTED PERSONNEL | 18 | 11 Apr 2021 |
-| 489 | MILPERSMAN 1331-030 | OFFICER APPLICATIONS FOR INFORMATION WARFARE DUTY ASSIGNMENT | 2 | 19 Sep 2007 |
-| 490 | MILPERSMAN 1331-040 | NAVY CHAPLAIN CORPS (CHC) OFFICER CAREER STATUS | 9 | 27 Mar 2024 |
-| 491 | MILPERSMAN 1401-010 | COMMUNICATION WITH ADMINISTRATIVE SELECTION BOARDS | 1 |  |
-| 492 | MILPERSMAN 1401-020 | ADVANCEMENT EXAM READINESS REVIEW (AERR) | 6 | 5 Nov 2018 |
-| 493 | MILPERSMAN 1414-010 | SWIMMER TRAINING AND QUALIFICATIONS | 1 | 6 May 2021 |
-| 494 | MILPERSMAN 1420-010 | COMMUNICATION WITH OFFICER PROMOTION SELECTION BOARDS | 5 | 23 Jan 2021 |
-| 495 | MILPERSMAN 1420-030 | (Scanned/image-only — text not extractable) | 3 |  |
-| 496 | MILPERSMAN 1420-050 | COUNSELING OF OFFICERS WHO FAIL TO SELECT FOR PROMOTION | 2 | 3 Jan 2018 |
-| 497 | MILPERSMAN 1420-060 | FROCKING OF ENLISTED PERSONNEL | 4 | 15 Sep 2021 |
-| 498 | MILPERSMAN 1420-070 | COMMANDER ’S RESPONSIBILITY IN THE REVIEW PROCESS | 2 | 27 Jul 2012 |
-| 499 | MILPERSMAN 1420-100 | JOINT STAMP REQUIREMENTS FOR ACTIVE DUTY AND RESERVE FULL TIME SUPPORT PROMOTION BOARDS | 3 | 15 Aug 2014 |
-| 500 | MILPERSMAN 1426-010 | PERMANENT APPOINTMENT TO ACTIVE DUTY CHIEF WARRANT OFFICER AND LIMITED DUTY OFFICER STATUS | 2 | 31 May 2005 |
-| 501 | MILPERSMAN 1427-010 | PRECEDENCE AMONG ENLISTED MEMBERS | 2 | 3 Aug 2014 |
-| 502 | MILPERSMAN 1430-010 | ACCELERATED ADVANCEMENT OF RECRUIT TRAINING, CLASS “A” | 4 | 30 Oct 2015 |
-| 503 | MILPERSMAN 1430-020 | ADVANCEMENT AFTER REDUCTION IN RATE | 6 | 3 Sep 2018 |
-| 504 | MILPERSMAN 1430-040 | ACCELERATED ADVANCEMENT FOR ENLISTED MUSICIAN (MU) ASSIGNMENTS TO NAVY PREMIER BANDS | 2 | 05 Feb 2024 |
-| 505 | MILPERSMAN 1430-050 | ACCELERATED ADVANCEMENT FOR HOSPITAL CORPSMEN EARNING INDEPENDENT DUTY CORPSMEN (IDC) NAVY ENLISTED CLASSIFICATIONS (NEC) | 3 | 8 Nov 2021 |
-| 506 | MILPERSMAN 1440-010 | CONVERSION AUTHORIZATION | 18 | 24 Apr 2018 |
-| 507 | MILPERSMAN 1440-011 | FORCED CONVERSION | 7 | 2 Apr 2021 |
-| 508 | MILPERSMAN 1440-020 | Conversion to the Navy Counselor (NC) (Counselor) Rating | 8 | 15 Sep 2025 |
-| 509 | MILPERSMAN 1440-040 | NO-FAULT REVERSION TO FORMER RATING | 2 | 2 Mar 2015 |
-| 510 | MILPERSMAN 1450-010 | REDUCTION IN RATE | 4 | 13 Apr 2005 |
-| 511 | MILPERSMAN 1500-010 | SURVIVAL TRAINING REQUIREMENTS | 1 |  |
-| 512 | MILPERSMAN 1500-020 | FIRST AID TRAINING REQUIREMENTS | 1 | 4 Mar 2024 |
-| 513 | MILPERSMAN 1500-030 | MEDICAL DEPARTMENT SCHOOLS | 2 | 5 Sep 2023 |
-| 514 | MILPERSMAN 1510-030 | ADVANCED ELECTRONICS FIELD, ADVANCED TECHNICAL FIELD, AND NUCLEAR FIELD PROGRAMS | 15 | 16 Mar 2026 |
-| 515 | MILPERSMAN 1520-020 | OFFICER EDUCATION REPORTS | 4 | 11 Jul 2024 |
-| 516 | MILPERSMAN 1520-030 | SUBMARINE OFFICER TRAINING | 4 |  |
-| 517 | MILPERSMAN 1520-040 | SURFACE WARFARE OFFICER (SWO) DEPARTMENT HEAD SCREENING AND TRAINING | 3 | 29 May 2007 |
-| 518 | MILPERSMAN 1520-050 | NUCLEAR PROPULSION TRAINING (SURFACE AND SUBMARINE) | 6 | 24 May 2019 |
-| 519 | MILPERSMAN 1520-060 | NURSE CANDIDATE PROGRAM | 2 |  |
-| 520 | MILPERSMAN 1530-020 | UNITED STATES MILITARY ACADEMY AND AIR FORCE ACADEMY PREPARATORY SCHOOLS | 3 | 26 Sep 2006 |
-| 521 | MILPERSMAN 1531-010 | NAVAL ACADEMY PROGRAM | 4 |  |
-| 522 | MILPERSMAN 1531-020 | DISPOSITION OF MIDSHIPMEN DISENROLLED FROM THE NAVAL ACADEMY | 7 | 21 Apr 2006 |
-| 523 | MILPERSMAN 1540-010 | REQUIRED SERVICE OF OFFICERS DISENROLLED FROM SPECIAL NAVY TRAINING PROGRAMS | 4 | 24 May 2021 |
-| 524 | MILPERSMAN 1542-010 | LATERAL TRANSFER INTO NAVAL AVIATION | 5 | 4 Jul 2021 |
-| 525 | MILPERSMAN 1542-020 | AVIATION OFFICER CROSS-TRAINING IN DIFFERENT TYPE AIRCRAFT | 4 | 12 Dec 2014 |
-| 526 | MILPERSMAN 1570-010 | TRAINING AND PARTICIPATION OF NAVY RESERVE FLAG OFFICERS ON INACTIVE DUTY | 2 | 13 Sep 2005 |
-| 527 | MILPERSMAN 1600-010 | DESERTERS | 3 | 16 Apr 2015 |
-| 528 | MILPERSMAN 1600-020 | APPREHENSION OF ABSENTEES AND DESERTERS | 3 | 6 Dec 2012 |
-| 529 | MILPERSMAN 1600-030 | ACCEPTANCE AND DISPOSITION OF RETURNED DESERTERS | 3 | 22 Feb 2015 |
-| 530 | MILPERSMAN 1600-040 | PROCEDURES FOR COMMANDS TO WHICH ENLISTED AND OFFICER ABSENTEES ARE ATTACHED | 4 | 29 Dec 2025 |
-| 531 | MILPERSMAN 1600-050 | PROCEDURES WHEN AN ENLISTED ABSENTEE RETURNS TO NAVAL JURISDICTION | 3 | 6 Dec 2012 |
-| 532 | MILPERSMAN 1600-060 | DECLARATION OF DESERTION | 4 | 28 Jan 2025 |
-| 533 | MILPERSMAN 1600-070 | DECLARATION OF RETURN FROM DESERTION | 4 | 27 Aug 2015 |
-| 534 | MILPERSMAN 1600-090 | REMOVAL OF MARKS OF DESERTION | 1 | 13 Aug 2007 |
-| 535 | MILPERSMAN 1600-100 | LOST TIME | 4 | 14 Dec 2005 |
-| 536 | MILPERSMAN 1600-120 | PROCEDURES FOR REPORTING MEMBERS AS FAILED TO REPORT UNDER PERMANENT CHANGE OF STATION (PCS)/ TEMPORARY DUTY (TEMDU) ORDERS | 3 | 28 Dec 2006 |
-| 537 | MILPERSMAN 1610-010 | NAVY PERFORMANCE EVALUATION AND COUNSELING SYSTEM | 1 | 6 May 2015 |
-| 538 | MILPERSMAN 1610-015 | DOCUMENTATION ON FITNESS REPORTS AND PERFORMANCE EVALUATIONS FOR FAILURE TO MAINTAIN DEPLOYABILITY OR INDIVIDUAL MEDICAL READINESS | 4 | 01 Oct 2018 |
-| 539 | MILPERSMAN 1610-020 | DISQUALIFICATION OF OFFICERS FOR DUTY INVOLVING FLYING | 6 | 19 Jun 2021 |
-| 540 | MILPERSMAN 1610-030 | PROCEDURES FOR COMMANDS TO WHICH INACTIVE RESERVE PERSONNEL (OFFICER OR ENLISTED) FAIL TO REPORT FOR INVOLUNTARY ACTIVE DUTY | 2 | 29 Sep 2005 |
-| 541 | MILPERSMAN 1610-040 | NAVPERS 5354/2 (REV. 2-02), NAVY EQUAL | 3 | 15 Jun 2007 |
-| 542 | MILPERSMAN 1611-010 | OFFICER PERFORMANCE AND SEPARATIONS FOR CAUSE | 23 | 16 Dec 2025 |
-| 543 | MILPERSMAN 1611-020 | OFFICER DETACHMENT FOR CAUSE | 14 | 30 Mar 2007 |
-| 544 | MILPERSMAN 1616-010 | DETACHMENT FOR CAUSE (DFC) OF ENLISTED PERSONNEL | 6 | 18 Oct 2010 |
-| 545 | MILPERSMAN 1616-030 | DENIAL OF REENLISTMENT FOR CAREER PETTY OFFICERS | 1 | 13 Apr 2005 |
-| 546 | MILPERSMAN 1616-040 | ENLISTED PERFORMANCE (E-6/7/8/9) | 7 | 24 Mar 2022 |
-| 547 | MILPERSMAN 1616-050 | ENLISTED PERFORMANCE (E-5 AND BELOW) | 6 | 24 Mar 2022 |
-| 548 | MILPERSMAN 1620-010 | INTERROGATION AND SEARCH OF SERVICEMEMBERS | 1 | 19 Dec 2005 |
-| 549 | MILPERSMAN 1626-010 | (Scanned/image-only — text not extractable) | 1 |  |
-| 550 | MILPERSMAN 1626-020 | ENLISTED SERVICE RECORD ENTRIES AFTER NONJUDICIAL PUNISHMENT (NJP) | 3 | 8 Oct 2019 |
-| 551 | MILPERSMAN 1626-030 | DISPOSITION OF ENLISTED PERSONNEL UPON COMPLETION OF DISCIPLINARY ACTION | 2 | 13 Apr 2005 |
-| 552 | MILPERSMAN 1640 | CONFINEMENT | 1 | 26 Mar 2010 |
-| 553 | MILPERSMAN 1640-010 | CONFINEMENT | 2 | 18 Oct 2017 |
-| 554 | MILPERSMAN 1640-020 | WHEN CONFINEMENT IS NOT APPROPRIATE | 1 | 12 Feb 2009 |
-| 555 | MILPERSMAN 1640-030 | TYPES OF NAVY CONFINEMENT FACILITIES, MILITARY CORRECTIONAL FACILITIES, AND CONFINEMENT PARAMETERS | 4 |  |
-| 556 | MILPERSMAN 1640-060 | WHEN TO TRANSFER POST-TRIAL PRISONERS USING PERMANENT CHANGE OF STATION (PCS) OR TEMPORARY DUTY (TDY) STATUS TO A SHORE MILITARY CORRECTIONAL FACILITY | 2 | 07 Dec 2023 |
-| 557 | MILPERSMAN 1640-090 | WHO PAYS FOR THE TRANSFER | 1 | 24 Jun 2011 |
-| 558 | MILPERSMAN 1640-100 | WHAT THE MEMBER NEEDS UPON INITIAL TRANSFER TO CONFINEMENT | 2 | 24 Jun 2011 |
-| 559 | MILPERSMAN 1640-105 | TRANSFERRING PRISONERS BETWEEN CONFINEMENT FACILITIES | 3 | 30 Jun 2011 |
-| 560 | MILPERSMAN 1640-110 | TRANSPORTING PERSONNEL TO CONFINEMENT FACILITIES | 2 | 14 Jul 2025 |
-| 561 | MILPERSMAN 1640-140 | ESCAPED PRISONERS | 5 | 21 Nov 2023 |
-| 562 | MILPERSMAN 1640-150 | NAVY PAROLE AND SUPERVISED RELEASE | 5 | 21 Nov 2023 |
-| 563 | MILPERSMAN 1700-010 | POLITICAL ACTIVITY OF MEMBERS ON ACTIVE DUTY | 1 | 16 Mar 2006 |
-| 564 | MILPERSMAN 1700-020 | PARTICIPATION IN CIVIL RIGHTS DEMONSTRATIONS | 2 | 12 May 2006 |
-| 565 | MILPERSMAN 1710-010 | OPERATION OF NAVY MORALE, WELFARE, AND RECREATION (MWR) PROGRAM POLICIES | 2 | 21 Mar 2005 |
-| 566 | MILPERSMAN 1730-010 | USE OF LAY LEADERS IN RELIGIOUS SERVICES | 3 | 30 May 2017 |
-| 567 | MILPERSMAN 1730-020 | IMMUNIZATION EXEMPTIONS FOR RELIGIOUS BELIEFS | 4 | 15 Aug 2020 |
-| 568 | MILPERSMAN 1731-010 | RELIGIOUS OBSERVANCES | 2 | 1 Aug 2006 |
-| 569 | MILPERSMAN 1740-020 | INFORMATION CONCERNING PREGNANT MEMBERS | 1 | 9 Jan 2019 |
-| 570 | MILPERSMAN 1740-030 | MATERNITY CARE AVAILABLE BEFORE AND AFTER SEPARATION | 4 | 10 Nov 2020 |
-| 571 | MILPERSMAN 1741-020 | GOVERNMENT LIFE INSURANCE | 11 | 29 Jul 2024 |
-| 572 | MILPERSMAN 1741-030 | FAMILY SERVICEMEMBERS’ GROUP LIFE INSURANCE | 12 | 15 Mar 2016 |
-| 573 | MILPERSMAN 1746-010 | PROCEDURES WHEN GOVERNMENT MESSING IS NOT AVAILABLE | 2 | 1 May 2019 |
-| 574 | MILPERSMAN 1746-020 | PROCEDURES WHEN AUTHORIZED TO MESS SEPARATELY | 4 |  |
-| 575 | MILPERSMAN 1746-030 | MEAL PASSES FOR ENLISTED PERSONNEL | 2 | 26 Feb 2025 |
-| 576 | MILPERSMAN 1750-010 | TRANSPORTATION OF STUDENT DEPENDENTS BETWEEN CONUS AND OVERSEAS DUTY STATIONS | 2 |  |
-| 577 | MILPERSMAN 1754-010 | SEA LEGS | 1 | 7 Jun 2005 |
-| 578 | MILPERSMAN 1754-020 | FAMILY CONTACTS AND ASSISTANCE DURING DEPLOYMENT | 3 | 7 Jun 2005 |
-| 579 | MILPERSMAN 1754-030 | SUPPORT OF FAMILY MEMBERS | 8 | 8 Dec 2021 |
-| 580 | MILPERSMAN 1754-040 | MILITARY SPOUSE LICENSURE AND BUSINESS COSTS REIMBURSEMENT | 6 | 18 Apr 2024 |
-| 581 | MILPERSMAN 1770-010 | DEFINITIONS AND ACRONYMS MyNavy Career Center | 12 | 20 Mar 2024 |
-| 582 | MILPERSMAN 1770-020 | DUTY STATUS -WHEREABOUTS UNKNOWN AND | 10 | 31 Oct 2023 |
-| 583 | MILPERSMAN 1770-030 | PERSONNEL CASUALTY REPORT PROCEDURES Responsibl e Office NAVPERSCOM (PERS-00C) | 6 | 29 Jan 2026 |
-| 584 | MILPERSMAN 1770-040 | REPORTING THE DEATH OF NON-ACTIVE DUTY SAILORS | 3 | 9 Mar 2010 |
-| 585 | MILPERSMAN 1770-060 | JUDGE ADVOCATE GENER AL MANUAL (JAGMAN) REPORTING REQUIREMEN TS FOR LINE OF DUTY (LOD) DETERMINATIONS IN DEATH CASES | 2 | 30 Aug 2022 |
-| 586 | MILPERSMAN 1770-090 | SUICIDE PREVENTION PROGRAM | 2 | 29 Dec 2020 |
-| 587 | MILPERSMAN 1770-100 | REPORTING REQUIREMENTS IN THE EVENT OF A NAVAL DISASTER | 2 | 9 Mar 2010 |
-| 588 | MILPERSMAN 1770-140 | COMMANDING OFFICER’S LETTER TO NEXT OF KIN | 5 | 8 Aug 2016 |
-| 589 | MILPERSMAN 1770-150 | RELEASE OF CASUALTY INFORMATION TO THE MEDIA OR GENERAL PUBLIC | 2 | 19 Mar 2010 |
-| 590 | MILPERSMAN 1770-160 | Casualty Assistance Calls Program (CACP) NAVPERSCOM CUSTOMER SERVICE CENTER | 5 | 22 Jul 2011 |
-| 591 | MILPERSMAN 1770-170 | NOTIFICATION OF NEXT OF KIN IN CASE OF DEATH, “DUTY | 4 | 17 May 2022 |
-| 592 | MILPERSMAN 1770-200 | Deceased Member Personal Effects | 6 | 03 May 2024 |
-| 593 | MILPERSMAN 1770-210 | MANUAL FOR ESCORTS OF DECEASED NAVAL PERSONNEL | 1 | 10 Mar 2005 |
-| 594 | MILPERSMAN 1770-230 | WOUNDED, ILL, AND INJURED SAILORS: CASUALTY REPORTING, NOTIFICATION , AND BEDSIDE TRAVEL | 9 | 31 Jan 2023 |
-| 595 | MILPERSMAN 1770-260 | CIVILIAN EMPLOYEE CASUALTY REPORTING, NOTIFICATION, AND ASSISTANCE | 3 | 5 Jan 2013 |
-| 596 | MILPERSMAN 1770-270 | FUNERAL TRAVEL | 5 | 24 Feb 2011 |
-| 597 | MILPERSMAN 1770-271 | MEMORIAL SERVICE TRAVEL | 6 | 2 Aug 2010 |
-| 598 | MILPERSMAN 1770-275 | PRESENTATION OF BURIAL FLAGS | 3 | 20 Apr 2009 |
-| 599 | MILPERSMAN 1770-280 | DEATH GRATUITY | 9 | 4 Aug 2014 |
-| 600 | MILPERSMAN 1772-010 | RESERVE COMPONENT SURVIVOR BENEFIT PLAN (RC-SBP) | 8 | 15 May 2025 |
-| 601 | MILPERSMAN 1780-011 | TRANSFER OF EDUCATION BENEFITS | 13 | 17 May 2022 |
-| 602 | MILPERSMAN 1800-010 | GENERAL GUIDELINES FOR CONDUCTING CEREMONY FOR RETIREMENT OR TRANSFER TO THE FLEET RESERVE | 9 | 2 Oct 2013 |
-| 603 | MILPERSMAN 1800-020 | EFFECTIVE DATE OF RETIREMENT, ISSUANCE OF RETIREMENT ORDERS AND AUTHORIZATION | 3 | 24 Feb 2016 |
-| 604 | MILPERSMAN 1800-040 | (Scanned/image-only — text not extractable) | 2 |  |
-| 605 | MILPERSMAN 1800-060 | AUTHORIZATION OF NAVY RESERVE RETIREMENT POINT CREDIT FOR INSTRUCTION RECEIVED IN CONNECTION WITH PROFESSIONAL CONVENTIONS OR SIMILAR MEETINGS | 2 | 3 Aug 2013 |
-| 606 | MILPERSMAN 1800-070 | BENEFITS OF THE ARMED FORCES RETIREMENT HOME (UNITED | 3 |  |
-| 607 | MILPERSMAN 1810-010 | VOLUNTARY RETIREMENT OF ENLISTED PERSONNEL – 30 OR MORE YEARS OF ACTIVE SERVICE | 4 | 19 Jan 2020 |
-| 608 | MILPERSMAN 1810-020 | SUBMISSION OF APPLICATION FOR VOLUNTARY RETIREMENT FROM ACTIVE DUTY (OFFICER) | 5 | 21 Nov 2018 |
-| 609 | MILPERSMAN 1810-080 | ENROLLMENT IN THE BLENDED RETIREMENT SYSTEM | 9 | 15 Nov 2018 |
-| 610 | MILPERSMAN 1810-081 | CONTINUATION PAY FOR SERVICE MEMBERS ENROLLED IN THE BLENDED RETIREMENT SYSTEM | 7 | 22 Feb 2020 |
-| 611 | MILPERSMAN 1810-082 | LUMP-SUM PAYMENT OF THE RETIREMENT ANNUITY FOR SERVICE MEMBERS ENROLLED IN THE BLENDED RETIREMENT SYSTEM | 6 | 24 Aug 2018 |
-| 612 | MILPERSMAN 1811-010 | RETENTION ON OR RECALL TO ACTIVE DUTY IN A RETIRED STATUS | 5 | 23 Apr 2012 |
-| 613 | MILPERSMAN 1820-010 | RETIREMENT OF MEMBERS OF THE FLEET RESERVE | 2 | 3 Aug 2013 |
-| 614 | MILPERSMAN 1820-020 | NON-REGULAR RESERVE RETIREMENT WITHOUT PAY – QUALIFICATION , PROCEDURES, SUBMISSIONS , AND PROCESSING | 14 | 21 Sep 2015 |
-| 615 | MILPERSMAN 1820-030 | NON-REGULAR RESERVE RETIREMENT WITH PAY – QUALIFICATION , PROCEDURES, SUBMISSIONS , AND PROCESSING | 9 | 1 Dec 2015 |
-| 616 | MILPERSMAN 1820-040 | NOTIFICATION OF ELIGIBILITY RETIRED PAY FOR NON-REGULAR | 2 | 16 Feb 2026 |
-| 617 | MILPERSMAN 1820-050 | REQUIREMENTS FOR A YEAR OF QUALIFYING SERVICE TOWARD A NON-REGULAR (RESERVE) RETIREMENT | 12 | 5 Jan 2015 |
-| 618 | MILPERSMAN 1830-010 | MEMBERS OF FLEET RESERVE SUBJECT TO THE UNIFORM CODE OF MILITARY JUSTICE | 1 | 24 Oct 2005 |
-| 619 | MILPERSMAN 1830-020 | (Scanned/image-only — text not extractable) | 1 |  |
-| 620 | MILPERSMAN 1830-030 | PHYSICAL EXAMINATION IN CONNECTION WITH RETIREMENT, TRANSFERS TO FLEET RESERVE AND AS A FLEET RESERVIST | 3 | 7 Dec 2005 |
-| 621 | MILPERSMAN 1830-040 | TRANSFER TO FLEET RESERVE AND RELEASE FROM ACTIVE DUTY – 20 YEARS | 13 | 08 Oct 2024 |
-| 622 | MILPERSMAN 1830-060 | (Scanned/image-only — text not extractable) | 1 |  |
-| 623 | MILPERSMAN 1830-070 | (Scanned/image-only — text not extractable) | 1 |  |
-| 624 | MILPERSMAN 1850-010 | (Scanned/image-only — text not extractable) | 1 |  |
-| 625 | MILPERSMAN 1850-020 | ACTION FOLLOWING APPROVED DISABILITY RETIREMENT | 3 | 08 Oct 2024 |
-| 626 | MILPERSMAN 1850-030 | Temporary Disability Retired List | 4 | 26 Nov 2025 |
-| 627 | MILPERSMAN 1850-040 | (Scanned/image-only — text not extractable) | 8 |  |
-| 628 | MILPERSMAN 1900-015 | SEPARATION, FLEET RESERVE, AND RETIREMENT DOCUMENT SUBMISSION | 3 | 01 Oct 2025 |
-| 629 | MILPERSMAN 1900-020 | CONVENIENCE OF THE GOVERNMENT - SEPARATION BASED ON CONSCIENTIOUS OBJECTION (ENLISTED AND OFFICERS) | 16 | 29 Dec 2020 |
-| 630 | MILPERSMAN 1900-030 | SEPARATION OF ENLISTED OR OFFICER PERSONNEL BY REASON OF CONVENIENCE OF THE GOVERNMENT - SURVIVING FAMILY MEMBER | 5 | 29 Dec 2020 |
-| 631 | MILPERSMAN 1900-040 | TRANSFER TO THE RETIRED LIST, RETIRED RESERVE, OR THE FLEET RESERVE IN A RESTRICTED STATUS | 5 | 11 Nov 2021 |
-| 632 | MILPERSMAN 1900-120 | SEPARATION BY REASON OF CONVENIENCE OF THE GOVERNMENT - MEDICAL CONDITIONS NOT AMOUNTING TO A DISABILITY | 9 | 9 Nov 2018 |
-| 633 | MILPERSMAN 1900-808 | PHYSICAL EXAMINATION FOR SEPARATION | 3 | 21 Nov 2023 |
-| 634 | MILPERSMAN 1910-010 | ENLISTED ADMINISTRATIVE SEPARATION (ADSEP) | 4 | 18 Oct 2019 |
-| 635 | MILPERSMAN 1910-050 | ENLISTED INVOLUNTARY SEPARATION PAY (NON- DISABILITY) – RESERVE REQUIREMENTS AND OBLIGATIONS | 6 | 24 Aug 2018 |
-| 636 | MILPERSMAN 1910-100 | REASONS FOR SEPARATION | 2 | 8 Mar 2024 |
-| 637 | MILPERSMAN 1910-102 | SEPARATION BY REASON OF CHANGES IN SERVICE OBLIGATION (ACTIVE DUTY AND INACTIVE NAVY RESERVISTS) INCLUDING INTER-SERVICE TRANSFER OR COMMISSION | 9 | 29 Dec 2025 |
-| 638 | MILPERSMAN 1910-104 | SEPARATION BY REASON OF EXPIRATION OF ACTIVE OBLIGATED SERVICE (EAOS) | 2 | 03 May 2023 |
-| 639 | MILPERSMAN 1910-106 | SEPARATION IN LIEU OF TRIAL BY COURT-MARTIAL | 4 | 11 Nov 2021 |
-| 640 | MILPERSMAN 1910-108 | SEPARATION BY REASON OF CONVENIENCE OF THE GOVERNMENT - EARLY RELEASE TO FURTHER EDUCATION | 3 |  |
-| 641 | MILPERSMAN 1910-110 | SEPARATION BY REASON OF CONVENIENCE OF THE GOVERNMENT – DEPENDENCY OR HARDSHIP | 11 | 29 Dec 2020 |
-| 642 | MILPERSMAN 1910-112 | SEPARATION BY REASON OF CONVENIENCE OF THE GOVERNMENT – PREGNANCY | 3 |  |
-| 643 | MILPERSMAN 1910-118 | SEPARATION BY REASON OF CONVENIENCE OF THE GOVERNMENT - WHEN A RESERVIST BECOMES A MINISTER | 2 | 11 Nov 2021 |
-| 644 | MILPERSMAN 1910-124 | SEPARATION BY REASON OF CONVENIENCE OF THE GOVERNMENT - PARENTHOOD (FAILURE TO MAINTAIN CURRENT FAMILY CARE PLAN) | 5 | 29 Dec 2020 |
-| 645 | MILPERSMAN 1910-125 | FAILURE TO COMPLETE INITIAL SKILLS TRAINING PIPELINE | 3 | 31 May 2013 |
-| 646 | MILPERSMAN 1910-126 | SEPARATION BY REASON OF CONVENIENCE OF THE GOVERNMENT - REVIEW ACTION | 1 | 24 Mar 2022 |
-| 647 | MILPERSMAN 1910-127 | SEPARATION BY REASON OF CONVENIENCE OF THE GOVERNMENT - BEING AN ALIEN | 3 | 11 Nov 2021 |
-| 648 | MILPERSMAN 1910-128 | SEPARATION BY REASON OF DEFECTIVE ENLISTMENTS AND INDUCTIONS – MINOR | 2 | 11 Nov 2021 |
-| 649 | MILPERSMAN 1910-130 | SEPARATION BY REASON OF DEFECTIVE ENLISTMENTS AND INDUCTIONS - ERRONEOUS ENLISTMENT | 3 | 11 Nov 2021 |
-| 650 | MILPERSMAN 1910-132 | SEPARATION BY REASON OF DEFECTIVE ENLISTMENTS AND INDUCTIONS - DEFECTIVE ENLISTMENTS | 3 | 11 Nov 2021 |
-| 651 | MILPERSMAN 1910-133 | FAILURE TO COMPLETE CHANGE OF RATING (CONVERSION) PROCESS | 2 | 29 Dec 2020 |
-| 652 | MILPERSMAN 1910-134 | SEPARATION BY REASON OF DEFECTIVE ENLISTMENTS AND INDUCTIONS - FRAUDULENT ENTRY INTO NAVAL SERVICE | 5 | 11 Nov 2021 |
-| 653 | MILPERSMAN 1910-136 | SEPARATION FROM THE DELAYED ENTRY PROGRAM (DEP) | 1 | 11 Nov 2021 |
-| 654 | MILPERSMAN 1910-138 | SEPARATION BY REASON OF MISCONDUCT - MINOR DISCIPLINARY INFRACTIONS | 2 | 11 Nov 2021 |
-| 655 | MILPERSMAN 1910-140 | SEPARATION BY REASON OF MISCONDUCT - PATTERN OF MISCONDUCT | 2 | 11 Nov 2021 |
-| 656 | MILPERSMAN 1910-142 | SEPARATION BY REASON OF MISCONDUCT - COMMISSION OF A SERIOUS OFFENSE | 2 | 12 Jun 2024 |
-| 657 | MILPERSMAN 1910-144 | SEPARATION BY REASON OF MISCONDUCT - CIVILIAN CONVICTION | 3 | 9 Oct 2019 |
-| 658 | MILPERSMAN 1910-146 | SEPARATION BY REASON OF MISCONDUCT – DRUG ABUSE | 4 |  |
-| 659 | MILPERSMAN 1910-152 | SEPARATION BY REASON OF NON-COMPLIANCE WIT H ALCOHOL REHABILITATION TREATMENT | 3 | 02 May 2024 |
-| 660 | MILPERSMAN 1910-153 | SEPARATION BY REASON OF MULTIPLE INCIDENTS OF DRIVING UNDER THE INFLUENCE (DUI)/D RIVING WHILE INTOXICATED (DWI) | 2 | 11 Feb 2021 |
-| 661 | MILPERSMAN 1910-154 | SEPARATION BY REASON OF ENTRY-LEVEL PERFORMANCE AND CONDUCT | 2 | 18 Dec 2023 |
-| 662 | MILPERSMAN 1910-156 | SEPARATION BY REASON OF UNSATISFACTORY PERFORMANCE | 3 | 11 Nov 2021 |
-| 663 | MILPERSMAN 1910-157 | SEPARATION BY REASON OF FAILURE TO MAINTAIN SECURITY CLEARANCE | 2 | 03 Jan 2024 |
-| 664 | MILPERSMAN 1910-158 | SEPARATION BY REASON OF UNSATISFACTORY PARTICIPATION IN THE READY RESERVE | 5 |  |
-| 665 | MILPERSMAN 1910-160 | SEPARATION BY REASON OF SUPREMACIST OR EXTREMIST CONDUCT | 2 | 11 Nov 2021 |
-| 666 | MILPERSMAN 1910-162 | SEPARATION BY REASON OF FAMILY ADVOCACY PROGRAM (FAP) REHABILITATION FAILURE | 2 | 11 Nov 2021 |
-| 667 | MILPERSMAN 1910-164 | SEPARATION BY REASON OF BEST INTEREST OF THE SERVICE (BIOTS) | 2 | 13 Jul 2019 |
-| 668 | MILPERSMAN 1910-166 | ADMINISTRATIVE ACTION FOR FLEET RESERVE/RETIRED RESERVE ELIGIBLE PERSONNEL | 6 | 11 Nov 2021 |
-| 669 | MILPERSMAN 1910-168 | SEPARATION BY REASON OF PHYSICAL DISABILITY | 7 | 11 Nov 2021 |
-| 670 | MILPERSMAN 1910-171 | SEPARATION BY REASON OF PHYSICAL FITNESS ASSESSMENT (PFA) FAILURE | 4 | 22 Jan 2026 |
-| 671 | MILPERSMAN 1910-182 | DISPOSITION OF PERSONNEL DISENROLLED FROM A NAVY OFFICER CANDIDATE PROGRAM | 2 | 9 Jan 2015 |
-| 672 | MILPERSMAN 1910-184 | DISPOSITION OF ENLISTED PERSONNEL ACCEPTED FOR | 4 | 11 Nov 2021 |
-| 673 | MILPERSMAN 1910-186 | DISPOSITION OF ENLISTED PERSONNEL DISENROLLED FROM THE MILITARY ACADEMY, THE AIR FORCE ACADEMY, OR THE COAST GUARD ACADEMY | 3 | 11 Nov 2021 |
-| 674 | MILPERSMAN 1910-202 | COUNSELING AND REHABILITATION | 2 | 11 Nov 2021 |
-| 675 | MILPERSMAN 1910-206 | TEMPORARY DUTY (TEMDU) TRANSFER FOR SEPARATION PROCESSING | 2 | 11 Nov 2021 |
-| 676 | MILPERSMAN 1910-208 | ADMINISTRATIVE SEPARATION (ADSEP) PROCESSING FOR MEMBERS BEYOND EXPIRATION OF ACTIVE OBLIGATED SERVICE (EAOS) OR EXPIRATION OF OBLIGATED SERVICE (EOS) | 1 | 11 Nov 2021 |
-| 677 | MILPERSMAN 1910-210 | PROCESSING FOR ALL REASONS | 1 | 11 Nov 2021 |
-| 678 | MILPERSMAN 1910-212 | FACTORS CONSIDERED IN RETENTION OR SEPARATION | 1 | 11 Nov 2021 |
-| 679 | MILPERSMAN 1910-214 | ADVERSE MATTER FROM A PRIOR ENLISTMENT | 1 | 11 Nov 2021 |
-| 680 | MILPERSMAN 1910-216 | MEMBERS AWAITING MEDICAL BOARD ACTION | 2 | 11 Nov 2021 |
-| 681 | MILPERSMAN 1910-218 | MEMBERS ASSIGNED TO LIMITED DUTY (LIMDU) | 1 | 11 Nov 2021 |
-| 682 | MILPERSMAN 1910-220 | LIMITATIONS ON SEPARATION ACTIONS | 2 | 11 Nov 2021 |
-| 683 | MILPERSMAN 1910-222 | SUSPENSION OF SEPARATION | 1 |  |
-| 684 | MILPERSMAN 1910-224 | ACTION DURING THE PERIOD OF SUSPENSION | 1 | 16 Jun 2008 |
-| 685 | MILPERSMAN 1910-226 | CONDITIONAL WAIVERS | 3 | 8 Oct 2019 |
-| 686 | MILPERSMAN 1910-228 | UNIFORMS AND PAY UPON SEPARATION | 2 | 11 Nov 2021 |
-| 687 | MILPERSMAN 1910-230 | ADMINISTRATIVE SEPARATION PROCESSING & DISCHARGE IN ABSENTIA | 3 | 03 May 2023 |
-| 688 | MILPERSMAN 1910-232 | PRE-SEPARATION TREATMENT FOR DRUG/ALCOHOL DEPENDENT PERSONNEL | 2 | 11 Nov 2021 |
-| 689 | MILPERSMAN 1910-233 | MANDATORY SEPARATION PROCESSING | 3 | 9 Oct 2019 |
-| 690 | MILPERSMAN 1910-300 | GUIDELINES ON CHARACTERIZATION OF SERVICE | 1 | 11 Nov 2021 |
-| 691 | MILPERSMAN 1910-302 | GENERAL CONSIDERATIONS ON CHARACTERIZATION OF SERVICE | 1 | 11 Nov 2021 |
-| 692 | MILPERSMAN 1910-304 | DESCRIPTION OF CHARACTERIZATION OF SERVICE | 2 | 07 Dec 2023 |
-| 693 | MILPERSMAN 1910-306 | LIMITATIONS ON CHARACTERIZATION OF SERVICE | 1 | 11 Nov 2021 |
-| 694 | MILPERSMAN 1910-308 | ENTRY-LEVEL AND UNCHARACTERIZED SEPARATIONS | 4 | 2 Oct 2023 |
-| 695 | MILPERSMAN 1910-402 | ADMINISTRATIVE BOARD AND NOTIFICATION PROCEDURE S | 3 | 9 Oct 2019 |
-| 696 | MILPERSMAN 1910-406 | CONSULTATION WITH COUNSEL PRIOR TO ELECTING RIGHTS | 2 | 11 Nov 2021 |
-| 697 | MILPERSMAN 1910-408 | RESPONSE TIME TO NOTICE | 1 | 11 Nov 2021 |
-| 698 | MILPERSMAN 1910-410 | WHEN A MEMBER IS PROCESSED FOR MULTIPLE REASONS | 1 | 11 Nov 2021 |
-| 699 | MILPERSMAN 1910-412 | HOW TO PREPARE A SWORN AFFIDAVIT OF SERVICE BY MAIL | 2 | 11 Nov 2021 |
-| 700 | MILPERSMAN 1910-414 | ACTIONS OF THE COMMANDING OFFICER (CO) | 1 | 11 Nov 2021 |
-| 701 | MILPERSMAN 1910-500 | GUIDELINES ON CONDUCTING AN ADMINISTRATIVE BOARD | 1 | 11 Nov 2021 |
-| 702 | MILPERSMAN 1910-502 | ADMINISTRATIVE BOARD COMPOSITION | 3 | 11 Nov 2021 |
-| 703 | MILPERSMAN 1910-504 | RIGHT TO COUNSEL | 1 | 11 Nov 2021 |
-| 704 | MILPERSMAN 1910-506 | SENIOR MEMBER OF BOARD | 1 | 11 Nov 2021 |
-| 705 | MILPERSMAN 1910-508 | WITNESSES AT ADMINISTRATIVE BOARD | 3 | 11 Nov 2021 |
-| 706 | MILPERSMAN 1910-510 | PRESENTATION OF EVIDENCE | 1 | 11 Nov 2021 |
-| 707 | MILPERSMAN 1910-512 | RIGHTS OF THE RESPONDENT | 1 | 11 Nov 2021 |
-| 708 | MILPERSMAN 1910-514 | WHAT IS BINDING ON ADMINISTRATIVE BOARDS | 1 | 11 Nov 2021 |
-| 709 | MILPERSMAN 1910-516 | RECORD OF PROCEEDINGS FOR ADMINISTRATIVE SEPARATION (ADSEP) BOARDS | 15 | 24 Jan 2024 |
-| 710 | MILPERSMAN 1910-518 | FINDINGS AND RECOMMENDATIONS | 3 | 11 Nov 2021 |
-| 711 | MILPERSMAN 1910-600 | FORWARDING CASES TO THE SEPARATION AUTHORITY (SA) | 7 | 11 Nov 2021 |
-| 712 | MILPERSMAN 1910-700 | SEPARATION AUTHORITY | 1 | 11 Nov 2021 |
-| 713 | MILPERSMAN 1910-702 | GENERAL GUIDANCE FOR SEPARATION AUTHORITIES (SA) | 4 | 11 Nov 2021 |
-| 714 | MILPERSMAN 1910-704 | DETERMINING SEPARATION AUTHORITY | 8 | 11 Nov 2021 |
-| 715 | MILPERSMAN 1910-708 | SEPARATION AUTHORITY ACTION WHEN USING NOTIFICATION PROCEDURES OR ADMINISTRATIVE BOARD IS WAIVED | 2 | 11 Nov 2021 |
-| 716 | MILPERSMAN 1910-710 | PROCEDURES WHEN AN ADMINISTRATIVE SEPARATION BOARD WAS HELD | 4 | 11 Nov 2021 |
-| 717 | MILPERSMAN 1910-712 | GENERAL COURT-MARTIAL CONVENING AUTHORITY (GCMCA) LETTER AND MESSAGE FORMATS FOR DIRECTING ADMINISTRATIVE SEPARATION (ADSEP) | 3 | 11 Nov 2021 |
-| 718 | MILPERSMAN 1910-800 | ACTIONS WHICH EFFECT THE SEPARATION | 1 | 11 Nov 2021 |
-| 719 | MILPERSMAN 1910-802 | PRE-SEPARATION INTERVIEW OF ENLISTED PERSONNEL | 2 | 11 Nov 2021 |
-| 720 | MILPERSMAN 1910-804 | INFORMATION TO BE PROVIDED UPON SEPARATION REGARDING CLAIMS FOR COMPENSATION , PENSION, OR HOSPITALIZATION TO BE FILED WITH THE DEPARTMENT OF VETERANS AFFAIRS (DVA) | 3 | 11 Nov 2021 |
-| 721 | MILPERSMAN 1910-806 | ACKNOWLEDGMENT OF SERVICE UPON SEPARATION | 2 | 11 Nov 2021 |
-| 722 | MILPERSMAN 1910-810 | ISSUANCE OF CERTIFICATES , BUTTONS, AND PINS UPON SEPARATION | 2 | 11 Nov 2021 |
-| 723 | MILPERSMAN 1910-812 | PLACE OF SEPARATION | 8 | 20 Feb 2025 |
-| 724 | MILPERSMAN 1916-010 | RELEASE FROM ACTIVE DUTY OF RESERVE AND RETIRED ENLISTED PERSONNEL | 3 | 05 May 2024 |
-| 725 | MILPERSMAN 1920-010 | TRANSFER OF AN OFFICER FOR ADMINISTRATIVE SEPARATION PROCESSING | 1 | 11 Nov 2021 |
-| 726 | MILPERSMAN 1920-020 | INVOLUNTARY SEPARATION PAY (NON-DISABILITY) – OVERVIEW | 2 | 11 Nov 2021 |
-| 727 | MILPERSMAN 1920-030 | INVOLUNTARY SEPARATION PAY (NON-DISABILITY) - DEFINITIONS AND | 4 | 23 Mar 2007 |
-| 728 | MILPERSMAN 1920-040 | INVOLUNTARY SEPARATION PAY (NON-DISABILITY) - ELIGIBILITY CRITERIA AND RESTRICTIONS | 6 | 20 Sep 2011 |
-| 729 | MILPERSMAN 1920-050 | OFFICER INVOLUNTARY SEPARATION PAY (NON-DISABILITY) RESERVE REQUIREMENTS AND OBLIGATIONS | 7 | 15 May 2011 |
-| 730 | MILPERSMAN 1920-060 | INVOLUNTARY SEPARATION PAY (NON-DISABILITY) - PAY CALCULATION AND PAYMENT DOCUMENTATION | 2 | 20 Oct 2005 |
-| 731 | MILPERSMAN 1920-070 | SEPARATION OF OFFICER PERSONNEL BY REASON OF SUPREMACIST OR EXTREMIST CONDUCT | 2 | 11 Nov 2021 |
-| 732 | MILPERSMAN 1920-080 | RELEASE OF OFFICERS FROM ACTIVE DUTY PRIOR TO COMPLETION OF MINIMUM REQUIRED SERVICE | 1 | 11 Nov 2021 |
-| 733 | MILPERSMAN 1920-090 | RELEASE FROM ACTIVE DUTY (RAD) PROCEDURES | 2 | 11 Nov 2021 |
-| 734 | MILPERSMAN 1920-100 | EARLY RELEASE OF OFFICERS FROM ACTIVE DUTY | 1 | 11 Nov 2021 |
-| 735 | MILPERSMAN 1920-110 | INVOLUNTARY RELEASE FROM ACTIVE DUTY ORDERS OF READY RESERVE OFFICERS | 2 | 15 Sep 2017 |
-| 736 | MILPERSMAN 1920-120 | REVOCATION OF COMMISSIONS , TERMINATION OF APPOINTMENTS , AND DISCHARGE OF OFFICERS BY OTHER THAN SELECTION BOARD ACTION | 3 | 11 Nov 2021 |
-| 737 | MILPERSMAN 1920-130 | TERMINATION OF OFFICER STATUS, GENERAL | 2 | 29 Dec 2020 |
-| 738 | MILPERSMAN 1920-140 | SEPARATION ORDERS FOR OFFICERS | 3 | 8 Oct 2015 |
-| 739 | MILPERSMAN 1920-160 | SEPARATION OF NAVY RESERVE OFFICERS ON INACTIVE DUTY | 1 | 24 Jul 2006 |
-| 740 | MILPERSMAN 1920-170 | CONTINGENT RESIGNATION FOR ACCEPTANCE TO ATTEND MEDICAL TRAINING UNDER THE ARMED FORCES HEALTH PROFESSIONS SCHOLARSHIP PROGRAM (AFHPSP) OR AT THE UNIFORMED SERVICES UNIVERSITY OF THE HEALTH SCIENCES (USUHS) | 4 | 11 Nov 2021 |
-| 741 | MILPERSMAN 1920-180 | SEPARATION OF OFFICERS AT THE CONVENIENCE OF THE GOVERNMENT ON THE BASIS OF PREGNANCY | 4 | 22 Dec 2015 |
-| 742 | MILPERSMAN 1920-200 | OFFICER RESIGNATION TYPES AND PROCEDURES | 22 | 12 Aug 2024 |
-| 743 | MILPERSMAN 1920-210 | TYPES OF DISCHARGE FOR OFFICERS | 4 | 22 Aug 2016 |
-| 744 | MILPERSMAN 1920-230 | SEPARATION OF OFFICERS UNDER VARIOUS STATUTORY PROVISIONS NOT INCLUDED IN OTHER ARTICLES | 2 | 11 Nov 2021 |
-| 745 | MILPERSMAN 1920-240 | RELEASE OF OFFICERS FROM ACTIVE DUTY PRIOR TO COMPLETION OF MINIMUM SERVICE REQUIREMENT (MSR) TO PARTICIPATE IN ACTIVITIES WITH POTENTIAL RECRUITING OR PUBLIC AFFAIRS BENEFIT TO THE NAVY | 5 | 28 Oct 2011 |
-| 746 | MILPERSMAN 1920-250 | (Scanned/image-only — text not extractable) |  |  |
-| 747 | MILPERSMAN 1920-260 | OFFICER UNAUTHORIZED ABSENCE (UA) | 4 |  |
-| 748 | MILPERSMAN 3060-010 | COMMAND INDIVIDUAL AUGMENTEE COORDINATOR (CIAC) | 8 | 10 Jul 2025 |
-| 749 | MILPERSMAN 3060-020 | INDIVIDUAL AUGMENTEE MANPOWER MANAGEMENT (IAMM) | 16 | 10 Jul 2025 |
-| 750 | MILPERSMAN 3060-030 | GLOBAL SUPPORT ASSIGNMENT (GSA) | 14 | 10 Jul 2025 |
-| 751 | MILPERSMAN 3060-040 | Overseas Support Assignment (OSA) | 10 | 10 Jul 2025 |
-| 752 | MILPERSMAN 3060-050 | ACCESSING THE READY RESERVE | 9 | 07 Jul 2025 |
-| 753 | MILPERSMAN 3060-060 | DELAY, DEFERMENT, AND EXEMPTION REQUESTS AND SPECIAL CASES BOARDS (SCB) | 31 | 01 Apr 2025 |
-| 754 | MILPERSMAN 3060-070 | Selected Reserve and Voluntary Training Unit Activation Screening Criteria | 3 | 27 Apr 2025 |
-| 755 | MILPERSMAN 3060-080 | READINESS AND SCREENING FOR ACTIVE COMPONENT (AC) AND RESERVE COMPONENT (RC) SAILORS ON AUGMENTATION ORDERS | 7 | 10 Jul 2025 |
-| 756 | MILPERSMAN 3060-090 | MANAGEMENT OF MISCONDUCT ALLEGATIONS INVOLVING ACTIVE COMPONENT (AC) AND RESERVE COMPONENT (RC) SAILORS WHILE ON AUGMENTATION ORDERS | 7 | 20 Mar 2025 |
-| 757 | MILPERSMAN 4050-010 | PRIVATELY OWNED VEHICLE SHIPMENT ALLOWANCE | 5 | 25 Jan 2024 |
-| 758 | MILPERSMAN 4050-020 | HOUSEHOLD GOODS (HHG) SHIPMENT AND STORAGE ENTITLEMENT | 7 | 08 Jul 2024 |
-| 759 | MILPERSMAN 4650-010 | ENTRY INTO AND DEPARTURE FROM THE UNITED STATES BY ALIEN MEMBERS OF THE NAVY AND THEIR FAMILIES | 2 | 17 Mar 2006 |
-| 760 | MILPERSMAN 5215-010 | PROCEDURES FOR PREPARING ARTICLES AND SUBMITTING CHANGES TO NAVPERS 15560D, NAVAL MILITARY PERSONNEL MANUAL (MILPERSMAN) | 22 | 09 Jan 2026 |
-| 761 | MILPERSMAN 5216-010 | CONGRESSIONAL CORRESPONDENCE | 1 | 4 Feb 2011 |
-| 762 | MILPERSMAN 5219-010 | OBTAINING FORMS, PUBLICATIONS , AND DIRECTIVES UNDER THE PURVIEW OF THE BUREAU OF NAVAL PERSONNEL | 2 | 12 Jun 2024 |
-| 763 | MILPERSMAN 5312-010 | UTILIZATION OF CIVILIAN AND MILITARY PERSONNEL IN NAVY MORALE, WELFARE, OR RECREATIONAL FUNCTIONS (MWR) | 3 | 21 Mar 2005 |
-| 764 | MILPERSMAN 5352-010 | NATURALIZATION AND DERIVED CITIZENSHIP OF MILITARY PERSONNEL | 6 | 25 Jun 2021 |
-| 765 | MILPERSMAN 5352-020 | NATURALIZATION OF ALIEN SPOUSE AND/OR ALIEN ADOPTED CHILDREN OF MILITARY PERSONNEL ORDERED TO A FOREIGN COUNTRY | 3 | 7 March 2008 |
-| 766 | MILPERSMAN 5352-030 | MARRIAGE OF NAVAL PERSONNEL TO FOREIGN NATIONALS | 3 | 26 Oct 2017 |
-| 767 | MILPERSMAN 5360-010 | NAVY MILITARY FUNERALS | 1 | 10 Mar 2005 |
-| 768 | MILPERSMAN 5360-020 | CHAPLAIN (RESERVE COMPONENT) SUPPORT OF MILITARY FUNERALS | 2 | 24 Mar 2005 |
-| 769 | MILPERSMAN 5370-010 | OUTSIDE EMPLOYMENT OF MEMBERS ON ACTIVE DUTY | 4 | 14 Apr 2006 |
-| 770 | MILPERSMAN 5370-030 | RESTRICTIONS ON CIVILIAN EMPLOYMENT OF RETIRED MEMBERS | 1 | 16 Dec 2005 |
-| 771 | MILPERSMAN 5510-010 | SECURITY CLEARANCE REQUIREMENTS AND PROCEDURES FOR MEMBERS SCHEDULED TO ATTEND CLASSIFIED COURSES OF INSTRUCTION | 5 | 14 Nov 2005 |
-| 772 | MILPERSMAN 5726-010 | LIAISON WITH CIVIL AGENCIES | 4 | 20 Jun 2005 |
-| 773 | MILPERSMAN 5760-010 | NAVY SPOUSE ORGANIZATIONS AND ACTIVITIES | 3 | 23 Sep 2018 |
-| 774 | MILPERSMAN 5800-010 | PATERNITY COMPLAINTS | 5 |  |
-| 775 | MILPERSMAN 5812-010 | SETTING ASIDE NONJUDICIAL PUNISHMENT (NJP) | 6 | 18 Aug 2025 |
-| 776 | MILPERSMAN 5815-010 | EXECUTING A DISHONORABLE OR BAD CONDUCT DISCHARGE | 3 | 21 Nov 2023 |
-| 777 | MILPERSMAN 5821-010 | DELIVERY OF PERSONNEL TO CIVILIAN AUTHORITIES | 1 | 21 Feb 2024 |
-| 778 | MILPERSMAN 6110-020 | PHYSICAL RISK CLASSIFICATION FOR OFFICER AND ENLISTED PERSONNEL ON INACTIVE DUTY | 3 | 15 Sep 2016 |
-| 779 | MILPERSMAN 6120-010 | ENLISTED PHYSICAL QUALIFICATIONS FOR CERTAIN DUTY ASSIGNMENT AND PHYSICAL EXAMINATION /MEDICAL SCREENING PRIOR TO TRANSFER OF DUTY | 2 | 30 Aug 2011 |
-| 780 | MILPERSMAN 6120-020 | PHYSICAL EXAMINATION AND MEDICAL SCREENING OF OFFICER PERSONNEL PRIOR TO TRANSFER | 1 | 26 Sep 2005 |
-| 781 | MILPERSMAN 7000-010 | (Scanned/image-only — text not extractable) | 1 |  |
-| 782 | MILPERSMAN 7000-020 | (Scanned/image-only — text not extractable) | 16 |  |
-| 783 | MILPERSMAN 7040-010 | BUPERSINST 7040.6/7040.7, FINANCIAL MANAGEMENT | 1 | 23 Jan 2006 |
-| 784 | MILPERSMAN 7220-010 | GENERAL INFORMATION CONCERNING PAY AND ALLOWANCES | 1 |  |
-| 785 | MILPERSMAN 7220-020 | (Scanned/image-only — text not extractable) | 2 |  |
-| 786 | MILPERSMAN 7220-030 | (Scanned/image-only — text not extractable) | 1 |  |
-| 787 | MILPERSMAN 7220-050 | (Scanned/image-only — text not extractable) | 1 |  |
-| 788 | MILPERSMAN 7220-070 | SPECIAL PAY FOR HARDSHIP DUTY (HDP) | 5 | 17 Dec 2024 |
-| 789 | MILPERSMAN 7220-075 | GUIDELINES FOR HARDS HIP DUTY PAY – TEMPO (HDP-T) | 15 | 18 Nov 2014 |
-| 790 | MILPERSMAN 7220-080 | INCENTIVE PAY FOR HAZARDOUS DUTY | 4 |  |
-| 791 | MILPERSMAN 7220-090 | HAZARDOUS DUTY INCENTIVE PAY (HDIP) FOR DIVING DUTY | 7 | 24 Feb 2025 |
-| 792 | MILPERSMAN 7220-100 | (Scanned/image-only — text not extractable) | 3 |  |
-| 793 | MILPERSMAN 7220-110 | SPECIAL PAY FOR DUTY SUBJECT TO IMMINENT DANGER OR HOSTILE FIRE | 2 | 21 Nov 2023 |
-| 794 | MILPERSMAN 7220-112 | PAY AND ALLOWANCE CONTINUATION (PAC) PROGRAM | 7 | 15 Dec 2009 |
-| 795 | MILPERSMAN 7220-113 | SPECIAL COMPENSATION FOR ASSISTANCE WITH ACTIVITIES OF DAILY LIVING (SCAADL) | 7 | 4 Jan 2013 |
-| 796 | MILPERSMAN 7220-114 | NAVAL SPECIAL WARFARE SKILL INCENTIVE PAY | 9 | 18 Nov 2021 |
-| 797 | MILPERSMAN 7220-120 | FAMILY SEPARATION ALLOWANCE (FSA) | 6 | 31 Oct 2023 |
-| 798 | MILPERSMAN 7220-130 | METHODS OF COMPUTING RETAINER PAY FOR A MEMBER OF THE FLEET RESERVE | 2 |  |
-| 799 | MILPERSMAN 7220-150 | BASIC ALLOWANCE FOR SUBSISTENCE (BAS) – SPECIALIZED TERMS | 2 | 27 Aug 2018 |
-| 800 | MILPERSMAN 7220-160 | BASIC ALLOWANCE FOR SUBSISTENCE (BAS) - GENERAL POLICIES | 4 | 1 Jun 2019 |
-| 801 | MILPERSMAN 7220-180 | BASIC ALLOWANCE FOR SUBSISTENCE (BAS) - PROCEDURES FOR SERVICE MEMBERS ON SEA DUTY | 2 | 1 Oct 2025 |
-| 802 | MILPERSMAN 7220-182 | BASIC ALLOWANCE FOR SUBSISTENCE (BAS) II | 4 | 21 Nov 2023 |
-| 803 | MILPERSMAN 7220-210 | DISLOCATION ALLOWANCE AND SECNAVFIND | 2 | 29 Aug 2005 |
-| 804 | MILPERSMAN 7220-220 | DISLOCATION ALLOWANCE (DLA) ENTITLEMENT | 2 | 15 Dec 2008 |
-| 805 | MILPERSMAN 7220-230 | CIVILIAN CLOTHING ALLOWANCE (CCA) FOR OFFICERS AND ENLISTED PERSONNEL | 4 | 19 Dec 2016 |
-| 806 | MILPERSMAN 7220-240 | OVERSEAS STATION ALLOWANCES | 2 |  |
-| 807 | MILPERSMAN 7220-250 | OVERSEAS COST-OF-LIVING ALLOWANCE (COLA) P OLICY | 2 |  |
-| 808 | MILPERSMAN 7220-260 | OVERSEAS HOUSING ALLOWANCE (OHA) | 2 | 24 Nov 2010 |
-| 809 | MILPERSMAN 7220-270 | OVERSEAS TEMPORARY LODGING ALLOWANCE (TLA) | 3 | 5 Feb 2009 |
-| 810 | MILPERSMAN 7220-280 | CONTINENTAL UNITED STATES (CONUS) TEMPORARY LODGING EXPENSE (TLE) | 2 | 30 Nov 2010 |
-| 811 | MILPERSMAN 7220-300 | ADVANCE PAY ON PERMANENT CHANGE OF STATION | 4 |  |
-| 812 | MILPERSMAN 7220-310 | ADVANCE PAY AND ALLOWANCES | 1 |  |
-| 813 | MILPERSMAN 7220-320 | PAY AND ALLOWANCES WHILE ON LEAVE | 1 |  |
-| 814 | MILPERSMAN 7220-330 | CHECKAGE OF PAY FOR EXCESS LEAVE | 4 |  |
-| 815 | MILPERSMAN 7220-340 | LUMP-SUM PAYMENT FOR ACCRUED LEAVE | 4 | 25 Sep 2018 |
-| 816 | MILPERSMAN 7220-350 | PAY AND ALLOWANCE WHILE AWAITING ON LEAVE ORDERS OR WHILE SICK OR WOUNDED | 2 |  |
-| 817 | MILPERSMAN 7220-360 | ENTITLEMENT TO PAY AND ALLOWANCES WHILE UNDER INVESTIGATION FOR FRAUDULENT ENLISTMENT OTHER THAN UNDERAGE | 2 |  |
-| 818 | MILPERSMAN 7220-370 | PAY ACCOUNTS OF RETIRING PERSONNEL | 1 | 2 Mar 2012 |
-| 819 | MILPERSMAN 7220-380 | DUAL COMPENSATION REGULATION APPLICABLE TO THE NAVY RESERVE | 5 | 2 Nov 2016 |
-| 820 | MILPERSMAN 7220-390 | SELL BACK OF LEAVE | 1 |  |
-| 821 | MILPERSMAN 7220-410 | RETROACTIVE STOP LOSS SPECIAL PAY COMPENSATION | 10 | 2 Aug 2018 |
+---
+
+| # | Document ID | Title / Subject | Publication Date | Start Page |
+|---|-------------|-----------------|-----------------|------------|
+| 1 | MILPERSMAN 1160-010 | AGE LIMITATION OF ENLISTED PERSONNEL FOR CONTINUATION ON ACTIVE DUTY | 10 Apr 2014 | 2 |
+| 2 | MILPERSMAN 1160-020 | REENLISTMENT CEREMONY | 1 Nov 2007 | 5 |
+| 3 | MILPERSMAN 1160-030 | CERTAIN ENLISTMENTS AND REENLISTMENTS UNDER SPECIAL PROGRAMS | 24 Apr 2013 | 7 |
+| 4 | MILPERSMAN 1160-031 | REQUIRED COUNSELING UPON ENLISTMENT AND REENLISTMENT | 20 Sep 2011 | 22 |
+| 5 | MILPERSMAN 1160-040 | EXTENSION OF ENLISTMENTS | 2 Sep 2010 | 23 |
+| 6 | MILPERSMAN 1160-050 | VOLUNTARY OR INVOLUNTARY EXTENSION OF ENLISTED SERVICE | 12 Apr 2007 | 33 |
+| 7 | MILPERSMAN 1160-060 | AGREEMENTS OF ENLISTED NAVAL RESERVISTS, FLEET RESERVE MEMBERS, AND RETIRED ENLISTED MEMBERS | 22 Aug 2002 | 42 |
+| 8 | MILPERSMAN 1160-070 | REENLISTMENT/EXTENSION OF ENLISTMENT IN THE NAVY RESERVE | 28 Dec 2006 | 45 |
+| 9 | MILPERSMAN 1160-100 | SELECTIVE TRAINING AND REENLISTMENT (STAR) PROGRAM | 4 Nov 2005 | 50 |
+| 10 | MILPERSMAN 1160-110 | NAVPERS 15878H, RETENTION TEAM MANUAL | 22 Aug 2002 | 58 |
+| 11 | MILPERSMAN 1160-120 | HIGH YEAR TENURE | 5 Oct 2015 | 59 |
 
 
 ---
