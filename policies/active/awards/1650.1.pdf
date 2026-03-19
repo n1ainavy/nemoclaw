@@ -1,0 +1,1046 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir="ltr" lang="en-US">
+<head>
+<APM_DO_NOT_TOUCH>
+
+<script type="text/javascript">
+(function(){
+window.SJm=!!window.SJm;try{(function(){(function(){})();var _Z=36;try{var iZ,lZ,LZ=s(712)?0:1;for(var Zs=(s(429),0);Zs<lZ;++Zs)LZ+=s(342)?1:3;iZ=LZ;window.Ss===iZ&&(window.Ss=++iZ)}catch(ss){window.Ss=iZ}var Is=!0;function _(Z){var S=arguments.length,I=[],L=1;while(L<S)I[L-1]=arguments[L++]-Z;return String.fromCharCode.apply(String,I)}
+function js(Z){var S=67;!Z||document[_(S,185,172,182,172,165,172,175,172,183,188,150,183,164,183,168)]&&document[J(S,185,172,182,172,165,172,175,172,183,188,150,183,164,183,168)]!==J(S,185,172,182,172,165,175,168)||(Is=!1);return Is}function l(Z,S){Z+=S;return Z.toString(36)}function Os(){}js(window[Os[J(_Z,146,133,145,137)]]===Os);js(typeof ie9rgb4!==l(1242178186163,_Z));
+js(RegExp("\x3c")[_(_Z,152,137,151,152)](function(){return"\x3c"})&!RegExp(l(42853,_Z))[l(1372169,_Z)](function(){return"'x3'+'d';"}));
+var zs=window[_(_Z,133,152,152,133,135,140,105,154,137,146,152)]||RegExp(J(_Z,145,147,134,141,160,133,146,136,150,147,141,136),l(-18,_Z))[l(1372169,_Z)](window["\x6e\x61vi\x67a\x74\x6f\x72"]["\x75\x73e\x72A\x67\x65\x6et"]),ZS=+new Date+(s(790)?748598:6E5),SS,_S,IS,JS=window[_(_Z,151,137,152,120,141,145,137,147,153,152)],lS=zs?s(461)?20766:3E4:s(941)?8446:6E3;
+document[J(_Z,133,136,136,105,154,137,146,152,112,141,151,152,137,146,137,150)]&&document[_(_Z,133,136,136,105,154,137,146,152,112,141,151,152,137,146,137,150)](J(_Z,154,141,151,141,134,141,144,141,152,157,135,140,133,146,139,137),function(Z){var S=70;document[J(S,188,175,185,175,168,175,178,175,186,191,153,186,167,186,171)]&&(document[_(S,188,175,185,175,168,175,178,175,186,191,153,186,167,186,171)]===_(S,174,175,170,170,171,180)&&Z[J(S,175,185,154,184,187,185,186,171,170)]?IS=!0:document[J(S,188,
+175,185,175,168,175,178,175,186,191,153,186,167,186,171)]===l(68616527596,S)&&(SS=+new Date,IS=!1,oS()))});function oS(){if(!document[_(53,166,170,154,167,174,136,154,161,154,152,169,164,167)])return!0;var Z=+new Date;if(Z>ZS&&(s(543)?744302:6E5)>Z-SS)return js(!1);var S=js(_S&&!IS&&SS+lS<Z);SS=Z;_S||(_S=!0,JS(function(){_S=!1},s(306)?0:1));return S}oS();var OS=[s(385)?13702323:17795081,s(661)?2147483647:27611931586,s(797)?1460240260:1558153217];
+function S_(Z){var S=68;Z=typeof Z===_(S,183,184,182,173,178,171)?Z:Z[_(S,184,179,151,184,182,173,178,171)](s(174)?36:27);var I=window[Z];if(!I||!I[_(S,184,179,151,184,182,173,178,171)])return;var L=""+I;window[Z]=function(Z,S){_S=!1;return I(Z,S)};window[Z][_(S,184,179,151,184,182,173,178,171)]=function(){return L}}for(var __=(s(167),0);__<OS[l(1294399169,_Z)];++__)S_(OS[__]);js(!1!==window[J(_Z,119,110,145)]);window.SZ=window.SZ||{};window.SZ.Oj="08523b8f281940006b911751b2e1e5d0ee91cdf33eabcf62636ae623eaa0ec15b3f36bcf01620f6d0ecac5168a960b6b60975fd213898cf7e8ae8b4cff3fe941f1eb212c4dce3e8a";
+function J(Z){var S=arguments.length,I=[];for(var L=1;L<S;++L)I.push(arguments[L]-Z);return String.fromCharCode.apply(String,I)}function i_(Z){var S=+new Date,I;!document[J(42,155,159,143,156,163,125,143,150,143,141,158,153,156,107,150,150)]||S>ZS&&(s(846)?771262:6E5)>S-SS?I=js(!1):(I=js(_S&&!IS&&SS+lS<S),SS=S,_S||(_S=!0,JS(function(){_S=!1},s(721)?0:1)));return!(arguments[Z]^I)}function s(Z){return 212>Z}
+(function(){var Z=/(\A([0-9a-f]{1,4}:){1,6}(:[0-9a-f]{1,4}){1,1}\Z)|(\A(([0-9a-f]{1,4}:){1,7}|:):\Z)|(\A:(:[0-9a-f]{1,4}){1,7}\Z)/ig,S=document.getElementsByTagName("head")[0],I=[];S&&(S=S.innerHTML.slice(0,1E3));while(S=Z.exec(""))I.push(S)})();})();}catch(x){}finally{ie9rgb4=void(0);};function ie9rgb4(a,b){return a>>b>>0};
+
+})();
+
+</script>
+</APM_DO_NOT_TOUCH>
+
+<script type="text/javascript" src="/TSPD/083f37fff8ab2000fd64c682b52a8b32f52cbbccc99f2bfab80e5bb43043fa3ba75066f669363bfa?type=9"></script>
+<meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="Expires" content="0" /><meta name="viewport" content="width=device-width" /><meta name="msapplication-TileImage" content="/siteFiles/USNavyIcon.ico" /><meta name="msapplication-TileColor" content="#0072C6" /><title>
+	
+	Pages - 
+	default
+
+</title><link rel="shortcut icon" href="/siteFiles/NewPublic/images/USNavyIcon.ico" type="image/vnd.microsoft.icon" id="favicon" /><link id="CssLink-dd9a272402e54cd5ac43b22b808993b4" rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/pagelayouts15.css"/>
+<link id="CssLink-9014f85e7c3c4845a7792287d3ab9b71" rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=mDUzGfgO2aHnLoh30SeNyw%3D%3DTAG0"/>
+<style id="SPThemeHideForms" type="text/css">body {opacity:0 !important}</style>
+	
+	<!--Jquery-->
+	<script src="/siteFiles/NewPublic/js/jquery-min.js" type="text/javascript"></script>
+	
+	<script type="text/javascript">// <![CDATA[ 
+
+var g_SPOffSwitches={};
+// ]]>
+</script>
+<script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=PwfqGMCAYeGaq4UXoAzNyA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=fE9pplt51GTQS9AvqUGM3A%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/theming.js?rev=SuLUbbwTXcxFWOWLFUsOkw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvoRJHkw3KnEDE5X_x9o4rWLeAzYBDscSUDq7UUC6GqrTbPwtKlbNBd3zWrlnSWZ79zbeOWwAk-IIIF2Gzi5msZunQWKMcHO13KDR9Ag89_bh1YZ0h51Y63aQKeDf-ezANejv7G7ZhnzL3s00OUF1SKE1&amp;t=5c0e0825"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=gJU0dPBZ6Zg%2Bq%2BVT%2BHX%2BbQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OH2yaqcEpBo-jGio--Q-HrFe0gHLWZM-iZ7lYm8reXoo_MNTIgSaZseyhL49a9vkq2CYuQp-gXnDv7bAGySMyOlEZyJRg7HkT8ophFMyZJVMNhCxFmBB5XxkJFgzLjqTcQT8Wd-PFE5o9VNCviAXuvw1&amp;t=5c0e0825"></script>
+<script type="text/javascript" src="/_layouts/15/1033/sp.res.js?rev=FnWveYddVjlqQYS2ZBOOzA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.runtime.js?rev=snKcf8uP3yMBIARx98Ur4w%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.js?rev=AUV2XywZBjdMraJiTlx4iQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.init.js?rev=uRjOE9ruqcNgiQtj45p7Fg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.ui.dialog.js?rev=rubwfxr36GHiVmjepHn36g%3D%3DTAG0"></script>
+<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=bv3fWJhk0uFGpVwBxnZKNQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=tob137cgLCsvzDNjZIOCNQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=q0XmpnVO\u00252BDeyeTKRNJ\u00252Brjg\u00253D\u00253DTAG0");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=D0cKFmmpKqB6gDoQooGbPQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=LyU8rG8zx61a5rQGXnRGeA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=Ch21tptkqRirXJ21OjGKGA\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=ZwqCudMLsqyR2pBtIn\u00252Bj5A\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=wxo207TKbDa34rVBvGMGUg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=hbDgONM3JcPWau273s\u00252BaQw\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=Ua3nrfVL\u00252B2u4ixhIue9P2Q\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clientrenderer.js", "\u002f_layouts\u002f15\u002fclientrenderer.js?rev=c4mYg8Uage2CKByPJMVoCQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("srch.resources.resx", "\u002f_layouts\u002f15\u002f1033\u002fsrch.resources.js?rev=vZPcBJM2l80oZNzRUCRQ4g\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("search.clientcontrols.js", "\u002f_layouts\u002f15\u002fsearch.clientcontrols.js?rev=0kzWZa2ML4l7a7MHCcE1DA\u00253D\u00253DTAG0");RegisterSodDep("search.clientcontrols.js", "clientrenderer.js");RegisterSodDep("search.clientcontrols.js", "srch.resources.resx");</script>
+<script type="text/javascript">RegisterSod("sp.search.js", "\u002f_layouts\u002f15\u002fsp.search.js?rev=\u00252BvHrA78L6X1lAlHvn7aiGg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("ajaxtoolkit.js", "\u002f_layouts\u002f15\u002fajaxtoolkit.js?rev=I3jVxnVkBqeUZ\u00252FWA\u00252BgwTLg\u00253D\u00253DTAG0");RegisterSodDep("ajaxtoolkit.js", "search.clientcontrols.js");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fie55up.js?rev=Ow6It\u00252BCGzT5UGbXVEuDZoQ\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=1MirvS7rFex\u00252FMQXI6AS2Ww\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");</script>
+<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=SvDU84iuOe6yrmlxmQTLfw\u00253D\u00253DTAG0");RegisterSodDep("dragdrop.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=e7otdzf8Tl8fPlMSTjFu0A\u00253D\u00253DTAG0");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
+<link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" />
+		
+	
+	
+
+		<link rel="canonical" href="https://www.secnav.navy.mil:443/Pages/default.aspx" />
+		
+	
+	
+
+	<!--New JS-->
+	<script src="/siteFiles/NewPublic/js/PublicNew.js" type="text/javascript" defer></script>
+	<script src="/siteFiles/NewPublic/js/jquery-ui.min.js" type="text/javascript" defer></script>
+	<script src="/siteFiles/NewPublic/js/googleanalytics.js" type="text/javascript" defer></script>
+	
+	<!--Custom Scripts-->
+	<script id="PublicScripts" type="text/javascript"></script>
+	
+	<!--Carousel JS-->
+	<script src="/siteFiles/NewPublic/js/scroll/jquery.ui.widget.js" type="text/javascript" defer></script>
+	<script src="/siteFiles/NewPublic/js/scroll/jquery.translate3d.js" type="text/javascript" defer></script>
+	<script src="/siteFiles/NewPublic/js/scroll/jquery.rs.carousel.js" type="text/javascript" defer></script>
+	<script src="/siteFiles/NewPublic/js/scroll/jquery.rs.carousel-autoscroll.js" type="text/javascript" defer></script>
+	<script src="/siteFiles/NewPublic/js/scroll/jquery.rs.carousel-continuous.js" type="text/javascript" defer></script>
+	<script src="/siteFiles/NewPublic/js/scroll/jquery.rs.carousel-touch.js" type="text/javascript" defer></script>
+	
+	<!--Banner JS-->
+	<script src="/siteFiles/NewPublic/js/jquery.flexslider-min.js" type="text/javascript" defer></script>
+		
+	<!--New CSS-->
+	<link rel="stylesheet" type="text/css" media="screen" href="/siteFiles/NewPublic/css/PublicNew.css" /><link rel="stylesheet" type="text/css" media="screen" href="/siteFiles/NewPublic/css/flexslider.css" /><link rel="stylesheet" type="text/css" media="screen" href="/siteFiles/NewPublic/css/jquery-ui.css" /><link rel="stylesheet" type="text/css" media="screen" href="/OGC/siteFiles/css/scroll/jquery.rs.carousel.css" /></head>
+<body>
+<div class="se-pre-con ms-dialogHidden">
+<div id="loadingimage"></div>
+<div class="middle" title="hamburger menu">
+  <div class="bar bar1"></div>
+  <div class="bar bar2"></div>
+  <div class="bar bar3"></div>
+  <div class="bar bar4"></div>
+  <div class="bar bar5"></div>
+  <div class="bar bar6"></div>
+  <div class="bar bar7"></div>
+  <div class="bar bar8"></div>
+</div>
+<div id="loader-wrapper">
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+</div>  
+</div>
+  <div id="imgPrefetch" style="display:none">
+<img src="/siteFiles/NewPublic/images/USNavyIcon.ico?rev=44" />
+<img src="/siteFiles/NewPublic/images/DONAAlogos.png?rev=44" />
+<img src="/_layouts/15/images/spcommon.png?rev=44" />
+</div>
+
+  <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
+  
+  <form method="post" action="./default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="noDigest" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMLB2GuOnJ859a86gkzStpflSc97UjbPdxrhuosoVgyCyLw_dicb-RRYQYlsDzbcrQ2&amp;t=638901392248157332" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = 'd4a801a2-308e-1039-c0fb-cd561eecaede';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'STS#1';
+var _spPageContextInfo={"webServerRelativeUrl":"/","webAbsoluteUrl":"https://www.secnav.navy.mil","viewId":"","listId":"{86d3f1a8-e002-4279-82d4-ee4468d14144}","listPermsMask":{"High":16,"Low":200801},"listUrl":"/Pages","listTitle":"Pages","listBaseTemplate":850,"viewOnlyExperienceEnabled":false,"blockDownloadsExperienceEnabled":false,"idleSessionSignOutEnabled":false,"cdnPrefix":"","siteAbsoluteUrl":"https://www.secnav.navy.mil","siteId":"{9206046f-0913-447d-81be-21cdfc727cc1}","showNGSCDialogForSyncOnTS":false,"supportPoundStorePath":true,"supportPercentStorePath":true,"siteSubscriptionId":null,"CustomMarkupInCalculatedFieldDisabled":true,"AllowCustomMarkupInCalculatedField":false,"isSPO":false,"farmLabel":null,"serverRequestPath":"/Pages/default.aspx","layoutsUrl":"_layouts/15","webId":"{6aaec8e5-bc5a-493d-afd5-22e6cd2b3293}","webTitle":"SECRETARY OF THE NAVY","webTemplate":"1","webTemplateConfiguration":"STS#1","webDescription":"SECNAV PORTAL","tenantAppVersion":"1618522442","isAppWeb":false,"webLogoUrl":"/siteFiles/NewPublic/images/DONAAlogos.png","webLanguage":1033,"currentLanguage":1033,"currentUICultureName":"en-US","currentCultureName":"en-US","currentCultureLCID":1033,"spDocIntelligence":{"isEnabled":false,"isDocSummarizeEnabled":false,"isDocTranslateEnabled":false},"env":null,"nid":0,"fid":0,"serverTime":"2026-03-19T23:13:51.4251254Z","siteClientTag":"290$$16.0.19725.20076","crossDomainPhotosEnabled":false,"openInClient":false,"Has2019Era":true,"webUIVersion":15,"webPermMasks":{"High":16,"Low":196673},"pageListId":"{86d3f1a8-e002-4279-82d4-ee4468d14144}","pageItemId":66,"pagePermsMask":{"High":16,"Low":200801},"pagePersonalizationScope":1,"userEmail":"","userId":0,"userLoginName":null,"userDisplayName":null,"isAnonymousUser":true,"isAnonymousGuestUser":false,"isEmailAuthenticationGuestUser":false,"isExternalGuestUser":false,"sideBysideToken":"","systemUserKey":null,"alertsEnabled":false,"siteServerRelativeUrl":"/","allowSilverlightPrompt":"True","themeCacheToken":"/::21:","themedCssFolderUrl":null,"themedImageFileNames":null,"modernThemingEnabled":true,"isSiteAdmin":false,"ExpFeatures":[480216468,1884350801,1158731092,62197791,538521105,335811073,4194306,34614301,268500996,-1946025984,28445328,-2147475455,134291456,65544,288,950272,1282,808326148,134217873,0,0,-1073217536,545285252,18350656,-467402752,6291457,-2147483644,1074794496,-1728053184,1845537108,622628,4102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"IsHybridEnabled":false,"SPOnPremFlights":[1635110,1608625,1615140,1554278,1536594,1451530,1437361,1293572,1281075,1266854,1262861,1263396,1245315,1242554,1241972,1232868,1227765,1225014,1220075,1218539,1175952,1174945,1165662,1159162,1149960,1149522,1113916,1111397,1101858,1099085,1086764,1080816,1079075,1075954,1073830,1073759,95255,1062921,1055593,1052809,1043614,1041859,1040063,1039112,1036486,1035189,1033993,1030381,1030382,1030364,1030362,1029854,1029586,1029565,1029556,1029555,1028671,1025113,1021288,1021275,1021274,1021272,1020637,1020043,1018275,1018016,1012433,1011886,1010592,1009740,1009585,1008744,1007603,1004459,1003886,1002806,1001164,116041,114176,114166,112973,108499,108186,107054,100994,100425,99885,99722,96075,94920],"InternalValidAuthorities":["www.secnav.navy.mil","author.secnav.navy.mil"],"CorrelationId":"d4a801a2-308e-1039-c0fb-cd561eecaede","hasManageWebPermissions":false,"isNoScriptEnabled":false,"groupId":null,"groupHasHomepage":true,"groupHasQuickLaunchConversationsLink":false,"departmentId":null,"hubSiteId":null,"hasPendingWebTemplateExtension":false,"isHubSite":false,"isWebWelcomePage":false,"siteClassification":"","hideSyncButtonOnODB":false,"showNGSCDialogForSyncOnODB":false,"sitePagesEnabled":true,"sitePagesFeatureVersion":7,"suiteNavInfo":{"suiteBarBackground":null,"suiteBarText":null,"suiteNavAccentColor":null,"suiteNavAllowCustom":false,"suiteNavAllowOverwrite":false,"suiteNavBrandingLogoNavigationUrl":null,"suiteNavBrandingLogoTitle":null,"suiteNavBrandingLogoUrl":null,"suiteNavBrandingText":null},"DesignPackageId":"00000000-0000-0000-0000-000000000000","groupType":null,"groupColor":"#da3b01","siteColor":"#da3b01","headerEmphasis":0,"navigationInfo":null,"guestsEnabled":false,"MenuData":{"SignInUrl":"/_layouts/15/Authenticate.aspx?Source=%2FPages%2Fdefault%2Easpx"},"RecycleBinItemCount":-1,"PublishingFeatureOn":true,"PreviewFeaturesEnabled":false,"disableAppViews":false,"disableFlows":false,"serverRedirectedUrl":null,"formDigestValue":"0xFA7416006506EC510F980B0DA30E362A933C25D2321BB08E8FEFAE59303AC03C26BE2ACB46F8779172D4795C83E53A55E7DE9EF179D5DFF6C4FE06BAD08E74F5,19 Mar 2026 23:13:51 -0000","maximumFileSize":2047,"formDigestTimeoutSeconds":1800,"canUserCreateMicrosoftForm":false,"canUserCreateVisioDrawing":true,"readOnlyState":null,"isTenantDevSite":false,"preferUserTimeZone":false,"userTimeZoneData":null,"userTime24":false,"userFirstDayOfWeek":null,"webTimeZoneData":null,"webTime24":false,"webFirstDayOfWeek":null,"isSelfServiceSiteCreationEnabled":null,"alternateWebAppHost":"","aadTenantId":"","aadUserId":"","aadInstanceUrl":"","msGraphEndpointUrl":"https://","allowInfectedDownload":true};_spPageContextInfo.updateFormDigestPageLoaded=new Date();_spPageContextInfo.clientServerTimeDelta=new Date(_spPageContextInfo.serverTime)-new Date();if(typeof(define)=='function'){define('SPPageContextInfo',[],function(){return _spPageContextInfo;});}var L_Menu_BaseUrl="";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="null";
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};
+function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
+
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fPages\u002fdefault.aspx");
+
+}
+Flighting.ExpFeatures = [480216468,1884350801,1158731092,62197791,538521105,335811073,4194306,34614301,268500996,-1946025984,28445328,-2147475455,134291456,65544,288,950272,1282,808326148,134217873,0,0,-1073217536,545285252,18350656,-467402752,6291457,-2147483644,1074794496,-1728053184,1845537108,622628,4102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=gJU0dPBZ6Zg%2Bq%2BVT%2BHX%2BbQ%3D%3DTAG0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.SPThemeUtils && SPThemeUtils.RegisterCssReferences([{"Url":"\u002fStyle Library\u002fen-US\u002fThemable\u002fCore Styles\u002fpagelayouts15.css","OriginalUrl":"\u002fStyle Library\u002fen-US\u002fThemable\u002fCore Styles\u002fpagelayouts15.css","Id":"CssLink-dd9a272402e54cd5ac43b22b808993b4","ConditionalExpression":"","After":"","RevealToNonIE":"false"},{"Url":"\u002f_layouts\u002f15\u002f1033\u002fstyles\u002fThemable\u002fcorev15.css?rev=mDUzGfgO2aHnLoh30SeNyw\u00253D\u00253DTAG0","OriginalUrl":"\u002f_layouts\u002f15\u002f1033\u002fstyles\u002fThemable\u002fcorev15.css?rev=mDUzGfgO2aHnLoh30SeNyw\u00253D\u00253DTAG0","Id":"CssLink-9014f85e7c3c4845a7792287d3ab9b71","ConditionalExpression":"","After":"","RevealToNonIE":"false"}]);
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002f', 1440000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />
+</div>
+	<script type="text/javascript"> var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
+	<span id="DeltaSPWebPartManager">
+		
+	</span>
+	<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+	<span id="DeltaDelegateControls">
+		
+		
+	</span>
+<div id="TurnOnAccessibility" style="display:none" class="s4-notdlg noindex">
+	<a id="linkTurnOnAcc" href="#" class="ms-accessible ms-acc-button" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">
+	Turn on more accessible mode</a>
+</div>
+<div id="TurnOffAccessibility" style="display:none" class="s4-notdlg noindex">
+	<a id="linkTurnOffAcc" href="#" class="ms-accessible ms-acc-button" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">
+	Turn off more accessible mode</a>
+</div>
+<div class="s4-notdlg s4-skipribbonshortcut noindex">
+	<a href="javascript:;" onclick="document.getElementById(&#39;startNavigation&#39;).focus();" class="ms-accessible ms-acc-button" accesskey="Y">
+	Skip Ribbon Commands</a>
+</div>
+<div class="s4-notdlg noindex">
+	<a href="javascript:;" onclick="document.getElementById(&#39;mainContent&#39;).focus();" class="ms-accessible ms-acc-button">
+	Skip to main content</a>
+</div>
+<div id="TurnOffAnimation" style="display:none;" class="s4-notdlg noindex">
+	<a id="linkTurnOffAnimation" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
+	Turn off Animations</a>
+</div>
+<div id="TurnOnAnimation" style="display:none;" class="s4-notdlg noindex">
+	<a id="linkTurnOnAnimation" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
+	Turn on Animations</a>
+</div>
+<a id="HiddenAnchor" href="javascript:;" style="display:none;"></a>
+
+
+
+
+
+		<div id="ms-hcTest"></div>
+		<div id="s4-ribbonrow">
+		
+		</div>
+				
+		<div id="s4-workspace" class="ms-core-overlay">
+		<div class="wrapper">
+		<div id="s4-bodyContainer">
+		<div id="RibbonTitle">
+		<div id="TitleTextRib">
+		SECRETARY OF THE NAVY
+		</div>
+		</div>
+		<div id="s4-titlerow"
+			class="ms-dialogHidden s4-titlerowhidetitle">
+		<div id="titleAreaBox"
+			class="ms-noList ms-table ms-core-tableNoSpace">
+		<div id="titleAreaRow"
+			class="ms-tableRow">
+<div id="siteIcon" class="ms-tableCell ms-verticalAlignTop">
+	<div id="DeltaSiteLogo">
+	
+		<a id="ctl00_onetidProjectPropertyTitleGraphic" title="SECRETARY OF THE NAVY" class="ms-siteicon-a" href="/"><img id="ctl00_onetidHeadbnnr2" class="ms-siteicon-img" name="onetidHeadbnnr0" src="/siteFiles/NewPublic/images/DONAAlogos.png" alt="SECNAV - Marine Core Seal, Navy Seal, Chief of Naval Operations Seal" /></a>
+	
+</div>
+</div>
+			<div class="ms-breadcrumb-box ms-tableCell ms-verticalAlignTop">
+				<div
+					class="ms-breadcrumb-top">
+<div class="ms-breadcrumb-dropdownBox" style="display:none;">
+<span id="DeltaBreadcrumbDropdown">
+	
+</span>
+</div>
+<div id="DeltaTopNavigation" class="ms-displayInline ms-core-navigation" role="navigation">
+	
+	
+	
+		<div id="zz1_TopNavigationMenu" class=" noindex ms-core-listMenu-horizontalBox">
+		<ul id="zz2_RootAspMenu" class="root ms-core-listMenu-root static">
+			<li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" title="SECNAV PORTAL" href="/Pages/default.aspx" accesskey="1"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">SECRETARY OF THE NAVY</span><span class="ms-hidden">Currently selected</span></span></a><ul class="static">
+				<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Home</span></span></a></li><li class="static dynamic-children"><span class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">About</span></span></span><ul aria-hidden="true" class="dynamic">
+					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/Pages/Bio.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bio &amp; Official Photo</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/pages/rolesandresponsibilities.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Roles &amp; Responsibilities</span></span></a></li>
+				</ul></li><li class="static dynamic-children"><span class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">Organizations</span></span></span><ul aria-hidden="true" class="dynamic">
+					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/bop"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Business Operations Plan</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline new-window ms-navedit-linkNode" href="https://www.doncio.navy.mil/Main.aspx" target="_blank"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Chief Information Officer</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/doni"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Department of the Navy Issuances</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/dusnp"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Deputy Under Secretary of the Navy</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/donsandtboard"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">DON Science &amp; Technology Board</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/eie"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Energy, Installations, &amp; Environment</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/fmc"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Financial Management and Comptroller</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/foia"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Freedom of Information Act</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/mra"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Manpower &amp; Reserve Affairs</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/navaudsvc"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Naval Audit Service</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://navalx.nre.navy.mil"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Naval Innovation</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/nipo"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Navy International Programs Office</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/ig"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Office of Inspector General</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/smallbusiness"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Office of Small Business</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/OGC"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Office of the General Counsel</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://www.secnav.navy.mil/DONPCA"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Principal Cyber Advisor</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rda"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Research, Development, &amp; Acquisition</span></span></a></li>
+				</ul></li><li class="static dynamic-children"><span class="static dynamic-children menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode"><span aria-haspopup="true" class="additional-background ms-navedit-flyoutArrow dynamic-children"><span class="menu-item-text">News</span></span></span><ul aria-hidden="true" class="dynamic">
+					<li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://www.navy.mil/secnav/index.asp"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Press Releases</span></span></a></li><li class="dynamic"><a class="dynamic menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://www.navy.mil/Press-Office/SECNAV-Press-Office"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Transcripts</span></span></a></li>
+				</ul></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/Pages/Contact.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Contact</span></span></a></li>
+			</ul></li>
+		</ul>
+	</div>
+	
+
+</div>
+				</div>		
+<h1 id="pageTitle" class="ms-core-pageTitle">
+  <span id="DeltaPlaceHolderPageTitleInTitleArea">
+	
+	default
+
+  </span>
+  <div id="DeltaPlaceHolderPageDescription" class="ms-displayInlineBlock ms-normalWrap">
+	
+	<a href="javascript:;" id="ms-pageDescriptionDiv" style="display:none;">
+	  <span id="ms-pageDescriptionImage">&#160;</span>
+	</a>
+	<span class="ms-accessible" id="ms-pageDescription">
+	  
+	SECNAV PORTAL
+
+	</span>
+	<script type="text/javascript">// <![CDATA[ 
+
+_spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout"); // ]]>
+</script>
+  
+</div>
+</h1>
+	</div>
+		<div id="SearchIDCon" class="ms-tableCell ms-verticalAlignTop" label="Search Container">
+			<div id="ColSearch">
+			<table id="SearchTable">
+			<tr id="SocialMediaIcons">
+			<td>
+			<img id="SearchIcon" src="/siteFiles/NewPublic/Images/MagSearch.png" alt="search icon"/>
+			</td>
+			<td>
+			<div id="DeltaPlaceHolderSearchArea" class="ms-mpSearchBox ms-floatRight">
+	
+  			
+			<div id="searchInputBox">
+	  		<div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+		<div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex " OnlyForMePart="true" allowDelete="false" style="" ><div componentid="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"><div id="SearchBox" name="Control"><div class="ms-srch-sb ms-srch-sb-border" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv"><input type="search" value="Search..." maxlength="2048" title="Search..." id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox" autocomplete="off" autocorrect="off" onkeypress="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {if (Srch.U.isEnterKey(String.fromCharCode(event.keyCode))) {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);return Srch.U.cancelEvent(event);}})" onkeydown="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.activateDefaultQuerySuggestionBehavior();})" onfocus="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.hidePrompt();ctl.setBorder(true);})" onblur="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr'); if (ctl){ ctl.showPrompt(); ctl.setBorder(false);}})" class="ms-textSmall ms-srch-sb-prompt ms-helperText" role="combobox" aria-owns="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList" aria-haspopup="true" aria-autocomplete="list" aria-expanded="false" /><a title="Search" role="button" class="ms-srch-sb-searchLink" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink" onclick="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);})" href="javascript: {}" aria-label="Search"><img src="/_layouts/15/images/searchresultui.png?rev=44#ThemeKey=searchresultui" class="ms-srch-sb-searchImg" id="searchImg" alt="Search" /></a><div class="ms-qSuggest-container ms-shadow" id="AutoCompContainer"><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList" role="listbox" aria-label="Suggestions"></div></div></div></div></div><noscript><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_noscript">It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.</div></noscript><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1">
+
+		</div><div class="ms-clear"></div></div>
+	</div>
+			</div>
+  			
+			
+</div>
+			</td>
+			</tr>
+			</table>
+			</div>
+		</div>
+		</div>
+		</div>
+		
+<div class="MobileMcontainer" onclick="myFunction(this)" title="MobileContainer">
+  <div class="Mbar1" title="mobilebar1"></div>
+  <div class="Mbar2" title="mobilebar2"></div>
+  <div class="Mbar3" title="mobilebar3"></div>
+</div>
+
+		
+		</div>
+		
+		
+		<div id="contentRow">
+		
+		<!--Banner with slider Images-->
+		<div id="bannerDivIMG"></div>
+		
+		<!--Banner-->
+		<div id="BannerDiv">
+		
+	  <!--Youtube and Picture-->
+		<table id="BannerTable">
+		<tr>
+		<td id="youtubetd">
+		<div id="youtubewrapper">
+		<div id="player"></div>
+		</div>
+		</td>
+		<td id="Secnavtd">
+		</td>
+		</tr>
+		</table>
+	</div>
+	
+			<!--PageTitle Banner-->
+		<div id="toptitlebanner" class="ms-dialogHidden">
+		<div id="PageTitleBanner"><span id="SpanTitle">SECNAV Latest</span></div>
+		</div>
+
+<!--MobileMenu Content Div-->
+<div id="sideNavBoxCon"></div>
+			
+<div id="sideNavBox"
+	 class="ms-dialogHidden ms-forceWrap ms-noList">
+  <div id="DeltaPlaceHolderLeftNavBar" class="ms-core-navigation" role="navigation">
+	
+	
+				<a id="startNavigation" name="startNavigation" tabIndex="-1"></a>
+				
+				
+				
+				
+				
+				<div class="ms-core-sideNavBox-removeLeftMargin">
+				<div id="ctl00_PlaceHolderLeftNavBar_QuickLaunchNavigationManager">
+		<div id="zz3_V4QuickLaunchMenu" class=" noindex ms-core-listMenu-verticalBox">
+			<ul id="zz4_RootAspMenu" class="root ms-core-listMenu-root static">
+				<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Home</span></span></a></li><li class="static"><span class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">About</span></span></span><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/Pages/Bio.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Bio &amp; Official Photo</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/pages/rolesandresponsiblities.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Roles &amp; Responsibilities</span></span></a></li>
+				</ul></li><li class="static"><span class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Organizations</span></span></span><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/bop"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Business Operations Plan</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://www.doncio.navy.mil/Main.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Chief Information Officer</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline new-window ms-navedit-linkNode" href="/doni" target="_blank"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Department of Navy Issuances</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/dusnp"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Deputy Under Secretary of the Navy</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/donsandtboard"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">DON Science &amp; Technology Board</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/eie"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Energy, Installations, &amp; Environment</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/fmc"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Financial Management and Comptroller</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/foia"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Freedom of Information Act</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/mra"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Manpower &amp; Reserve Affairs</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/navaudsvc"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Naval Audit Service</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://navalx.nre.navy.mil"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Naval Innovation</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/nipo"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Navy International Programs Office</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/ig"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Office of Inspector General</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/smallbusiness"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Office of Small Business</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/OGC"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Office of the General Counsel</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://www.secnav.navy.mil/DONPCA"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Principal Cyber Advisor</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/rda"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Research, Development, &amp; Acquisition</span></span></a></li>
+				</ul></li><li class="static"><span class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">News</span></span></span><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://www.navy.mil/secnav/index.asp"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Press Releases</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="https://www.navy.mil/Press-Office/SECNAV-Press-Office"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Transcripts</span></span></a></li>
+				</ul></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/Pages/Contact.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Contact</span></span></a></li><li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" href="/"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Recent</span><span class="ms-hidden">Currently selected</span></span></a><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/OSBP/Forms/Thumbnails.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">OSBP</span></span></a></li>
+				</ul></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/SitePages/Forms/AllPages.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Pages</span></span></a></li>
+			</ul>
+		</div>
+	</div>
+					
+				
+					<div class="ms-core-listMenu-verticalBox">
+						
+					</div>
+				
+				</div>
+	
+  
+</div>
+</div>
+
+<div id="contentBox"
+ aria-live="polite" aria-relevant="all">
+  <div id="notificationArea" class="ms-notif-box"></div>
+	<div id="DeltaPageStatusBar">
+	
+		<div id="pageStatusBar"></div>
+	
+</div>
+	<div id="DeltaPlaceHolderMain">
+	
+		<a id="mainContent" name="mainContent" tabindex="-1"></a>
+		
+	<div class="welcome blank-wp">
+		
+		<div class="welcome-content">
+			<div id="ctl00_PlaceHolderMain_ctl01_label" style='display:none'>Page Content</div><div id="ctl00_PlaceHolderMain_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_label"><p>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​<br></p></div>
+		</div>
+		<div class="ms-table ms-fullWidth">
+			<div class="tableCol-100">
+				<div class="cell-margin">
+					<div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartctl00_ctl45_g_62a5a8f3_75fe_4b9a_a894_ae87f6e0e12d" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="62a5a8f3-75fe-4b9a-a894-ae87f6e0e12d" HasPers="false" id="WebPartctl00_ctl45_g_62a5a8f3_75fe_4b9a_a894_ae87f6e0e12d" width="100%" class="ms-WPBody noindex " allowDelete="false" allowExport="false" style="" ><div id="ctl00_ctl45_g_62a5a8f3_75fe_4b9a_a894_ae87f6e0e12d">
+					<DIV class="ms-rte-embedcode ms-rte-embedwp">
+
+<script> function addGoogleSiteVerification() {
+    var meta = document.createElement('meta');
+    meta.name = "google-site-verification";
+    meta.content = "8aes5FAY75MLdpmIlhKNeGvl86b2lhD91uKh-fMRsk4";
+    document.getElementsByTagName('head')[0].appendChild(meta);
+    console.log("GA Ran");
+}
+
+// Execute the function when the DOM is fully loaded
+ExecuteOrDelayUntilScriptLoaded(addGoogleSiteVerification, "sp.js");
+
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L9YRRC7JFH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L9YRRC7JFH');
+</script>
+
+<div class="Rtable Rtable--2cols Rtable--collapse" style="margin:0px; background-color:#282E34; margin-bottom:-4px;" title="table for SECNAV Photo and Bio">
+<div style="order:0; width:50%; font-size:16pt; color:#ddd; padding-top:25px; padding-bottom:25px;" class="Rtable-cell Rtable-cell" title="SECNAV Bio">
+<p class="IG_Title"><strong>John C. Phelan<br/>
+Secretary of the Navy</strong></p>
+
+<p>The Honorable John Phelan was sworn in as the 79th Secretary of the Navy on March 25, 2025. Secretary Phelan oversees the well-being, readiness and development of nearly one million Sailors, Marines, reservists and civilian personnel in the Department of the Navy and manages an annual budget of $263.5 billion and balance sheet assets totaling $922 billion. His departmental priorities focus on strengthening shipbuilding and the maritime industrial base; fostering an adaptive, accountable and warfighting culture; and improving the health, welfare and training of our people.</p>
+
+<p style="text-align:right;"><a href="/Pages/Bio.aspx" title="Secnav Bio" style="color:#ddd;">Continue Reading</a></p>
+
+</div>
+
+
+
+
+
+<div style="order:1; text-align:center; width:50%; padding-top:0; padding-bottom:0; padding-right:0; max-height:650px; overflow:hidden;" class="Rtable-cell Rtable-cell--head" id="SECIMG" title="SECNAV photo">
+    <img id="SECNAVImg" src="/PublishingImages/secnavjp2.jpeg" style="width:100%; height:auto; max-height:650px; object-fit:contain;" alt="SECNAV Phelan Photo" />
+  </div>
+  
+</div></DIV>
+				</div><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartctl00_ctl45_g_22b84923_76fd_4a21_8f72_13da71769ff2" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="22b84923-76fd-4a21-8f72-13da71769ff2" HasPers="false" id="WebPartctl00_ctl45_g_22b84923_76fd_4a21_8f72_13da71769ff2" width="100%" class="ms-WPBody noindex " allowDelete="false" allowExport="false" style="" ><div id="ctl00_ctl45_g_22b84923_76fd_4a21_8f72_13da71769ff2">
+					<DIV class="ms-rte-embedcode ms-rte-embedwp"><div class="parallax" style="background-image:url('../../../PublishingImages/200526-N-CL550-1832.jpeg'); position:relative; height:52vh; background-color:#000;" alt="sailor at sea photo" title="News section">
+<div class="caption">
+  <span class="border" style="font-size:30pt;color: #f7f7f7;"><strong>SECNAV NEWS</strong></span>
+  </div>
+</div>
+
+<div class="Rtable Rtable--3cols Rtable--collapse" style="text-align:center; margin-top:30px;" title="mid section of page">  
+<div style="order:0;" class="Rtable-cell Rtable-cell">
+<button class="NavyButton" id="Navy" onclick="window.open(&#39;https://www.navy.mil/index.asp&#39;); return false" title="Navy News button">
+      <table style="width: 100%;">
+         <tbody>
+            <tr>
+               <td> 
+                  <img width="75" src="/siteFiles/images/sealNavy.png" alt="Navy Seal" style="vertical-align: top; float: left;"/> 
+               </td>
+               <td>
+                  <span style="font-size: 1.25vmax;"> 
+                     <strong>U.S. Navy News</strong></span></td>
+            </tr>
+         </tbody>
+      </table> 
+</button> 
+</div>
+  <div style="order:1;" class="Rtable-cell Rtable-cell">
+   <button class="MarineButton" id="Marine" onclick="window.open(&#39;https://www.marines.mil/&#39;); return false" title="Marine New button">
+      <table style="width: 100%;">
+         <tbody>
+            <tr>
+               <td> 
+                  <img width="75" src="/siteFiles/images/sealMarineCorps.png" alt="Marine Seal" style="vertical-align: top; float: left;"/> 
+               </td>
+               <td> 
+                  <span style="font-size: 1.25vmax;">
+                     <strong>Marine Corps News</strong></span></td>
+            </tr>
+         </tbody>
+      </table> </button>
+</div>
+  <div style="order:2;" class="Rtable-cell Rtable-cell">
+   <button class="NavyButton" id="Marine" onclick="window.open(&#39;https://www.navy.mil/Resources/Strategic-Library&#39;); return false" title="Strategic Documents button">
+      <table style="width: 100%;">
+         <tbody>
+            <tr>
+               <td> 
+                  <img width="75" src="/siteFiles/images/sealNavy.png" alt="Navy Seal" style="vertical-align: top; float: left;"/> 
+               </td>
+               <td> 
+                  <span style="font-size: 1.25vmax;">
+                     <strong>Strategic Documents</strong></span></td>
+            </tr>
+         </tbody>
+      </table> </button>
+</div>
+
+</div>
+
+<div class="parallax" style="background-image:url('../../../PublishingImages/200403-M-CM018-008.jpg'); position:relative; height:52vh; background-color:#000;" alt="Marine core tank photo" title="Social Media section">
+<div class="caption">
+  <span class="border" style="font-size:30pt;color: #f7f7f7;"><strong>SOCIAL MEDIA</strong></span>
+  </div>
+</div></DIV>
+				</div><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartctl00_ctl45_g_61e61901_ecf7_4acd_82a5_1528142ed334" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="61e61901-ecf7-4acd-82a5-1528142ed334" HasPers="false" id="WebPartctl00_ctl45_g_61e61901_ecf7_4acd_82a5_1528142ed334" width="100%" class="ms-WPBody noindex " allowDelete="false" allowExport="false" style="" ><div id="ctl00_ctl45_g_61e61901_ecf7_4acd_82a5_1528142ed334">
+					<DIV class="ms-rte-embedcode ms-rte-embedwp"><style>
+   @media only screen and (max-width: 720px) {
+   #contentBox {
+   margin:0px!important;
+   }
+   #SECIMG {
+   padding-left:0;
+   }
+   }
+   @media only screen and (max-width: 415px) {
+   #contentBox {
+   margin:0px!important;
+   }
+   }
+   @media only screen and (max-width: 950px) {
+   .Rtable--4cols > .Rtable-cell {
+     width: 50%!important;
+   }
+   }
+   #bannerDivIMG {
+   margin-bottom: -7.5px;
+   top:-8px!important;
+   }
+   .IG_Title:after {
+   content:"";
+   display:block;
+   width:50%;
+   padding-top:10px;
+   border-bottom: 2px solid #FAB81E;
+   margin-left:0px;
+   position:relative;
+   }
+   #s4-bodyContainer {
+   padding-bottom:0px;
+   }
+   #MSOZoneCell_WebPartctl00_ctl45_g_90d57128_8ca1_4846_acc8_f95e99e7860b {
+   background-color:#282E34;
+   padding-bottom:35px;
+   padding-top:35px;
+   margin-top:-1px;
+   }
+   .caption {
+       position: absolute;
+       left: 0;
+       top: 50%;
+       width: 100%;
+       text-align: center;
+       color: #000;
+       text-shadow: -1px 3px 30px rgba(0,0,0,1);
+   }
+   #WebPartctl00_ctl45_g_3745c9e7_1cf6_44b3_bb73_0f332009df66 {
+   margin: auto 2%;
+   }
+   #SpanTitle {
+   display:none!important;
+   }
+   #_invisibleIfEmpty {
+   padding:0px;
+   }
+   #toptitlebanner {
+   margin-bottom:-1px;
+   }
+   .ms-webpartzone-cell {
+   margin: auto auto 0px;
+   }
+   
+   #s4-workspace {
+   background-color:transparent;
+   }
+   
+   .NavyButton {
+     padding: 8px 16px;
+     border-radius: 4px;
+     cursor: pointer;
+     border: 2px solid #024272;
+     background: linear-gradient(45deg, #fff 50%, #024272 50%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     position: relative;
+   border-radius:35px;
+   width:75%;
+   height:100px;
+   min-width:210px;
+   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+   
+     color: #fff; /*For IE*/
+   }
+   
+   .NavyButton:after {
+     content: "";
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     background: linear-gradient(45deg, #024272 50%, transparent 50%);
+     z-index: -1;
+   border-radius:30px;
+   }
+   
+   .NavyButton,
+   .NavyButton:after {
+     background-size: 300%;
+     background-position: 100%;
+     transition: 1s, font-size 0.2s;
+   }
+   
+   .NavyButton:hover,
+   .NavyButton:hover:after {
+     background-position: 0;
+     font-size: 1.1em;
+   
+     color: orangeRed; /*For IE*/
+   }
+   
+   .MarineButton {
+     padding: 8px 16px;
+     border-radius: 4px;
+     cursor: pointer;
+     border: 2px solid #940000;
+     background: linear-gradient(45deg, #fff 50%, #940000 50%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     position: relative;
+   border-radius:35px;
+   width:75%;
+   height:100px;
+   min-width:210px;
+   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+   
+     color: #fff; /*For IE*/
+   }
+   
+   .MarineButton:after {
+     content: "";
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     background: linear-gradient(45deg, #940000 50%, transparent 50%);
+     z-index: -1;
+   border-radius:30px;
+   }
+   
+   .MarineButton,
+   .MarineButton:after {
+     background-size: 300%;
+     background-position: 100%;
+     transition: 1s, font-size 0.2s;
+   }
+   
+   .MarineButton:hover,
+   .MarineButton:hover:after {
+     background-position: 0;
+     font-size: 1.1em;
+   
+     color: orangeRed; /*For IE*/
+   }
+   
+   @supports not (width: max-content) {
+   .NavyButton{
+   -webkit-text-fill-color: #024272;
+   }
+   .MarineButton{
+   -webkit-text-fill-color: #940000;
+   }
+   .NavyButton:hover, .MarineButton:hover {
+   -webkit-text-fill-color: #fff;
+   }
+   .Rtable-cell { 
+     flex:1;
+   }
+   }
+   
+   @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+   .NavyButton{
+   -webkit-text-fill-color: #024272;
+   }
+   .MarineButton{
+   -webkit-text-fill-color: #940000;
+   }
+   .NavyButton:hover, .MarineButton:hover {
+   -webkit-text-fill-color: #fff;
+   }
+   .Rtable-cell { 
+     flex:1;
+   }
+   /*#SECNAVImg {
+   margin-top:2%!important;
+   width:70%!important;
+   }*/
+   }
+   
+   
+   .Rtable {
+     display: -webkit-box;
+     display: flex;
+     flex-wrap: wrap;
+     margin: 0 0 3em 0;
+     padding: 0;
+   }
+   .Rtable-cell {
+     box-sizing: border-box;
+     -webkit-box-flex: 1;
+             flex-grow: 1;
+     width: 100%;
+     padding: 0.8em 1.2em;
+     overflow: auto;
+     list-style: none;
+   }
+   .Rtable-cell > h1,
+   .Rtable-cell > h2,
+   .Rtable-cell > h3,
+   .Rtable-cell > h4,
+   .Rtable-cell > h5,
+   .Rtable-cell > h6 {
+     margin: 0;
+   }
+   /* Table column sizing
+   ================================== */
+   .Rtable--2cols > .Rtable-cell {
+     width: 50%;
+   }
+   .Rtable--3cols > .Rtable-cell {
+     width: 33.33%;
+   }
+   .Rtable--4cols > .Rtable-cell {
+     width: 25%;
+   }
+   .Rtable--5cols > .Rtable-cell {
+     width: 20%;
+   }
+   .Rtable--6cols > .Rtable-cell {
+     width: 16.6%;
+   }
+   @media all and (max-width: 720px) {
+     .Rtable--collapse {
+       display: block;
+     }
+     .Rtable--collapse > .Rtable-cell {
+       width: 100% !important;
+     }
+     .Rtable--collapse > .Rtable-cell--foot {
+       margin-bottom: 1em;
+   }
+   }
+   .no-flexbox .Rtable {
+     display: block;
+   }
+   .no-flexbox .Rtable > .Rtable-cell {
+     width: 100%;
+   }
+   .no-flexbox .Rtable > .Rtable-cell--foot {
+     margin-bottom: 1em;
+   }
+   
+   .leadtext3 {
+   text-shadow: -1px 3px 10px rgb(0 0 0);
+   box-shadow:-1px 3px 10px rgb(0 0 1);
+   }
+#zz2_RootAspMenu {
+background-color: rgb(0, 26, 62);
+}
+#sideNavBox {
+display:none!important;
+}
+#contentBox {
+margin:auto 0%!important;
+width:auto;
+}
+.welcome-content {
+display:none;
+}
+#pageTitle {
+display:none;
+}
+#DeltaPlaceHolderMain {
+margin-top:-16px;
+}
+#pageStatusBar {
+margin-bottom:0px!important;
+}
+div.ms-webpart-cell-vertical-inline-table {
+display:table;
+}
+.push {
+height:335px;
+}
+</style></DIV>
+				</div><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartctl00_ctl45_g_90d57128_8ca1_4846_acc8_f95e99e7860b" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="90d57128-8ca1-4846-acc8-f95e99e7860b" HasPers="false" id="WebPartctl00_ctl45_g_90d57128_8ca1_4846_acc8_f95e99e7860b" width="100%" class="ms-WPBody noindex " allowDelete="false" allowExport="false" style="" ><div id="ctl00_ctl45_g_90d57128_8ca1_4846_acc8_f95e99e7860b">
+					<DIV class="ms-rte-embedcode ms-rte-embedwp"><div class="Rtable Rtable--2cols Rtable--collapse" style="text-align:center; margin-top:0px; margin-bottom:0px; background-color:#282E34;" title="social media section">  
+<div style="order:0;" class="Rtable-cell Rtable-cell" id="lane1">
+<a data-tweet-limit="1" class="twitter-timeline" data-width="400" data-dnt="true" data-theme="dark" data-chrome="nofooter noheader transparent noborders" href="https://twitter.com/USNavy" style="color:#fff">Tweets by USNavy</a>
+</div>
+<div style="order:1;" class="Rtable-cell Rtable-cell">
+<a data-tweet-limit="1" class="twitter-timeline" data-width="400" data-dnt="true" data-theme="dark" data-chrome="nofooter noheader transparent noborders" href="https://twitter.com/USMC" style="color:#fff">Tweets by USMC</a>
+</div>
+</div>
+
+<script>
+$.getScript('https://platform.twitter.com/widgets.js');
+</script>
+
+<style>
+/*#twitter-widget-0 {
+height:76vh!important;
+}
+#twitter-widget-1 {
+height:76vh!important;
+}*/
+.twitter-timeline {
+height:76vh!important;
+overflow:auto;
+scrollbar-color: grey #282E34; 
+}
+</style></DIV>
+				</div><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartctl00_ctl45_g_c70ea8b4_8ed1_4d6a_82bc_83307feef94a" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="c70ea8b4-8ed1-4d6a-82bc-83307feef94a" HasPers="false" id="WebPartctl00_ctl45_g_c70ea8b4_8ed1_4d6a_82bc_83307feef94a" width="100%" class="ms-WPBody noindex " allowDelete="false" allowExport="false" style="" ><div id="ctl00_ctl45_g_c70ea8b4_8ed1_4d6a_82bc_83307feef94a">
+					<DIV class="ms-rte-embedcode ms-rte-embedwp"><div class="parallax" style="background-image:url('../../../PublishingImages/ICEX.jpg'); position:relative; height:52vh;" alt="Submarine photo in the arctic" title="end of page">
+</div></DIV>
+				</div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+				</div>
+			</div>
+			<script type="text/javascript">// <![CDATA[ 
+
+if(typeof(MSOLayout_MakeInvisibleIfEmpty) == "function") {MSOLayout_MakeInvisibleIfEmpty();}// ]]>
+</script>
+		</div>
+	</div>
+<div style='display:none' id='hidZone'><menu class="ms-hide">
+		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+		</ie:menuitem>
+	</menu></div>
+	
+</div>
+</div>
+<div id="DeltaFormDigest">
+	
+	
+		<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xFA7416006506EC510F980B0DA30E362A933C25D2321BB08E8FEFAE59303AC03C26BE2ACB46F8779172D4795C83E53A55E7DE9EF179D5DFF6C4FE06BAD08E74F5,19 Mar 2026 23:13:51 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+	
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+		</div>
+		
+		<div class="push ms-dialogHidden"></div>
+				
+
+		</div>
+		
+						<!--Footer-->
+		<div id="footertopcolor" class="ms-dialogHidden"></div>
+			<div id="FooterPub" class="ms-dialogHidden">
+				<div id="footercontent" class="ms-dialogHidden"></div>
+			</div>
+
+		
+		</div>		
+
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.SPThemeUtils && SPThemeUtils.ApplyCurrentTheme(true);var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{86d3f1a8-e002-4279-82d4-ee4468d14144}",itemId: 66,recycleBinEnabled: true,enableMinorVersioning: false,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:200801}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var slNavUrl = '\u002f';_spBodyOnLoadFunctionNames.push('_cUpdonetidProjectPropertyTitleGraphic');function _cUpdonetidProjectPropertyTitleGraphic(){var myd = null; if (typeof(dataonetidProjectPropertyTitleGraphic) != 'undefined') {myd = dataonetidProjectPropertyTitleGraphic;} var myc = document.getElementById('ctl00_onetidProjectPropertyTitleGraphic');_cUpdconetidProjectPropertyTitleGraphic(myd, myc);}function _cUpdconetidProjectPropertyTitleGraphic(data, ctrl){ctrl.href = slNavUrl;}function _cUpdonetidHeadbnnr2(){var myd = null; if (typeof(dataonetidHeadbnnr2) != 'undefined') {myd = dataonetidHeadbnnr2;} var myc = document.getElementById('ctl00_onetidHeadbnnr2');_cUpdconetidHeadbnnr2(myd, myc);}function _cUpdconetidHeadbnnr2(data, ctrl){SiteLogoImagePageUpdate(ctrl, data);}g_spPreFetchKeys.push('sp.core.js');
+            ExecuteOrDelayUntilScriptLoaded(
+                function() 
+                {                    
+                    Srch.ScriptApplicationManager.get_current().states = {"webUILanguageName":"en-US","webDefaultLanguageName":"en-US","QueryDateTimeCulture":1033,"timeZoneOffsetInHours":-5,"contextUrl":"https://www.secnav.navy.mil","contextTitle":"SECRETARY OF THE NAVY","supportedLanguages":[{"id":1025,"label":"Arabic"},{"id":1093,"label":"Bangla"},{"id":1026,"label":"Bulgarian"},{"id":1027,"label":"Catalan"},{"id":2052,"label":"Chinese (Simplified)"},{"id":1028,"label":"Chinese (Traditional)"},{"id":1050,"label":"Croatian"},{"id":1029,"label":"Czech"},{"id":1030,"label":"Danish"},{"id":1043,"label":"Dutch"},{"id":1033,"label":"English"},{"id":1035,"label":"Finnish"},{"id":1036,"label":"French"},{"id":1031,"label":"German"},{"id":1032,"label":"Greek"},{"id":1095,"label":"Gujarati"},{"id":1037,"label":"Hebrew"},{"id":1081,"label":"Hindi"},{"id":1038,"label":"Hungarian"},{"id":1039,"label":"Icelandic"},{"id":1057,"label":"Indonesian"},{"id":1040,"label":"Italian"},{"id":1041,"label":"Japanese"},{"id":1099,"label":"Kannada"},{"id":1042,"label":"Korean"},{"id":1062,"label":"Latvian"},{"id":1063,"label":"Lithuanian"},{"id":1086,"label":"Malay"},{"id":1100,"label":"Malayalam"},{"id":1102,"label":"Marathi"},{"id":1044,"label":"Norwegian"},{"id":1045,"label":"Polish"},{"id":1046,"label":"Portuguese (Brazil)"},{"id":2070,"label":"Portuguese (Portugal)"},{"id":1094,"label":"Punjabi"},{"id":1048,"label":"Romanian"},{"id":1049,"label":"Russian"},{"id":3098,"label":"Serbian (Cyrillic)"},{"id":2074,"label":"Serbian (Latin)"},{"id":1051,"label":"Slovak"},{"id":1060,"label":"Slovenian"},{"id":3082,"label":"Spanish (Spain)"},{"id":2058,"label":"Spanish (Mexico)"},{"id":1053,"label":"Swedish"},{"id":1097,"label":"Tamil"},{"id":1098,"label":"Telugu"},{"id":1054,"label":"Thai"},{"id":1055,"label":"Turkish"},{"id":1058,"label":"Ukrainian"},{"id":1056,"label":"Urdu"},{"id":1066,"label":"Vietnamese"}],"navigationNodes":[{"id":1001,"name":"Everything","url":"{searchcenterurl}/results.aspx","promptString":"Search everything"},{"id":1002,"name":"People","url":"{searchcenterurl}/peopleresults.aspx","promptString":"Search people"},{"id":1003,"name":"Conversations","url":"{searchcenterurl}/conversationresults.aspx","promptString":"Search conversations"},{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"webUILanguageDirectory":"en-US","showAdminDetails":false,"defaultPagesListName":"Pages","isSPFSKU":false,"defaultQueryProperties":{"culture":1033,"uiLanguage":1033,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true}};
+                    Srch.U.trace(null, 'SerializeToClient', 'ScriptApplicationManager state initialized.');
+                }, 'Search.ClientControls.js');var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderPageTitleInTitleArea = "DeltaPlaceHolderPageTitleInTitleArea";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+g_QuickLaunchControlIds.push("zz1_TopNavigationMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz1_TopNavigationMenu = null; function init_zz1_TopNavigationMenu() { if (g_zz1_TopNavigationMenu == null) g_zz1_TopNavigationMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz1_TopNavigationMenu')); } if(g_spPreFetchKeys) {{ g_spPreFetchKeys.push('SP.Core.js');}}EnsureScriptFunc('SP.Core.js', 'SP.UI.AspMenu', init_zz1_TopNavigationMenu);
+
+                    ExecuteOrDelayUntilScriptLoaded(
+                        function() 
+                        {
+                            if ($isNull($find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr')))
+                            {
+                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"messages":[],"queryGroupNames":["MasterPage"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox_Compact.js","resultsPageAddress":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","serverInitialRender":true,"showDataErrors":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"));
+                                sb.activate('Search...', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavButton', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavDropdownList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
+                            }
+                        }, 'Search.ClientControls.js');g_QuickLaunchControlIds.push("zz3_V4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz3_V4QuickLaunchMenu = null; function init_zz3_V4QuickLaunchMenu() { if (g_zz3_V4QuickLaunchMenu == null) g_zz3_V4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz3_V4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz3_V4QuickLaunchMenu, 'SP.Core.js');
+//]]>
+</script>
+</form>
+	<span id="DeltaPlaceHolderUtilityContent">
+		
+	</span>
+	<script type="text/javascript">// <![CDATA[ 
+
+var g_Workspace = "s4-workspace"; // ]]>
+</script>
+</body>
+</html>
