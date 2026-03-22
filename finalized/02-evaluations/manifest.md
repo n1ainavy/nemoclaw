@@ -1,9 +1,9 @@
 # Evaluations & Fitness Reports — Document Manifest
 
 **Generated:** 2026-03-21
-**Total documents:** 18
-**Total pages:** 1760
-**Total size:** 41.2 MB
+**Total documents:** 20
+**Total pages:** 1766
+**Total size:** 41.6 MB
 
 ---
 
@@ -23,12 +23,14 @@
 | 1239 | bupersinst-1610.10g | 171 | bupersinst-1610.10g.pdf |
 | 1410 | bupersinst1610.10e.-navy-performance-evaluation-system | 201 | bupersinst1610.10e.-navy-performance-evaluation-system.pdf |
 | 1611 | eval-inst | 127 | eval-inst.pdf |
-| 1738 | NAVPERS161626 | 2 | NAVPERS161626.pdf |
-| 1740 | navy-fitness-report-instruction-1610 | 4 | navy-fitness-report-instruction-1610.pdf |
-| 1744 | navy_chapter_17_eval_appeals | 8 | navy_chapter_17_eval_appeals.pdf |
-| 1752 | navy_coaching_program_information | 1 | navy_coaching_program_information.pdf |
-| 1753 | NR20220007850_Redacted | 3 | NR20220007850_Redacted.pdf |
-| 1756 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report | 5 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report.pdf |
+| 1738 | II_MEFO_1610.5_NAVY_PERFORMANCE_EVALUATION_AND_COUNSELING_SYSTEM_GUIDELINES_WITHIN_II_MEF | 4 | II_MEFO_1610.5_NAVY_PERFORMANCE_EVALUATION_AND_COUNSELING_SYSTEM_GUIDELINES_WITHIN_II_MEF.pdf |
+| 1742 | NAVPERS161626 | 2 | NAVPERS161626.pdf |
+| 1744 | navy-fitness-report-instruction-1610 | 4 | navy-fitness-report-instruction-1610.pdf |
+| 1748 | navy_chapter_17_eval_appeals | 8 | navy_chapter_17_eval_appeals.pdf |
+| 1756 | navy_coaching_program_information | 1 | navy_coaching_program_information.pdf |
+| 1757 | NR20220002618_Redacted | 2 | NR20220002618_Redacted.pdf |
+| 1759 | NR20220007850_Redacted | 3 | NR20220007850_Redacted.pdf |
+| 1762 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report | 5 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report.pdf |
 
 ---
 

@@ -1,9 +1,9 @@
 # Travel (JTR) — Document Manifest
 
 **Generated:** 2026-03-21
-**Total documents:** 30
-**Total pages:** 1553
-**Total size:** 27.4 MB
+**Total documents:** 32
+**Total pages:** 5867
+**Total size:** 92.3 MB
 
 ---
 
@@ -11,36 +11,38 @@
 
 | Start Page | Document | Pages | Source File |
 |------------|----------|-------|------------|
-| 1 | 4650_FINAL | 7 | 4650_FINAL.pdf |
-| 8 | Administrative_Household_Goods_(HHG)_Weight_Allowance_Locations | 15 | Administrative_Household_Goods_(HHG)_Weight_Allowance_Locations.pdf |
-| 23 | AFR_FY25_IDT_Travel_Reimbursement_Guide_V4_FINAL | 9 | AFR_FY25_IDT_Travel_Reimbursement_Guide_V4_FINAL.pdf |
-| 32 | AFR_FY26_IDT_Travel_Reimbursement_Guide_V1 | 40 | AFR_FY26_IDT_Travel_Reimbursement_Guide_V1.pdf |
-| 72 | AP-CFT-03 | 15 | AP-CFT-03.pdf |
-| 87 | AP-FEML-01 | 9 | AP-FEML-01.pdf |
-| 96 | AP-TO-01 | 17 | AP-TO-01.pdf |
-| 113 | AT-IDTs_in_Conjunction_Quick_Guide_20_Oct | 24 | AT-IDTs_in_Conjunction_Quick_Guide_20_Oct.pdf |
-| 137 | CE-AEA-01 | 1 | CE-AEA-01.pdf |
-| 138 | CE-CPDT-18 | 1 | CE-CPDT-18.pdf |
-| 139 | CE-CPP-01 | 1 | CE-CPP-01.pdf |
-| 140 | CE-IDL-01 | 1 | CE-IDL-01.pdf |
-| 141 | CE-MPDT-17 | 11 | CE-MPDT-17.pdf |
-| 152 | CE-MPDT-21 | 2 | CE-MPDT-21.pdf |
-| 154 | CE-NWD-01 | 2 | CE-NWD-01.pdf |
-| 156 | CE-NWD-03 | 1 | CE-NWD-03.pdf |
-| 157 | CE-OHA-02 | 1 | CE-OHA-02.pdf |
-| 158 | CE-TLA-01 | 2 | CE-TLA-01.pdf |
-| 160 | CE-TQSE-LP | 5 | CE-TQSE-LP.pdf |
-| 165 | DTS_Regulations | 18 | DTS_Regulations.pdf |
-| 183 | FY21_Inactive_Duty_for_Training_Travel_Reimbursement_Guide | 14 | FY21_Inactive_Duty_for_Training_Travel_Reimbursement_Guide.pdf |
-| 197 | GTCC-Regs | 59 | GTCC-Regs.pdf |
-| 256 | IDT-TRP_Guide_-_FY25_v2_(2024-10-17) | 13 | IDT-TRP_Guide_-_FY25_v2_(2024-10-17).pdf |
-| 269 | IDT_Travel_Reimbursement_Quick_Guide_20_Oct | 36 | IDT_Travel_Reimbursement_Quick_Guide_20_Oct.pdf |
-| 305 | jtr-june-2025 | 565 | jtr-june-2025.pdf |
-| 870 | jtr | 573 | jtr.pdf |
-| 1443 | RIO-CY16-IDT-Travel-Guide | 16 | RIO-CY16-IDT-Travel-Guide.pdf |
-| 1459 | RIO-IR-Travel-Guide | 70 | RIO-IR-Travel-Guide.pdf |
-| 1529 | TRAVEL_ORDERS | 17 | TRAVEL_ORDERS.pdf |
-| 1546 | Travel_Purpose_Identifiers_and_Transportation_Decision_Support_Tools | 8 | Travel_Purpose_Identifiers_and_Transportation_Decision_Support_Tools.pdf |
+| 1 | 1401475146--JFTR(Ch1-10) | 974 | 1401475146--JFTR(Ch1-10).pdf |
+| 975 | 2022-25976 | 3 | 2022-25976.pdf |
+| 978 | 2023-04055 | 1 | 2023-04055.pdf |
+| 979 | 2024_EFTC_Training_Travel_Final | 43 | 2024_EFTC_Training_Travel_Final.pdf |
+| 1022 | 2026-03394 | 2 | 2026-03394.pdf |
+| 1024 | 93-1num | 20 | 93-1num.pdf |
+| 1044 | afi65-103 | 72 | afi65-103.pdf |
+| 1116 | BILLS-119hr7006ih | 482 | BILLS-119hr7006ih.pdf |
+| 1598 | CDIR-2016-02-12-HOUSECOMMITTEES-4 | 3 | CDIR-2016-02-12-HOUSECOMMITTEES-4.pdf |
+| 1601 | CHRG-118hhrg54312 | 42 | CHRG-118hhrg54312.pdf |
+| 1643 | CREC-2001-10-09 | 111 | CREC-2001-10-09.pdf |
+| 1754 | CREC-2020-07-30-pt1-PgS4630-3 | 2 | CREC-2020-07-30-pt1-PgS4630-3.pdf |
+| 1756 | FR-1967-05-06 | 56 | FR-1967-05-06.pdf |
+| 1812 | GOVPUB-GP3-4cafcba4aebf060888346f4285c2dfdb | 74 | GOVPUB-GP3-4cafcba4aebf060888346f4285c2dfdb.pdf |
+| 1886 | GOVPUB-GP3-b13f4c9840861173b69b7dbaca7a7750 | 74 | GOVPUB-GP3-b13f4c9840861173b69b7dbaca7a7750.pdf |
+| 1960 | jftr | 738 | jftr.pdf |
+| 2698 | Joint_Travel_Regulations | 533 | Joint_Travel_Regulations.pdf |
+| 3231 | JointTravelRegulations | 532 | JointTravelRegulations.pdf |
+| 3763 | JTR(Ch1-10) | 1 | JTR(Ch1-10).pdf |
+| 3764 | jtr | 573 | jtr.pdf |
+| 4337 | JTR | 532 | JTR.pdf |
+| 4869 | JTR_1-6 | 564 | JTR_1-6.pdf |
+| 5433 | JTR_Chapters(8-10) | 132 | JTR_Chapters(8-10).pdf |
+| 5565 | JTR_Revisions_for_MAP_74-22(R) | 2 | JTR_Revisions_for_MAP_74-22(R).pdf |
+| 5567 | JTR_Revisions_for_Military_Advisory_Panel_Item_12-20(R)_Per_Diem_Allowance_during_Isolation,_Awaiting_Transportation,_and_Govern | 2 | JTR_Revisions_for_Military_Advisory_Panel_Item_12-20(R)_Per_Diem_Allowance_during_Isolation,_Awaiting_Transportation,_and_Govern.pdf |
+| 5569 | NAVSUP_P490_Rev_6_JTR | 72 | NAVSUP_P490_Rev_6_JTR.pdf |
+| 5641 | RIO-DTS-11-Special_Circumstances | 42 | RIO-DTS-11-Special_Circumstances.pdf |
+| 5683 | SERIALSET-01149_00_00-001-0000-0000 | 18 | SERIALSET-01149_00_00-001-0000-0000.pdf |
+| 5701 | SERIALSET-04518_00_00-115-0377-0000 | 2 | SERIALSET-04518_00_00-115-0377-0000.pdf |
+| 5703 | SERIALSET-07448_00_00-195-1218-0000 | 2 | SERIALSET-07448_00_00-195-1218-0000.pdf |
+| 5705 | USCOURTS-flsd-4_11-cv-10074-1 | 58 | USCOURTS-flsd-4_11-cv-10074-1.pdf |
+| 5763 | Volume_09 | 105 | Volume_09.pdf |
 
 ---
 

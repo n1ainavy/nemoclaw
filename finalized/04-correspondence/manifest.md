@@ -1,9 +1,9 @@
 # Correspondence — Document Manifest
 
 **Generated:** 2026-03-21
-**Total documents:** 22
-**Total pages:** 1653
-**Total size:** 20.2 MB
+**Total documents:** 14
+**Total pages:** 1109
+**Total size:** 26.8 MB
 
 ---
 
@@ -11,28 +11,20 @@
 
 | Start Page | Document | Pages | Source File |
 |------------|----------|-------|------------|
-| 1 | 5210.1 | 96 | 5210.1.pdf |
-| 97 | 5210.2 | 164 | 5210.2.pdf |
-| 261 | 5213.1 | 35 | 5213.1.pdf |
-| 296 | 5213.16 | 23 | 5213.16.pdf |
-| 319 | 5214.1 | 43 | 5214.1.pdf |
-| 362 | 5215.1 | 54 | 5215.1.pdf |
-| 416 | 5215.1_(OPNAV) | 93 | 5215.1_(OPNAV).pdf |
-| 509 | 5216.5__CH-1 | 159 | 5216.5__CH-1.pdf |
-| 668 | 5216.7 | 2 | 5216.7.pdf |
-| 670 | 5222.1B_w_CH-1 | 48 | 5222.1B_w_CH-1.pdf |
-| 718 | 5239.2_(2016) | 72 | 5239.2_(2016).pdf |
-| 790 | 5239.3 | 59 | 5239.3.pdf |
-| 849 | 5510.1 | 337 | 5510.1.pdf |
-| 1186 | 5510.60P | 96 | 5510.60P.pdf |
-| 1282 | CORRESPONDENCE_MANUAL_M_5216-M_-_64-65_1 | 2 | CORRESPONDENCE_MANUAL_M_5216-M_-_64-65_1.pdf |
-| 1284 | FAQs_for_OPNAV_Directives_ | 3 | FAQs_for_OPNAV_Directives_.pdf |
-| 1287 | NAVEDTRA-14319-Department-of-the-Navy-Correspondence-Manual-Course | 36 | NAVEDTRA-14319-Department-of-the-Navy-Correspondence-Manual-Course.pdf |
-| 1323 | NavyCorrespondenceManual-compressed | 159 | NavyCorrespondenceManual-compressed.pdf |
-| 1482 | SECNAV_M-1850.1 | 112 | SECNAV_M-1850.1.pdf |
-| 1594 | USNAINST-5216.1Q-Local-Supplement-to-the-Correspondence-Manual | 17 | USNAINST-5216.1Q-Local-Supplement-to-the-Correspondence-Manual.pdf |
-| 1611 | USNAINST5216.1R_-_Local_Supplement_to_the_DON_Correspondence_Manual | 19 | USNAINST5216.1R_-_Local_Supplement_to_the_DON_Correspondence_Manual.pdf |
-| 1630 | USNAINST_5216.1S_Local_Supplement_to_the_DON_Correspondence_Manual | 24 | USNAINST_5216.1S_Local_Supplement_to_the_DON_Correspondence_Manual.pdf |
+| 1 | 15009a | 320 | 15009a.pdf |
+| 321 | ADA318304 | 145 | ADA318304.pdf |
+| 466 | B020069XQ_Military_Correspondence | 12 | B020069XQ_Military_Correspondence.pdf |
+| 478 | CORRESPONDENCE_MANUAL_M_5216-M_-_64-65_1 | 2 | CORRESPONDENCE_MANUAL_M_5216-M_-_64-65_1.pdf |
+| 480 | JAG_INSTRUCTION_5210.1__RECORDS_MANAGEMENT_PROGRAM | 11 | JAG_INSTRUCTION_5210.1__RECORDS_MANAGEMENT_PROGRAM.pdf |
+| 491 | navbandinst-5216-1d-authority-to-sign-correspondence-by-direction-of-the-co-usnb | 3 | navbandinst-5216-1d-authority-to-sign-correspondence-by-direction-of-the-co-usnb.pdf |
+| 494 | NAVEDTRA-14319-Department-of-the-Navy-Correspondence-Manual-Course | 36 | NAVEDTRA-14319-Department-of-the-Navy-Correspondence-Manual-Course.pdf |
+| 530 | NavyCorrespondenceManual-compressed | 159 | NavyCorrespondenceManual-compressed.pdf |
+| 689 | OPNAV-5215.1-DON-Directives-Management-Program-Manual-May-16 | 93 | OPNAV-5215.1-DON-Directives-Management-Program-Manual-May-16.pdf |
+| 782 | SECNAV_M-5210.2_Department_of_the_Navy_Navy_Records_... | 123 | SECNAV_M-5210.2_Department_of_the_Navy_Navy_Records_....pdf |
+| 905 | SECNAV_M_5216.5_Navy_Correspondence_Manual | 145 | SECNAV_M_5216.5_Navy_Correspondence_Manual.pdf |
+| 1050 | USNAINST-5216.1Q-Local-Supplement-to-the-Correspondence-Manual | 17 | USNAINST-5216.1Q-Local-Supplement-to-the-Correspondence-Manual.pdf |
+| 1067 | USNAINST5216.1R_-_Local_Supplement_to_the_DON_Correspondence_Manual | 19 | USNAINST5216.1R_-_Local_Supplement_to_the_DON_Correspondence_Manual.pdf |
+| 1086 | USNAINST_5216.1S_Local_Supplement_to_the_DON_Correspondence_Manual | 24 | USNAINST_5216.1S_Local_Supplement_to_the_DON_Correspondence_Manual.pdf |
 
 ---
 

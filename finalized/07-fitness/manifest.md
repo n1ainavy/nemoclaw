@@ -1,9 +1,9 @@
 # Physical Readiness — Document Manifest
 
 **Generated:** 2026-03-21
-**Total documents:** 19
-**Total pages:** 487
-**Total size:** 13.4 MB
+**Total documents:** 24
+**Total pages:** 876
+**Total size:** 20.2 MB
 
 ---
 
@@ -11,25 +11,30 @@
 
 | Start Page | Document | Pages | Source File |
 |------------|----------|-------|------------|
-| 1 | 6110.1L | 16 | 6110.1L.pdf |
-| 17 | AD1173251 | 75 | AD1173251.pdf |
-| 92 | AMDR_Training_FEB_2025_v4 | 58 | AMDR_Training_FEB_2025_v4.pdf |
-| 150 | Body_Composition_Assessment_(BCA)_2016 | 19 | Body_Composition_Assessment_(BCA)_2016.pdf |
-| 169 | Fact_Sheet_NAV_123_24 | 2 | Fact_Sheet_NAV_123_24.pdf |
-| 171 | Fact_Sheet_NAV_258_23 | 2 | Fact_Sheet_NAV_258_23.pdf |
-| 173 | Fact_Sheet_NAV_264_25 | 2 | Fact_Sheet_NAV_264_25.pdf |
-| 175 | Free-Navy-Body-Fat-Chart-PDF-File | 14 | Free-Navy-Body-Fat-Chart-PDF-File.pdf |
-| 189 | Guide-4_Body_Composition_Assessment | 36 | Guide-4_Body_Composition_Assessment.pdf |
-| 225 | Guide-5A_Physical_Readiness_Test | 49 | Guide-5A_Physical_Readiness_Test.pdf |
-| 274 | Guide_04-Body_Composition_Assessment-BCA-APR_2021 | 18 | Guide_04-Body_Composition_Assessment-BCA-APR_2021.pdf |
-| 292 | Guide_06-PFA_Medical_Readiness_(JUN_2021) | 12 | Guide_06-PFA_Medical_Readiness_(JUN_2021).pdf |
-| 304 | Guide_4-Body_Composition_Assessment_(BCA)_(MAR_2021) | 7 | Guide_4-Body_Composition_Assessment_(BCA)_(MAR_2021).pdf |
-| 311 | Guide_4-Body_Composition_Assessment_BCA_JAN_2023 | 18 | Guide_4-Body_Composition_Assessment_BCA_JAN_2023.pdf |
-| 329 | Navy-Physical-Fitness-Standards | 42 | Navy-Physical-Fitness-Standards.pdf |
-| 371 | navy-physical-readiness-program | 17 | navy-physical-readiness-program.pdf |
-| 388 | NR20230009889_Redacted | 3 | NR20230009889_Redacted.pdf |
-| 391 | OPNAVINST_6110.1J | 34 | OPNAVINST_6110.1J.pdf |
-| 425 | Policies_and_Instructions_Physical_Readiness_Program_Training_Precautions_OPNAVINST_6110.1J | 63 | Policies_and_Instructions_Physical_Readiness_Program_Training_Precautions_OPNAVINST_6110.1J.pdf |
+| 1 | 2002-prt-standards | 33 | 2002-prt-standards.pdf |
+| 34 | 6000.1c | 46 | 6000.1c.pdf |
+| 80 | Actions_and_Responsibilities_for_Physical_Readiness_Program | 31 | Actions_and_Responsibilities_for_Physical_Readiness_Program.pdf |
+| 111 | AD1173251 | 75 | AD1173251.pdf |
+| 186 | ADA375322 | 49 | ADA375322.pdf |
+| 235 | Body_Composition_Assessment_(BCA)_2016 | 19 | Body_Composition_Assessment_(BCA)_2016.pdf |
+| 254 | Body_Composition_Assessment_BCA_1_S-562-0612A_Change_6 | 40 | Body_Composition_Assessment_BCA_1_S-562-0612A_Change_6.pdf |
+| 294 | bupersinst-1610.10g | 171 | bupersinst-1610.10g.pdf |
+| 465 | Free-Navy-Body-Fat-Chart-PDF-File | 14 | Free-Navy-Body-Fat-Chart-PDF-File.pdf |
+| 479 | Guide_4-Body_Composition_Assessment_(BCA)_(MAR_2021) | 7 | Guide_4-Body_Composition_Assessment_(BCA)_(MAR_2021).pdf |
+| 486 | Medical_Screening_and_Waivers_for_the_Physical_Readiness_Program_1 | 45 | Medical_Screening_and_Waivers_for_the_Physical_Readiness_Program_1.pdf |
+| 531 | Navy-Physical-Fitness-Standards | 42 | Navy-Physical-Fitness-Standards.pdf |
+| 573 | navy-physical-readiness-program | 17 | navy-physical-readiness-program.pdf |
+| 590 | Navy_BCA_guide | 18 | Navy_BCA_guide.pdf |
+| 608 | NPS-HR-22-210 | 74 | NPS-HR-22-210.pdf |
+| 682 | NR20230009889_Redacted | 3 | NR20230009889_Redacted.pdf |
+| 685 | opnav-1330-2b-navy-career-intermission-program-guidelines | 23 | opnav-1330-2b-navy-career-intermission-program-guidelines.pdf |
+| 708 | opnavinst-6000-1d-navy-guidelines-concerning-pregnancy-and-parenthood | 14 | opnavinst-6000-1d-navy-guidelines-concerning-pregnancy-and-parenthood.pdf |
+| 722 | opnavinst-6110-1 | 9 | opnavinst-6110-1.pdf |
+| 731 | OPNAVINST_6110.1J | 34 | OPNAVINST_6110.1J.pdf |
+| 765 | OPNAVINST_6110.1K_N171A_22_Apr_2022_OPNAV_... | 16 | OPNAVINST_6110.1K_N171A_22_Apr_2022_OPNAV_....pdf |
+| 781 | PARFQ | 1 | PARFQ.pdf |
+| 782 | Policies_and_Instructions_Physical_Readiness_Program_Training_Precautions_OPNAVINST_6110.1J | 63 | Policies_and_Instructions_Physical_Readiness_Program_Training_Precautions_OPNAVINST_6110.1J.pdf |
+| 845 | Proper_Conduct_of_the_Physical_Fitness_Assessment_PFA_1_S-562-0612A_Change_6 | 32 | Proper_Conduct_of_the_Physical_Fitness_Assessment_PFA_1_S-562-0612A_Change_6.pdf |
 
 ---
 

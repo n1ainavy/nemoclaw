@@ -1,9 +1,9 @@
 # Uniforms — Document Manifest
 
 **Generated:** 2026-03-21
-**Total documents:** 18
-**Total pages:** 650
-**Total size:** 20.4 MB
+**Total documents:** 11
+**Total pages:** 871
+**Total size:** 22.3 MB
 
 ---
 
@@ -12,23 +12,16 @@
 | Start Page | Document | Pages | Source File |
 |------------|----------|-------|------------|
 | 1 | 140221-N-ZZ182-5357 | 40 | 140221-N-ZZ182-5357.pdf |
-| 41 | chapter4 | 49 | chapter4.pdf |
-| 90 | COMDTMIDNINST_1020.3E_MIDSHIPMEN_UNIFORM_REGULATIONS | 52 | COMDTMIDNINST_1020.3E_MIDSHIPMEN_UNIFORM_REGULATIONS.pdf |
-| 142 | navadmin-183-21 | 7 | navadmin-183-21.pdf |
-| 149 | SOC_2015_12_15 | 12 | SOC_2015_12_15.pdf |
-| 161 | SOC_2016_06_01 | 3 | SOC_2016_06_01.pdf |
-| 164 | SOC_2019_09_24 | 53 | SOC_2019_09_24.pdf |
-| 217 | SOC_2020_07_07 | 4 | SOC_2020_07_07.pdf |
-| 221 | SOC_2021_04_02 | 28 | SOC_2021_04_02.pdf |
-| 249 | SOC_2021_04_19 | 23 | SOC_2021_04_19.pdf |
-| 272 | SOC_2021_08_23 | 89 | SOC_2021_08_23.pdf |
-| 361 | SOC_2023_11_06_ | 57 | SOC_2023_11_06_.pdf |
-| 418 | SOC_2024_03_27 | 118 | SOC_2024_03_27.pdf |
-| 536 | SOC_2024_05_21 | 80 | SOC_2024_05_21.pdf |
-| 616 | SOC_Summer_2025__N13X_Approved | 18 | SOC_Summer_2025__N13X_Approved.pdf |
-| 634 | uniform-newsgram-2019-winter | 6 | uniform-newsgram-2019-winter.pdf |
-| 640 | Uniform_Newsgram_CPO_FY25 | 2 | Uniform_Newsgram_CPO_FY25.pdf |
-| 642 | UniformRegulationsPDF | 9 | UniformRegulationsPDF.pdf |
+| 41 | COMDTMIDNINST_1020.3E_MIDSHIPMEN_UNIFORM_REGULATIONS | 52 | COMDTMIDNINST_1020.3E_MIDSHIPMEN_UNIFORM_REGULATIONS.pdf |
+| 93 | Exhibit-C | 11 | Exhibit-C.pdf |
+| 104 | midn-uniform-regulations | 23 | midn-uniform-regulations.pdf |
+| 127 | navy-uniform-regulations-grooming-standards-2201.1 | 10 | navy-uniform-regulations-grooming-standards-2201.1.pdf |
+| 137 | nrotcuhrm-1533.1e-guidebook | 80 | nrotcuhrm-1533.1e-guidebook.pdf |
+| 217 | ompf_contents_printable_table | 28 | ompf_contents_printable_table.pdf |
+| 245 | SSMP-SOP | 2 | SSMP-SOP.pdf |
+| 247 | united_states_navy_regulations | 219 | united_states_navy_regulations.pdf |
+| 466 | United_States_Navy_Uniform_Regulations_(January_1998) | 389 | United_States_Navy_Uniform_Regulations_(January_1998).pdf |
+| 855 | wosabiba | 17 | wosabiba.pdf |
 
 ---
 

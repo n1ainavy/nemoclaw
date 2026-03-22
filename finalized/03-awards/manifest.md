@@ -1,9 +1,9 @@
 # Awards — Document Manifest
 
 **Generated:** 2026-03-21
-**Total documents:** 11
-**Total pages:** 958
-**Total size:** 24.5 MB
+**Total documents:** 15
+**Total pages:** 2263
+**Total size:** 68.1 MB
 
 ---
 
@@ -11,17 +11,21 @@
 
 | Start Page | Document | Pages | Source File |
 |------------|----------|-------|------------|
-| 1 | 1650.1G_-_PERSONAL_MILITARY_DECORATION_PROGRAM | 22 | 1650.1G_-_PERSONAL_MILITARY_DECORATION_PROGRAM.pdf |
-| 23 | 1650_1g | 216 | 1650_1g.pdf |
-| 239 | 1650_1h | 252 | 1650_1h.pdf |
-| 491 | BUPERSINST_1610.10 | 171 | BUPERSINST_1610.10.pdf |
-| 662 | Manual_II_94_PTD_Jan26 | 130 | Manual_II_94_PTD_Jan26.pdf |
-| 792 | NAVPERS_1650-1_Rev01-06 | 1 | NAVPERS_1650-1_Rev01-06.pdf |
-| 793 | NDAWS_Disconnected_Ops_1650_SOP_Sept_2020_(PDF) | 3 | NDAWS_Disconnected_Ops_1650_SOP_Sept_2020_(PDF).pdf |
-| 796 | NDAWS_User_Guide_-_12_Feb_2025 | 55 | NDAWS_User_Guide_-_12_Feb_2025.pdf |
-| 851 | NDAWS_User_Guide_-_17_JUL2024 | 57 | NDAWS_User_Guide_-_17_JUL2024.pdf |
-| 908 | SECNAVINST_1650_1J_1 | 36 | SECNAVINST_1650_1J_1.pdf |
-| 944 | USNAINST_1650.5D_Military_Awards_Guidance1 | 15 | USNAINST_1650.5D_Military_Awards_Guidance1.pdf |
+| 1 | 1650.1B | 14 | 1650.1B.pdf |
+| 15 | 1650.1G_-_PERSONAL_MILITARY_DECORATION_PROGRAM | 22 | 1650.1G_-_PERSONAL_MILITARY_DECORATION_PROGRAM.pdf |
+| 37 | 1650.1H_-_Navy_and_Marine_Corps_Award_Manual_(August_2008) | 252 | 1650.1H_-_Navy_and_Marine_Corps_Award_Manual_(August_2008).pdf |
+| 289 | 1650 | 852 | 1650.pdf |
+| 1141 | 16503H | 18 | 16503H.pdf |
+| 1159 | 1650_1g | 216 | 1650_1g.pdf |
+| 1375 | 1650_1h | 252 | 1650_1h.pdf |
+| 1627 | CNLSCINST_1650.2B_CH-1_PERSONAL_AWARDS_PROGRAM | 18 | CNLSCINST_1650.2B_CH-1_PERSONAL_AWARDS_PROGRAM.pdf |
+| 1645 | Navy_Recruiting_Command_Awards_Manual | 56 | Navy_Recruiting_Command_Awards_Manual.pdf |
+| 1701 | NR20220008782_Redacted | 3 | NR20220008782_Redacted.pdf |
+| 1704 | OPNAV1650-3 | 5 | OPNAV1650-3.pdf |
+| 1709 | secnavinst-1650-1 | 252 | secnavinst-1650-1.pdf |
+| 1961 | SECNAVINST_1650.1H_Awards_Manual | 252 | SECNAVINST_1650.1H_Awards_Manual.pdf |
+| 2213 | SECNAVINST_1650_1J_1 | 36 | SECNAVINST_1650_1J_1.pdf |
+| 2249 | USNAINST_1650.5D_Military_Awards_Guidance1 | 15 | USNAINST_1650.5D_Military_Awards_Guidance1.pdf |
 
 ---
 

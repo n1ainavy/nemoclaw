@@ -1,9 +1,9 @@
 # Advancement & Promotion — Document Manifest
 
 **Generated:** 2026-03-21
-**Total documents:** 7
-**Total pages:** 429
-**Total size:** 7.8 MB
+**Total documents:** 9
+**Total pages:** 840
+**Total size:** 13.6 MB
 
 ---
 
@@ -12,12 +12,14 @@
 | Start Page | Document | Pages | Source File |
 |------------|----------|-------|------------|
 | 1 | 140221-N-ZZ182-5363 | 36 | 140221-N-ZZ182-5363.pdf |
-| 37 | 1430-010 | 4 | 1430-010.pdf |
-| 41 | bupersinst-1430-16 | 160 | bupersinst-1430-16.pdf |
-| 201 | BUPERSINST_1430.16 | 172 | BUPERSINST_1430.16.pdf |
-| 373 | EAW_Sailor_WNFY_1-16-19 | 7 | EAW_Sailor_WNFY_1-16-19.pdf |
-| 380 | Fact_Sheet_NAV_255_24 | 3 | Fact_Sheet_NAV_255_24.pdf |
-| 383 | Navy_Enlisted_Advancement_System_-_Dec_2007 | 47 | Navy_Enlisted_Advancement_System_-_Dec_2007.pdf |
+| 37 | 1610.10d | 217 | 1610.10d.pdf |
+| 254 | bupersinst-1430-16 | 160 | bupersinst-1430-16.pdf |
+| 414 | bupersinst-1610.10g | 171 | bupersinst-1610.10g.pdf |
+| 585 | bupersinst1610.10e.-navy-performance-evaluation-system | 201 | bupersinst1610.10e.-navy-performance-evaluation-system.pdf |
+| 786 | Navy_Enlisted_Advancement_System_-_Dec_2007 | 47 | Navy_Enlisted_Advancement_System_-_Dec_2007.pdf |
+| 833 | NR20220001114_Redacted | 3 | NR20220001114_Redacted.pdf |
+| 836 | NR20230001376_Redacted | 2 | NR20230001376_Redacted.pdf |
+| 838 | NR20230007695_Redacted | 3 | NR20230007695_Redacted.pdf |
 
 ---
 

@@ -1,9 +1,9 @@
 # Standards of Conduct — Document Manifest
 
 **Generated:** 2026-03-21
-**Total documents:** 23
-**Total pages:** 968
-**Total size:** 23.0 MB
+**Total documents:** 33
+**Total pages:** 1639
+**Total size:** 60.7 MB
 
 ---
 
@@ -11,29 +11,39 @@
 
 | Start Page | Document | Pages | Source File |
 |------------|----------|-------|------------|
-| 1 | 16a400a5354e401a91e3be631a09a39d2 | 11 | 16a400a5354e401a91e3be631a09a39d2.pdf |
-| 12 | 2025_Employee_Guide_to_the_Standards_of_Conduct_(rv03042025) | 16 | 2025_Employee_Guide_to_the_Standards_of_Conduct_(rv03042025).pdf |
-| 28 | 550007p(2) | 12 | 550007p(2).pdf |
-| 40 | 550007p | 6 | 550007p.pdf |
-| 46 | 550007p2 | 12 | 550007p2.pdf |
-| 58 | 7a23e4eee9ff43688d08fc9b1b1728707 | 21 | 7a23e4eee9ff43688d08fc9b1b1728707.pdf |
-| 79 | AD1053130 | 89 | AD1053130.pdf |
-| 168 | AD1184919 | 185 | AD1184919.pdf |
-| 353 | ADA190930 | 76 | ADA190930.pdf |
-| 429 | afi1-1 | 37 | afi1-1.pdf |
-| 466 | CFR-1998-title32-vol1-part84 | 62 | CFR-1998-title32-vol1-part84.pdf |
-| 528 | d55007p | 151 | d55007p.pdf |
-| 679 | DAF-EthicsGuide2022-2 | 16 | DAF-EthicsGuide2022-2.pdf |
-| 695 | DODD5500-7rpv1996 | 8 | DODD5500-7rpv1996.pdf |
-| 703 | DON_Ethics2017 | 42 | DON_Ethics2017.pdf |
-| 745 | employee_guide_1 | 16 | employee_guide_1.pdf |
-| 761 | ethics_counselor_fundamentals | 18 | ethics_counselor_fundamentals.pdf |
-| 779 | ExerptJointEthicsRegulation | 4 | ExerptJointEthicsRegulation.pdf |
-| 783 | FacilitationSkillsHandbook_current_10-17 | 64 | FacilitationSkillsHandbook_current_10-17.pdf |
-| 847 | Gibbons-UniformCodeofMilitaryEthics | 22 | Gibbons-UniformCodeofMilitaryEthics.pdf |
-| 869 | Initial_and_Annual_Ethics_V4 | 64 | Initial_and_Annual_Ethics_V4.pdf |
-| 933 | reserve_ethics | 17 | reserve_ethics.pdf |
-| 950 | Signature_Behaviors_FINAL | 19 | Signature_Behaviors_FINAL.pdf |
+| 1 | 2025_Employee_Guide_to_the_Standards_of_Conduct_(rv03042025) | 16 | 2025_Employee_Guide_to_the_Standards_of_Conduct_(rv03042025).pdf |
+| 17 | 7a23e4eee9ff43688d08fc9b1b1728707 | 21 | 7a23e4eee9ff43688d08fc9b1b1728707.pdf |
+| 38 | ADA275132 | 728 | ADA275132.pdf |
+| 766 | ADA309860 | 111 | ADA309860.pdf |
+| 877 | afi1-1 | 37 | afi1-1.pdf |
+| 914 | CFR-1998-title32-vol1-part84 | 62 | CFR-1998-title32-vol1-part84.pdf |
+| 976 | CFR-2003-title32-vol2-part378 | 3 | CFR-2003-title32-vol2-part378.pdf |
+| 979 | CFR-2003-title32-vol3-part518-subpartF | 11 | CFR-2003-title32-vol3-part518-subpartF.pdf |
+| 990 | CFR-2010-title32-vol1-part57-appB | 7 | CFR-2010-title32-vol1-part57-appB.pdf |
+| 997 | CFR-2010-title32-vol1-sec37-660 | 1 | CFR-2010-title32-vol1-sec37-660.pdf |
+| 998 | CFR-2010-title32-vol2-sec285-4 | 2 | CFR-2010-title32-vol2-sec285-4.pdf |
+| 1000 | CFR-2010-title32-vol3-sec552-62 | 1 | CFR-2010-title32-vol3-sec552-62.pdf |
+| 1001 | CFR-2010-title38-vol1-sec0-735-10 | 1 | CFR-2010-title38-vol1-sec0-735-10.pdf |
+| 1002 | CFR-2010-title48-vol3-sec203-1003 | 1 | CFR-2010-title48-vol3-sec203-1003.pdf |
+| 1003 | CFR-2012-title32-vol1-sec159-5 | 2 | CFR-2012-title32-vol1-sec159-5.pdf |
+| 1005 | CFR-2014-title32-vol5-part724-subpartB | 7 | CFR-2014-title32-vol5-part724-subpartB.pdf |
+| 1012 | CFR-2021-title5-vol3-part3601 | 4 | CFR-2021-title5-vol3-part3601.pdf |
+| 1016 | CFR-2025-title32-vol1-subtitleA-chapI-subchapG | 45 | CFR-2025-title32-vol1-subtitleA-chapI-subchapG.pdf |
+| 1061 | d55007p | 151 | d55007p.pdf |
+| 1212 | DAF-EthicsGuide2022-2 | 16 | DAF-EthicsGuide2022-2.pdf |
+| 1228 | DoD+5500.07-R+(JER)+-+Non-Federal+Entities | 19 | DoD+5500.07-R+(JER)+-+Non-Federal+Entities.pdf |
+| 1247 | DoD_5500.07R_JER_Change_7_Nov_17_2011 | 115 | DoD_5500.07R_JER_Change_7_Nov_17_2011.pdf |
+| 1362 | DODD5500-7rpv1996 | 8 | DODD5500-7rpv1996.pdf |
+| 1370 | employee_guide_1 | 16 | employee_guide_1.pdf |
+| 1386 | ethics_counselor_fundamentals | 18 | ethics_counselor_fundamentals.pdf |
+| 1404 | ExerptJointEthicsRegulation | 4 | ExerptJointEthicsRegulation.pdf |
+| 1408 | For_Official_Use_Only_UNCLASSIFIED_Gifts_Standards_of_Conduct_Office | 58 | For_Official_Use_Only_UNCLASSIFIED_Gifts_Standards_of_Conduct_Office.pdf |
+| 1466 | GAOREPORTS-NSIAD-96-162 | 40 | GAOREPORTS-NSIAD-96-162.pdf |
+| 1506 | Gibbons-UniformCodeofMilitaryEthics | 22 | Gibbons-UniformCodeofMilitaryEthics.pdf |
+| 1528 | GOVMAN-1996-05-31-Pg230 | 2 | GOVMAN-1996-05-31-Pg230.pdf |
+| 1530 | Holding_the_Line_-_Watch_Out_(final) | 2 | Holding_the_Line_-_Watch_Out_(final).pdf |
+| 1532 | JER_May_15_2024 | 91 | JER_May_15_2024.pdf |
+| 1623 | reserve_ethics | 17 | reserve_ethics.pdf |
 
 ---
 
