@@ -3,7 +3,7 @@
 **Generated:** 2026-03-22
 **Total documents:** 16
 **Total pages:** 936
-**Total size:** 31.0 MB
+**Total size:** 34.0 MB
 
 ---
 
@@ -22,7 +22,7 @@
 | 616 | NR20220002618_Redacted | 2 | NR20220002618_Redacted.pdf |
 | 618 | NR20220007850_Redacted | 3 | NR20220007850_Redacted.pdf |
 | 621 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report | 5 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report.pdf |
-| 626 | bupersinst-1610.10g | 171 | bupersinst-1610.10g.pdf |
+| 626 | bupersinst-1610.10h | 171 | bupersinst-1610.10h.pdf |
 | 797 | eval-inst | 127 | eval-inst.pdf |
 | 924 | navy-fitness-report-instruction-1610 | 4 | navy-fitness-report-instruction-1610.pdf |
 | 928 | navy_chapter_17_eval_appeals | 8 | navy_chapter_17_eval_appeals.pdf |
@@ -30,4 +30,4 @@
 
 ---
 
-*Claude Cowork review — 2026-03-22 (obsolete versions removed; pending: replacement downloads)*
+*Claude Cowork review — 2026-03-22 (superseded versions removed; latest downloads integrated)*

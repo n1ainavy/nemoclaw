@@ -1,9 +1,9 @@
 # Physical Readiness Program — Document Manifest
 
 **Generated:** 2026-03-22
-**Total documents:** 19
-**Total pages:** 583
-**Total size:** 17.9 MB
+**Total documents:** 20
+**Total pages:** 599
+**Total size:** 18.2 MB
 
 ---
 
@@ -30,7 +30,8 @@
 | 530 | navy-physical-readiness-program | 17 | navy-physical-readiness-program.pdf |
 | 547 | opnav-1330-2b-navy-career-intermission-program-guidelines | 23 | opnav-1330-2b-navy-career-intermission-program-guidelines.pdf |
 | 570 | opnavinst-6000-1d-navy-guidelines-concerning-pregnancy-and-parenthood | 14 | opnavinst-6000-1d-navy-guidelines-concerning-pregnancy-and-parenthood.pdf |
+| 584 | opnavinst-6110.1l | 16 | opnavinst-6110.1l.pdf |
 
 ---
 
-*Claude Cowork review — 2026-03-22 (obsolete versions removed; pending: replacement downloads)*
+*Claude Cowork review — 2026-03-22 (superseded versions removed; latest downloads integrated)*
