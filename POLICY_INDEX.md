@@ -3,27 +3,25 @@
 > Automated index of official U.S. Navy and DoD policy documents.
 > Only validated, latest-version, deduplicated documents are included.
 
-**Last updated:** 2026-03-22 (Claude Cowork review)
+**Last updated:** 2026-03-22 07:50
 
 ---
 
 ## Topics
 
-- **[Reserve Personnel](finalized/01-reserve-personnel/manifest.md)** — 56 documents ([PDF](finalized/01-reserve-personnel/consolidated.pdf))
-- **[Evaluations & Fitness Reports](finalized/02-evaluations/manifest.md)** — 80 documents ([PDF](finalized/02-evaluations/consolidated.pdf))
-- **[Awards](finalized/03-awards/manifest.md)** — 60 documents ([PDF](finalized/03-awards/consolidated.pdf))
+- **[RESPERSMAN (Reserve Personnel Manual)](finalized/01-reserve-personnel/manifest.md)** — 52 documents ([PDF](finalized/01-reserve-personnel/consolidated.pdf))
+- **[Evaluations & Fitness Reports](finalized/02-evaluations/manifest.md)** — 64 documents ([PDF](finalized/02-evaluations/consolidated.pdf))
+- **[Awards](finalized/03-awards/manifest.md)** — 28 documents ([PDF](finalized/03-awards/consolidated.pdf))
 - **[Correspondence](finalized/04-correspondence/manifest.md)** — 56 documents ([PDF](finalized/04-correspondence/consolidated.pdf))
 - **[MILPERSMAN](finalized/05-milpersman/manifest.md)** — 44 documents ([PDF](finalized/05-milpersman/consolidated.pdf))
 - **[Uniforms](finalized/06-uniforms/manifest.md)** — 44 documents ([PDF](finalized/06-uniforms/consolidated.pdf))
-- **[Physical Readiness](finalized/07-fitness/manifest.md)** — 96 documents ([PDF](finalized/07-fitness/consolidated.pdf))
+- **[Physical Readiness](finalized/07-fitness/manifest.md)** — 80 documents ([PDF](finalized/07-fitness/consolidated.pdf))
 - **[Travel (JTR)](finalized/08-travel/manifest.md)** — 128 documents ([PDF](finalized/08-travel/consolidated.pdf))
 - **[Training & PME](finalized/09-training/manifest.md)** — 96 documents ([PDF](finalized/09-training/consolidated.pdf))
-- **[Advancement & Promotion](finalized/10-advancement/manifest.md)** — 36 documents ([PDF](finalized/10-advancement/consolidated.pdf))
+- **[Advancement & Promotion](finalized/10-advancement/manifest.md)** — 24 documents ([PDF](finalized/10-advancement/consolidated.pdf))
 - **[Medical Readiness](finalized/11-medical/manifest.md)** — 196 documents ([PDF](finalized/11-medical/consolidated.pdf))
 - **[Standards of Conduct](finalized/12-conduct/manifest.md)** — 132 documents ([PDF](finalized/12-conduct/consolidated.pdf))
 - **[NAVADMINs (Reserve-Related)](finalized/13-navadmin/manifest.md)** — 40 documents ([PDF](finalized/13-navadmin/consolidated.pdf))
-- **[Mobilization & ADSW](finalized/14-mobilization/manifest.md)** — 116 documents ([PDF](finalized/14-mobilization/consolidated.pdf))
-- **[Career Management](manual/manifest.md)** — 163 documents ([Vol 1](consolidated/15a-careermgmt.pdf) · [Vol 2](consolidated/15b-careermgmt.pdf))
 
 ---
 
@@ -31,22 +29,10 @@
 
 📁 **[consolidated/](consolidated/INDEX.md)** — All topic PDFs in one folder for easy download
 
-- [01-reserve-personnel.pdf](consolidated/01-reserve-personnel.pdf) (69.3 MB)
-- [02-evaluations.pdf](consolidated/02-evaluations.pdf) (41.6 MB)
-- [03-awards.pdf](consolidated/03-awards.pdf) (68.1 MB)
-- [04-correspondence.pdf](consolidated/04-correspondence.pdf) (26.8 MB)
-- [05-milpersman.pdf](consolidated/05-milpersman.pdf) (21.1 MB)
-- [06-uniforms.pdf](consolidated/06-uniforms.pdf) (22.3 MB)
-- [07-fitness.pdf](consolidated/07-fitness.pdf) (20.2 MB)
-- [08-travel.pdf](consolidated/08-travel.pdf) (92.3 MB)
-- [09-training_vol1.pdf](consolidated/09-training_vol1.pdf) (58.0 MB)
-- [09-training_vol2.pdf](consolidated/09-training_vol2.pdf) (27.5 MB)
-- [10-advancement.pdf](consolidated/10-advancement.pdf) (13.6 MB)
-- [11-medical.pdf](consolidated/11-medical.pdf) (53.7 MB)
-- [12-conduct.pdf](consolidated/12-conduct.pdf) (60.7 MB)
-- [13-navadmin.pdf](consolidated/13-navadmin.pdf) (13.9 MB)
-- [14-mobilization.pdf](consolidated/14-mobilization.pdf) (44.3 MB)
-- [15a-careermgmt.pdf](consolidated/15a-careermgmt.pdf) (79.7 MB) + [15b-careermgmt.pdf](consolidated/15b-careermgmt.pdf) (83.6 MB)
+- [01-reserve-personnel.pdf](consolidated/01-reserve-personnel.pdf) (8.5 MB)
+- [manual_consolidated_vol1.pdf](consolidated/manual_consolidated_vol1.pdf) (87.8 MB)
+- [manual_consolidated_vol2.pdf](consolidated/manual_consolidated_vol2.pdf) (51.3 MB)
+- [manual_consolidated_vol3.pdf](consolidated/manual_consolidated_vol3.pdf) (83.9 MB)
 
 ---
 
@@ -54,9 +40,10 @@
 
 📁 **[manual/](manual/README.md)** — Drop PDFs here for consolidation on next run
 
-**16 consolidated PDFs** — see [manual/_consolidated/README.md](manual/_consolidated/README.md)
-
-- [16_careermgmt.pdf](manual/_consolidated/16_careermgmt.pdf) (82.6 MB) — Navy HR Admin Complete, FY27 Surface Cmd Board Results, FY27 Surface Major Command Convening Order
+- [manual_consolidated_vol2.pdf](manual/manual_consolidated_vol2.pdf) (51.3 MB)
+- [manual_consolidated_vol3.pdf](manual/manual_consolidated_vol3.pdf) (83.9 MB)
+- [manual_consolidated_vol1.pdf](manual/manual_consolidated_vol1.pdf) (87.8 MB)
+- [Manifest](manual/manifest.md)
 
 ---
 
@@ -78,10 +65,10 @@
 
 ## Audit Trail
 
-- [AUDIT_2026-03-22](audit/AUDIT_2026-03-22.md)
 - [AUDIT_2026-03-22b](audit/AUDIT_2026-03-22b.md)
+- [AUDIT_2026-03-22](audit/AUDIT_2026-03-22.md)
 - [AUDIT_2026-03-21](audit/AUDIT_2026-03-21.md)
 
 ---
 
-*Generated by Navy Policy Tracker on 2026-03-21 23:43*
+*Generated by Navy Policy Tracker on 2026-03-22 07:50*
