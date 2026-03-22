@@ -36,7 +36,7 @@ access (automated downloads are blocked by DoD web application firewalls).
 
 ## Last Scan
 
-**2026-03-19 16:37** — 709 documents indexed across 14 categories
+**2026-03-21 20:50** — 44 documents indexed across 1 categories
 
 ---
 
