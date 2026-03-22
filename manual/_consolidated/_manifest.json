@@ -124,16 +124,13 @@
         "FY27 Active AMCSB Results.pdf",
         "FY27 EOD CO XO-DH Boards.pdf",
         "FY27 SURFACE CDR CMD BOARD CONVENING ORDER.pdf",
-        "FY27 SURFACE CDR CMD BOARD RESULTS 15DEC25.pdf",
+        "FY 27 SURFACE CDR CMD BOARD RESULTS 15DEC25.pdf",
         "FY27 Surface Major Command Board Selects Website Announcement.pdf",
-        "FY27 Surface Major Command Convening Order.pdf",
+        "FY-27 Surface Major Command Convening Order.pdf",
         "FY27 TAR AMCSB Convening Order.pdf",
         "FY27 TAR AMCSB Slate.pdf"
       ],
-      "missing": [
-        "FY27 SURFACE CDR CMD BOARD RESULTS 15DEC25.pdf",
-        "FY27 Surface Major Command Convening Order.pdf"
-      ],
+      "missing": [],
       "size_mb": 7.15
     },
     {
@@ -269,6 +266,16 @@
       ],
       "missing": [],
       "size_mb": 22.14
+    },
+    {
+      "file": "16_careermgmt.pdf",
+      "source_files": [
+        "Navy_HR_Admin_Complete.pdf",
+        "FY 27 SURFACE CDR CMD BOARD RESULTS 15DEC25.pdf",
+        "FY-27 Surface Major Command Convening Order.pdf"
+      ],
+      "missing": [],
+      "size_mb": 82.57
     }
   ],
   "duplicates_removed": [

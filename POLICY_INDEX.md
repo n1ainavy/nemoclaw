@@ -3,7 +3,7 @@
 > Automated index of official U.S. Navy and DoD policy documents.
 > Only validated, latest-version, deduplicated documents are included.
 
-**Last updated:** 2026-03-21 23:43
+**Last updated:** 2026-03-22
 
 ---
 
@@ -52,7 +52,9 @@
 
 📁 **[manual/](manual/README.md)** — Drop PDFs here for consolidation on next run
 
-- No manual uploads consolidated yet
+**16 consolidated PDFs** — see [manual/_consolidated/README.md](manual/_consolidated/README.md)
+
+- [16_careermgmt.pdf](manual/_consolidated/16_careermgmt.pdf) (82.6 MB) — Navy HR Admin Complete, FY27 Surface Cmd Board Results, FY27 Surface Major Command Convening Order
 
 ---
 
@@ -74,6 +76,7 @@
 
 ## Audit Trail
 
+- [AUDIT_2026-03-22](audit/AUDIT_2026-03-22.md)
 - [AUDIT_2026-03-21](audit/AUDIT_2026-03-21.md)
 
 ---

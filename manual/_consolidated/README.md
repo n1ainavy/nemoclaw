@@ -1,7 +1,8 @@
 # Consolidated Navy HR/Admin Files
 **Created:** March 19, 2026
-**Source:** 160+ individual PDFs → 15 merged PDFs + 1 standalone .docx
-**Total size:** ~82 MB (all files well under 200 MB limit)
+**Updated:** March 22, 2026 — Added 16_careermgmt.pdf (previously uncovered files)
+**Source:** 163+ individual PDFs → 16 merged PDFs + 1 standalone .docx
+**Total size:** ~165 MB
 
 ---
 
@@ -24,6 +25,7 @@
 | `13_Career_and_Continuation.pdf` | 6.2 MB | Continuation FAQ, Lat Transfer LOI, Career Info Program Reviews (Active & ISIC/TYCOM), BOL Continuation Codes, FAQs, AAA FAQ, In-Zone guide, Reserve Promotion Brief, When Do I Get Promoted, Serve on Active Duty Board, PSB Deferment Policy, DNS Letter samples, REA BIC Benchmarks, Officer Misconduct Basics |
 | `14_Separation_and_Transition.pdf` | 947 KB | Early Out fact sheet & flowchart, MLC TAP/First Enlistment/Mid-Career, MCPON Retirement Letter form |
 | `15_Reference_Manuals_and_Guides.pdf` | 23 MB | JAGINST Manual I & II (Jan 2026), CCC NAVPERS 15878N, ESO guide, ESSBD User Guide v5, FAOweb Instructions, Fleet/TYCOM Listing (Feb 2026), MyNavyHR conversion page |
+| `16_careermgmt.pdf` | 82.6 MB | Supplemental career management docs: Navy HR Admin Complete manual (MyNavyHR comprehensive), FY27 Surface Major Command Convening Order, FY27 Surface CDR Command Board Results (Dec 2025) |
 | `POCR_Board_Sample_Letter_2025-Apr.docx` | 34 KB | POCR board sample letter (Word document, kept standalone) |
 
 ---
