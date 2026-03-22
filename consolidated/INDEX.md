@@ -2,7 +2,7 @@
 
 > All topic-consolidated PDFs in one place for easy download.
 
-**Last updated:** 2026-03-21
+**Last updated:** 2026-03-22
 
 ---
 
@@ -25,6 +25,8 @@
 | [12-conduct.pdf](12-conduct.pdf) | 12 Conduct | 60.7 MB |
 | [13-navadmin.pdf](13-navadmin.pdf) | 13 Navadmin | 13.9 MB |
 | [14-mobilization.pdf](14-mobilization.pdf) | 14 Mobilization | 44.3 MB |
+| [15a-careermgmt.pdf](15a-careermgmt.pdf) | 15a Career Management (pp. 1–3192) | 79.7 MB |
+| [15b-careermgmt.pdf](15b-careermgmt.pdf) | 15b Career Management (pp. 3193–6384) | 83.6 MB |
 
 ---
 

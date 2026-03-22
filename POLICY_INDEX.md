@@ -3,7 +3,7 @@
 > Automated index of official U.S. Navy and DoD policy documents.
 > Only validated, latest-version, deduplicated documents are included.
 
-**Last updated:** 2026-03-22
+**Last updated:** 2026-03-22 (Claude Cowork review)
 
 ---
 
@@ -23,6 +23,7 @@
 - **[Standards of Conduct](finalized/12-conduct/manifest.md)** — 132 documents ([PDF](finalized/12-conduct/consolidated.pdf))
 - **[NAVADMINs (Reserve-Related)](finalized/13-navadmin/manifest.md)** — 40 documents ([PDF](finalized/13-navadmin/consolidated.pdf))
 - **[Mobilization & ADSW](finalized/14-mobilization/manifest.md)** — 116 documents ([PDF](finalized/14-mobilization/consolidated.pdf))
+- **[Career Management](manual/manifest.md)** — 163 documents ([Vol 1](consolidated/15a-careermgmt.pdf) · [Vol 2](consolidated/15b-careermgmt.pdf))
 
 ---
 
@@ -45,6 +46,7 @@
 - [12-conduct.pdf](consolidated/12-conduct.pdf) (60.7 MB)
 - [13-navadmin.pdf](consolidated/13-navadmin.pdf) (13.9 MB)
 - [14-mobilization.pdf](consolidated/14-mobilization.pdf) (44.3 MB)
+- [15a-careermgmt.pdf](consolidated/15a-careermgmt.pdf) (79.7 MB) + [15b-careermgmt.pdf](consolidated/15b-careermgmt.pdf) (83.6 MB)
 
 ---
 
@@ -77,6 +79,7 @@
 ## Audit Trail
 
 - [AUDIT_2026-03-22](audit/AUDIT_2026-03-22.md)
+- [AUDIT_2026-03-22b](audit/AUDIT_2026-03-22b.md)
 - [AUDIT_2026-03-21](audit/AUDIT_2026-03-21.md)
 
 ---
