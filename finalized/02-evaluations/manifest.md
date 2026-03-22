@@ -1,9 +1,9 @@
 # Evaluations & Fitness Reports — Document Manifest
 
 **Generated:** 2026-03-21
-**Total documents:** 14
-**Total pages:** 1151
-**Total size:** 20.1 MB
+**Total documents:** 18
+**Total pages:** 1760
+**Total size:** 41.2 MB
 
 ---
 
@@ -11,20 +11,24 @@
 
 | Start Page | Document | Pages | Source File |
 |------------|----------|-------|------------|
-| 1 | 1610.10d | 217 | 1610.10d.pdf |
-| 218 | 1850_1 | 112 | 1850_1.pdf |
-| 330 | AD0683320 | 39 | AD0683320.pdf |
-| 369 | AD1201963 | 87 | AD1201963.pdf |
-| 456 | bupersinst-1610.10g | 171 | bupersinst-1610.10g.pdf |
-| 627 | bupersinst1610.10e.-navy-performance-evaluation-system | 201 | bupersinst1610.10e.-navy-performance-evaluation-system.pdf |
-| 828 | BUPERSINST_1610.10 | 171 | BUPERSINST_1610.10.pdf |
-| 999 | eval-inst | 127 | eval-inst.pdf |
-| 1126 | Fact_Sheet_-_Mid-Term_COUNSELING | 2 | Fact_Sheet_-_Mid-Term_COUNSELING.pdf |
-| 1128 | Fact_Sheet_NAV_159_25 | 5 | Fact_Sheet_NAV_159_25.pdf |
-| 1133 | NAVPERS161626 | 2 | NAVPERS161626.pdf |
-| 1135 | navy-fitness-report-instruction-1610 | 4 | navy-fitness-report-instruction-1610.pdf |
-| 1139 | navy_chapter_17_eval_appeals | 8 | navy_chapter_17_eval_appeals.pdf |
-| 1147 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report | 5 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report.pdf |
+| 1 | 1610-10E | 199 | 1610-10E.pdf |
+| 200 | 1610.10d | 217 | 1610.10d.pdf |
+| 417 | 1850_1 | 112 | 1850_1.pdf |
+| 529 | 528268595 | 140 | 528268595.pdf |
+| 669 | AD0683320 | 39 | AD0683320.pdf |
+| 708 | AD1173297 | 139 | AD1173297.pdf |
+| 847 | AD1201960 | 92 | AD1201960.pdf |
+| 939 | AD1201963 | 87 | AD1201963.pdf |
+| 1026 | buperinst161010c_navy_fitreps | 213 | buperinst161010c_navy_fitreps.pdf |
+| 1239 | bupersinst-1610.10g | 171 | bupersinst-1610.10g.pdf |
+| 1410 | bupersinst1610.10e.-navy-performance-evaluation-system | 201 | bupersinst1610.10e.-navy-performance-evaluation-system.pdf |
+| 1611 | eval-inst | 127 | eval-inst.pdf |
+| 1738 | NAVPERS161626 | 2 | NAVPERS161626.pdf |
+| 1740 | navy-fitness-report-instruction-1610 | 4 | navy-fitness-report-instruction-1610.pdf |
+| 1744 | navy_chapter_17_eval_appeals | 8 | navy_chapter_17_eval_appeals.pdf |
+| 1752 | navy_coaching_program_information | 1 | navy_coaching_program_information.pdf |
+| 1753 | NR20220007850_Redacted | 3 | NR20220007850_Redacted.pdf |
+| 1756 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report | 5 | USNAINST_1610.5C_Delegation_of_Reporting_Senior_Authority_for_Fitness_and_Evaluation_Report.pdf |
 
 ---
 

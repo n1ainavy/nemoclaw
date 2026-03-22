@@ -10,7 +10,7 @@
 
 | File | Topic | Size |
 |------|-------|------|
-| [02-evaluations.pdf](02-evaluations.pdf) | 02 Evaluations | 20.1 MB |
+| [02-evaluations.pdf](02-evaluations.pdf) | 02 Evaluations | 41.2 MB |
 
 ---
 
