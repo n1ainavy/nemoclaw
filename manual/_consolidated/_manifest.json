@@ -1,0 +1,291 @@
+{
+  "categories": [
+    {
+      "file": "01_Instructions_and_Regulations.pdf",
+      "source_files": [
+        "132210p.pdf",
+        "132706p.pdf",
+        "134113p.pdf",
+        "134115p.pdf",
+        "1040.11G.pdf",
+        "1210.5B.pdf",
+        "1301.10C.pdf",
+        "1402.1.pdf",
+        "1420-010 .pdf",
+        "1420.2B.pdf",
+        "1520.23C w CH-3.pdf",
+        "1540.56B.pdf",
+        "1920.8.pdf",
+        "5400.46A.pdf",
+        "7220.7H.pdf",
+        "BUPERSINST 1430.16.pdf",
+        "BUPERSINST 1500.62.pdf",
+        "NAVPERS_1040-2_Rev_11-2025 Final.pdf"
+      ],
+      "missing": [],
+      "size_mb": 5.73
+    },
+    {
+      "file": "02_ALN_Messages.pdf",
+      "source_files": [
+        "ALN25034.pdf",
+        "ALN25044.pdf",
+        "ALN25048.pdf",
+        "ALN25053.pdf",
+        "ALN25072.pdf",
+        "ALN25078.pdf"
+      ],
+      "missing": [],
+      "size_mb": 0.28
+    },
+    {
+      "file": "03_NAVADMIN_Messages.pdf",
+      "source_files": [
+        "NAV25054.pdf",
+        "NAV25085.pdf",
+        "NAV25100.pdf",
+        "NAV25127.pdf",
+        "NAV25129.pdf",
+        "NAV25155.pdf",
+        "NAV25156.pdf",
+        "NAV25172.pdf",
+        "NAV25192.pdf",
+        "NAV25198.pdf",
+        "NAV25215.pdf",
+        "NAV25250.pdf",
+        "NAV25253.pdf",
+        "NAV25254.pdf",
+        "NAV26009.pdf",
+        "NAV26017.pdf",
+        "NAV26021.pdf",
+        "NAV26024.pdf",
+        "NAV26035.pdf",
+        "NAV26041.pdf",
+        "NAV26046.pdf"
+      ],
+      "missing": [],
+      "size_mb": 1.04
+    },
+    {
+      "file": "04_FY26_Reserve_Officer_Promotion_Boards.pdf",
+      "source_files": [
+        "FY26_PSB_Precept.pdf",
+        "FY26_RO4L_Convening_Order.pdf",
+        "FY26_RO4L_Membership.pdf",
+        "FY26_RO4L_STATS.pdf",
+        "FY26_USNR_O4L_ROP_Tracker.pdf",
+        "FY26_RO4S_CO.pdf",
+        "FY26_RO4S_Membership.pdf",
+        "FY26_RO4S_STATS.pdf",
+        "FY26_USNR_O4S_ROP_Tracker.pdf",
+        "FY26_RO5L_Convening_Order.pdf",
+        "FY26_RO5L_Membership.pdf",
+        "FY26_RO5L_STATS.pdf",
+        "FY26_USNR_O5L_ROP_Tracker.pdf",
+        "FY26_RO5S_Convening_Order.pdf",
+        "FY26_RO5S_Membership.pdf",
+        "FY26_RO5S_STATS.pdf",
+        "FY26_USNR_O5S_ROP_Tracker.pdf",
+        "FY26_RO6L_Convening_Order.pdf",
+        "FY26_RO6L_Membership.pdf",
+        "FY26_RO6L_STATS.pdf",
+        "FY26_USNR_O6L_ROP_Tracker.pdf",
+        "FY26_RO6S_Convening_Order.pdf",
+        "FY26_RO6S_Membership.pdf",
+        "FY26_RO6S_STATS.pdf",
+        "FY26_USNR_O6S_ROP_Tracker.pdf",
+        "FY26_RCWO_345_CO.pdf",
+        "FY26_RCWO_345_Membership.pdf",
+        "FY26_RCWO_STATS.pdf",
+        "FY26_USNR_CWO_543_ROP_Tracker.pdf",
+        "FY26_NR-TAR_O4_Line_and_Staff_Phasing_Plan.pdf",
+        "FY26_NR-TAR_O5_Line_and_Staff_Phasing_Plan.pdf",
+        "FY26_NR-TAR_O6_Line_and_Staff_Phasing_Plan.pdf"
+      ],
+      "missing": [],
+      "size_mb": 16.83
+    },
+    {
+      "file": "05_FY26_Enlisted_Boards.pdf",
+      "source_files": [
+        "FY26_ENLISTED_PRECEPT.pdf",
+        "FY26_NR-TAR_E7_CONVENING_ORDER.pdf",
+        "FY26_NR-TAR_E7_MEMBERSHIP.pdf",
+        "FY26_NR_E7_QUOTAS.pdf",
+        "FY26_TAR_E7_QUOTAS.pdf"
+      ],
+      "missing": [],
+      "size_mb": 5.37
+    },
+    {
+      "file": "06_FY27_Active_Command_Boards.pdf",
+      "source_files": [
+        "FY27 Active AMCSB Convening Order.pdf",
+        "FY27 Active AMCSB Results.pdf",
+        "FY27 EOD CO XO-DH Boards.pdf",
+        "FY27 SURFACE CDR CMD BOARD CONVENING ORDER.pdf",
+        "FY27 SURFACE CDR CMD BOARD RESULTS 15DEC25.pdf",
+        "FY27 Surface Major Command Board Selects Website Announcement.pdf",
+        "FY27 Surface Major Command Convening Order.pdf",
+        "FY27 TAR AMCSB Convening Order.pdf",
+        "FY27 TAR AMCSB Slate.pdf"
+      ],
+      "missing": [
+        "FY27 SURFACE CDR CMD BOARD RESULTS 15DEC25.pdf",
+        "FY27 Surface Major Command Convening Order.pdf"
+      ],
+      "size_mb": 7.15
+    },
+    {
+      "file": "07_FY27_Reserve_Officer_Promotion_Boards.pdf",
+      "source_files": [
+        "FY27_PSB_Precept.pdf",
+        "FY27_RO5L_PSB_Convening_Order.pdf",
+        "FY27_RO5L_ROP_Tracker.pdf",
+        "FY27_RO5S_PSB_Convening_Order.pdf",
+        "FY27_RO5S_ROP_Tracker.pdf",
+        "FY27_RO6L_PSB_Convening_Order.pdf",
+        "FY27_RO6L_ROP_Tracker.pdf",
+        "FY27_RO6S_PSB_Convening_Order.pdf",
+        "FY27_RO6S_ROP_Tracker.pdf",
+        "FY27_LDO_CWO_ISP_CONVENING_ORDER.pdf",
+        "FY27_AD_LDO_CWO_Discrete_Requirements.pdf",
+        "FY27_NR_LDO_CWO_Discrete_Requirements.pdf",
+        "FY27_RC_CWO_Community_Briefs.pdf",
+        "FY27_RC_Line_Community_Briefs.pdf",
+        "FY27_RC_Line_Merit_Reorder_Briefs.pdf",
+        "FY27_RC_Staff_Community_Briefs.pdf",
+        "FY27_RC_Staff_Merit_Reorder_Briefs.pdf"
+      ],
+      "missing": [],
+      "size_mb": 9.45
+    },
+    {
+      "file": "08_FY27_Enlisted_and_Admin_Boards.pdf",
+      "source_files": [
+        "FY27_Enlisted_Precept.pdf",
+        "FY27_ADMIN_SELECTION_BOARD_PRECEPT.pdf",
+        "FY27_E9_CMDCM_CO.pdf",
+        "FY27_E9_CMDCM_Membership.pdf",
+        "FY27_NR-TAR_E9_CMDCM_Quotas.pdf",
+        "FY27_Competency_Skills.pdf",
+        "FY27-1 TPS Board Results.pdf",
+        "FY-27_TAB_SCHED_chg4_10-28-2025.pdf"
+      ],
+      "missing": [],
+      "size_mb": 2.31
+    },
+    {
+      "file": "09_FY25_Spot_Promotions.pdf",
+      "source_files": [
+        "FY25_1st_Qtr_Spot_Scroll.pdf",
+        "FY25_2nd_Qtr_Spot_Scroll.pdf",
+        "FY25_3rd_Qtr_Spot_Scroll.pdf",
+        "FY25_4th_Qtr_Spot_Scroll.pdf"
+      ],
+      "missing": [],
+      "size_mb": 0.31
+    },
+    {
+      "file": "10_BAH_and_Pay_Policy.pdf",
+      "source_files": [
+        "21AUG18 N130 LIMDU MEMO FOR BAH.pdf",
+        "28FEB12 ASN PCU Memo.pdf",
+        "29JUL10 DESIGNATED PLACE MEMO_Redacted.pdf",
+        "CNP Memo - BAH Flexibility.pdf",
+        "BNA_FAQs_June 2025.pdf"
+      ],
+      "missing": [],
+      "size_mb": 0.85
+    },
+    {
+      "file": "11_ADT_DDT_Orders.pdf",
+      "source_files": [
+        "10JAN20 DCNO ADT_DDT CONUS.pdf",
+        "10JAN20 DCNO DDT SCHOOL YEAR.pdf",
+        "31JAN24 DCNO ADT_DDT OCONUS.pdf"
+      ],
+      "missing": [],
+      "size_mb": 1.29
+    },
+    {
+      "file": "12_POCR_Documents.pdf",
+      "source_files": [
+        "CNP_SIGNED_POCR_Business_Rules_2023-10_Oct_Redacted.pdf",
+        "DCNP_POCR_Precept_2023-09-Sep.pdf",
+        "POCR_Requirements_and_POC_2025-12-11.pdf",
+        "POCR_YG_Availability_2025-12-11.pdf"
+      ],
+      "missing": [],
+      "size_mb": 0.86
+    },
+    {
+      "file": "13_Career_and_Continuation.pdf",
+      "source_files": [
+        "2019 FAQ CONTINUATION rev_SJS.pdf",
+        "2026-02_Feb_Lat_Xfer_LOI.pdf",
+        "Career Information Program Review - ACTIVE New FY26.pdf",
+        "ISIC TYCOM Career Information Program Review (Final) FY26.pdf",
+        "BOL_Continuation_Codes.pdf",
+        "Frequently Asked Questions.pdf",
+        "AAA FAQ 062824.pdf",
+        "How_Can_I_Tell_If_I_Am_Going_To_Be_In-Zone.pdf",
+        "Reserve Promotion Brief_2024_P80B.pdf",
+        "When_Do_I_Get_Promoted_Reserve.pdf",
+        "Serve_On_Active_Duty_Board.pdf",
+        "PSB_Deferment_(Opt-Out)_Policy_Implementation_Procedural_Guidance.pdf",
+        "Sample_DO_NOT_SELECT_ME.pdf",
+        "Sample_LTB_Reserve.pdf",
+        "FY-26_REA_BIC_BENCHMARKS.pdf",
+        "Officer Misconduct Basics-Jan26.pdf"
+      ],
+      "missing": [],
+      "size_mb": 6.19
+    },
+    {
+      "file": "14_Separation_and_Transition.pdf",
+      "source_files": [
+        "Fact Sheet - Early Out Process.pdf",
+        "Infographic-Flowchart_Early Out Process.pdf",
+        "MLC TAP.pdf",
+        "MLC-FIRST ENLISTMENT.pdf",
+        "MLC-MID CAREER.pdf",
+        "MCPON RETIREMENT LETTER REQUEST FORM 2025.pdf"
+      ],
+      "missing": [],
+      "size_mb": 0.92
+    },
+    {
+      "file": "15_Reference_Manuals_and_Guides.pdf",
+      "source_files": [
+        "Entire_Manual_I_94_Jan26.pdf",
+        "Entire_Manual_II_94_Jan26.pdf",
+        "CCC NAVPERS 15878N - UPDATE.pdf",
+        "ESO.pdf",
+        "ESSBD USER GUIDE (v5).pdf",
+        "FAOweb Instructions.pdf",
+        "FLEET_TYCOM LISTING _FEB 2026.pdf",
+        "MyNavyHR Conversion Page_PHOTO.pdf"
+      ],
+      "missing": [],
+      "size_mb": 22.14
+    }
+  ],
+  "duplicates_removed": [
+    "FY26_PSB_Precept (1).pdf",
+    "FY26_PSB_Precept (2).pdf",
+    "FY26_PSB_Precept (3).pdf",
+    "FY26_PSB_Precept (4).pdf",
+    "FY26_PSB_Precept (5).pdf",
+    "FY26_PSB_Precept (6).pdf",
+    "FY26_NR-TAR_O4_Line_and_Staff_Phasing_Plan (1).pdf",
+    "FY26_NR-TAR_O5_Line_and_Staff_Phasing_Plan (1).pdf",
+    "FY26_NR-TAR_O6_Line_and_Staff_Phasing_Plan (1).pdf",
+    "FY27_PSB_Precept (1).pdf",
+    "FY27_PSB_Precept (2).pdf",
+    "FY27_PSB_Precept (3).pdf"
+  ],
+  "standalone_kept": [
+    "POCR_Board_Sample_Letter_2025-Apr.docx"
+  ]
+}
