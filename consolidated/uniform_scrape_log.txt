@@ -1,0 +1,801 @@
+2026-03-22 14:31:53,013 [INFO] ============================================================
+2026-03-22 14:31:53,013 [INFO] Navy Uniform Regulations Scraper starting
+2026-03-22 14:31:53,013 [INFO] Output directory: /home/ef4bfd1e/Documents/n1ainavy/nemoclaw/consolidated
+2026-03-22 14:31:53,013 [INFO] Brave API key: ✓ set
+2026-03-22 14:31:53,013 [INFO] Discovering article URLs from TOC …
+2026-03-22 14:31:56,237 [INFO]   Found 160 article URLs on live TOC
+2026-03-22 14:31:56,237 [INFO] Chapter 1: Authority, Administration, and Wear
+2026-03-22 14:31:57,858 [INFO]   Fetching article 1101: Authority and Purpose
+2026-03-22 14:31:59,586 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:31:59,586 [INFO]   Fetching article 1102: Scope and Applicability
+2026-03-22 14:32:02,122 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:02,122 [INFO]   Fetching article 1103: Responsibility and Administration
+2026-03-22 14:32:04,681 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:04,681 [INFO]   Fetching article 1104: Uniform Wear Policy
+2026-03-22 14:32:07,210 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:07,210 [INFO]   Fetching article 1105: Civilian Clothes and Off-Duty Wear
+2026-03-22 14:32:09,780 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:09,780 [INFO]   Fetching article 1106: Care and Maintenance of Uniforms
+2026-03-22 14:32:12,724 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:12,725 [INFO]   Fetching article 1107: Purchase and Source of Uniforms
+2026-03-22 14:32:15,103 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:15,104 [INFO]   Fetching article 1108: Prohibited Alterations and Modifications
+2026-03-22 14:32:17,488 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:17,488 [INFO]   Fetching article 1109: Uniform Regulations Waivers
+2026-03-22 14:32:20,028 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:20,028 [INFO]   Chapter 1 done: 9 articles, 9 ok, 0 partial, 0 known_db
+2026-03-22 14:32:20,028 [INFO] Chapter 2: Grooming Standards
+2026-03-22 14:32:21,618 [INFO]   Fetching article 2101: General Grooming Policy
+2026-03-22 14:32:23,231 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:23,231 [INFO]   Fetching article 2102: Male Hair Grooming Standards
+2026-03-22 14:32:25,754 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:25,754 [INFO]   Fetching article 2103: Female Hair Grooming Standards
+2026-03-22 14:32:28,187 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:28,187 [INFO]   Fetching article 2104: Facial Hair
+2026-03-22 14:32:30,596 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:30,596 [INFO]   Fetching article 2105: Fingernail Standards
+2026-03-22 14:32:33,132 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:33,132 [INFO]   Fetching article 2106: Cosmetics
+2026-03-22 14:32:35,701 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:35,701 [INFO]   Fetching article 2107: Tattoo, Body Piercing, and Body Alteration Policy
+2026-03-22 14:32:38,150 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:38,151 [INFO]   Fetching article 2108: Dental, Oral, and Body Ornamentation
+2026-03-22 14:32:40,673 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:40,674 [INFO]   Chapter 2 done: 8 articles, 8 ok, 0 partial, 0 known_db
+2026-03-22 14:32:40,674 [INFO] Chapter 3: Accessories
+2026-03-22 14:32:42,255 [INFO]   Fetching article 3101: Eyeglasses and Sunglasses
+2026-03-22 14:32:44,518 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:44,518 [INFO]   Fetching article 3102: Jewelry
+2026-03-22 14:32:47,120 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:47,120 [INFO]   Fetching article 3103: Handbags, Backpacks, and Gym Bags
+2026-03-22 14:32:49,677 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:49,677 [INFO]   Fetching article 3104: Umbrellas
+2026-03-22 14:32:53,509 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:53,509 [INFO]   Fetching article 3105: Civilian Clothing Items Worn with Uniforms
+2026-03-22 14:32:56,019 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:56,019 [INFO]   Fetching article 3106: Prosthetics and Adaptive Equipment
+2026-03-22 14:32:58,963 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:32:58,963 [INFO]   Chapter 3 done: 6 articles, 6 ok, 0 partial, 0 known_db
+2026-03-22 14:32:58,963 [INFO] Chapter 4: Personal Decorations, Awards, Badges, and Insignia
+2026-03-22 14:33:00,594 [INFO]   Fetching article 4101: Authorization and Wear of Awards
+2026-03-22 14:33:03,255 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:03,255 [INFO]   Fetching article 4102: Medals — Full Size and Miniature
+2026-03-22 14:33:05,947 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:05,947 [INFO]   Fetching article 4103: Ribbons
+2026-03-22 14:33:08,591 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:08,591 [INFO]   Fetching article 4104: Warfare, Qualification, and Functional Badges
+2026-03-22 14:33:10,184 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:10,184 [INFO]   Fetching article 4105: Command and Special Badges
+2026-03-22 14:33:13,019 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:13,019 [INFO]   Fetching article 4106: Identification Badges
+2026-03-22 14:33:15,590 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:15,590 [INFO]   Fetching article 4107: Foreign Awards and Decorations
+2026-03-22 14:33:18,066 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:18,066 [INFO]   Fetching article 4108: Officer Grade Insignia
+2026-03-22 14:33:20,496 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:20,496 [INFO]   Fetching article 4109: Enlisted Rating Insignia
+2026-03-22 14:33:23,037 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:23,038 [INFO]   Fetching article 4110: Officer Corps Device
+2026-03-22 14:33:25,565 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:25,565 [INFO]   Fetching article 4111: Distinguishing Marks and Special Insignia
+2026-03-22 14:33:28,077 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:28,077 [INFO]   Fetching article 4112: Aiguillette
+2026-03-22 14:33:30,544 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:30,544 [INFO]   Chapter 4 done: 12 articles, 12 ok, 0 partial, 0 known_db
+2026-03-22 14:33:30,544 [INFO] Chapter 5: Officer Uniforms
+2026-03-22 14:33:32,195 [INFO]   Fetching article 5101: Applicability and Composition — Officers
+2026-03-22 14:33:34,737 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:34,738 [INFO]   Fetching article 5102: Full Dress Blue — Officers
+2026-03-22 14:33:37,251 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:37,252 [INFO]   Fetching article 5103: Full Dress White — Officers
+2026-03-22 14:33:39,648 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:39,648 [INFO]   Fetching article 5104: Dinner Dress Blue Jacket — Officers
+2026-03-22 14:33:42,438 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:42,438 [INFO]   Fetching article 5105: Dinner Dress White Jacket — Officers
+2026-03-22 14:33:44,918 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:44,919 [INFO]   Fetching article 5106: Dinner Dress Blue — Officers
+2026-03-22 14:33:47,381 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:47,381 [INFO]   Fetching article 5107: Dinner Dress White — Officers
+2026-03-22 14:33:49,914 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:49,914 [INFO]   Fetching article 5108: Service Dress Blue — Officers
+2026-03-22 14:33:52,382 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:52,382 [INFO]   Fetching article 5109: Service Dress White — Officers
+2026-03-22 14:33:54,836 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:54,836 [INFO]   Fetching article 5110: Summer White — Officers
+2026-03-22 14:33:57,468 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:57,469 [INFO]   Fetching article 5111: Winter Blue — Officers
+2026-03-22 14:33:59,993 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:33:59,993 [INFO]   Fetching article 5112: Service Khaki — Officers
+2026-03-22 14:34:02,507 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:02,508 [INFO]   Fetching article 5113: Navy Working Uniform (NWU) — Officers
+2026-03-22 14:34:04,970 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:04,970 [INFO]   Fetching article 5114: Physical Training Uniform — Officers
+2026-03-22 14:34:07,439 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:07,440 [INFO]   Fetching article 5115: Aviation Green — Officers
+2026-03-22 14:34:09,917 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:09,917 [INFO]   Chapter 5 done: 15 articles, 15 ok, 0 partial, 0 known_db
+2026-03-22 14:34:09,917 [INFO] Chapter 6: Enlisted Uniforms
+2026-03-22 14:34:11,591 [INFO]   Fetching article 6101: Applicability and Composition — Enlisted
+2026-03-22 14:34:14,451 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:14,452 [INFO]   Fetching article 6102: Full Dress Blue — E7 and Above
+2026-03-22 14:34:16,941 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:16,941 [INFO]   Fetching article 6103: Full Dress Blue — E6 and Below
+2026-03-22 14:34:19,531 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:19,532 [INFO]   Fetching article 6104: Full Dress White — Enlisted
+2026-03-22 14:34:22,057 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:22,057 [INFO]   Fetching article 6105: Dinner Dress Blue Jacket — Enlisted E7+
+2026-03-22 14:34:24,488 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:24,488 [INFO]   Fetching article 6106: Dinner Dress White Jacket — Enlisted E7+
+2026-03-22 14:34:27,002 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:27,002 [INFO]   Fetching article 6107: Dinner Dress Blue — Enlisted E7+
+2026-03-22 14:34:29,590 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:29,590 [INFO]   Fetching article 6108: Service Dress Blue — E7 and Above
+2026-03-22 14:34:32,194 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:32,195 [INFO]   Fetching article 6109: Service Dress Blue — E6 and Below
+2026-03-22 14:34:34,671 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:34,671 [INFO]   Fetching article 6110: Service Dress White — Enlisted
+2026-03-22 14:34:37,639 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:37,639 [INFO]   Fetching article 6111: Summer White — Enlisted
+2026-03-22 14:34:40,772 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:40,773 [INFO]   Fetching article 6112: Winter Blue — Enlisted
+2026-03-22 14:34:43,560 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:43,560 [INFO]   Fetching article 6113: Service Khaki — E7 and Above
+2026-03-22 14:34:46,204 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:46,204 [INFO]   Fetching article 6114: Navy Working Uniform (NWU) — Enlisted
+2026-03-22 14:34:48,863 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:48,863 [INFO]   Fetching article 6115: Physical Training Uniform — Enlisted
+2026-03-22 14:34:51,637 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:51,639 [INFO]   Fetching article 6116: Dress Whites — E6 and Below (Historical Reference)
+2026-03-22 14:34:54,222 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:54,222 [INFO]   Chapter 6 done: 16 articles, 16 ok, 0 partial, 0 known_db
+2026-03-22 14:34:54,222 [INFO] Chapter 7: Staff Corps and Special Programs
+2026-03-22 14:34:55,840 [INFO]   Fetching article 7101: Medical Corps
+2026-03-22 14:34:58,246 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:34:58,247 [INFO]   Fetching article 7102: Dental Corps
+2026-03-22 14:35:00,703 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:00,703 [INFO]   Fetching article 7103: Nurse Corps
+2026-03-22 14:35:03,130 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:03,130 [INFO]   Fetching article 7104: Medical Service Corps
+2026-03-22 14:35:05,499 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:05,499 [INFO]   Fetching article 7105: Judge Advocate General Corps
+2026-03-22 14:35:08,046 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:08,046 [INFO]   Fetching article 7106: Supply Corps
+2026-03-22 14:35:10,505 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:10,505 [INFO]   Fetching article 7107: Civil Engineer Corps
+2026-03-22 14:35:13,432 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:13,432 [INFO]   Fetching article 7108: Chaplain Corps
+2026-03-22 14:35:15,782 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:15,782 [INFO]   Fetching article 7109: Special Duty Officers and Information Warfare
+2026-03-22 14:35:18,326 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:18,326 [INFO]   Chapter 7 done: 9 articles, 9 ok, 0 partial, 0 known_db
+2026-03-22 14:35:18,326 [INFO] Chapter 8: Special Uniform Situations
+2026-03-22 14:35:20,876 [INFO]   Fetching article 8101: Maternity Uniforms
+2026-03-22 14:35:23,315 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:23,315 [INFO]   Fetching article 8102: Joint Duty Assignments
+2026-03-22 14:35:25,850 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:25,850 [INFO]   Fetching article 8103: Non-Navy and Civilian Billets
+2026-03-22 14:35:28,418 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:28,418 [INFO]   Fetching article 8104: Civilian Attire at Official Functions
+2026-03-22 14:35:30,778 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:30,779 [INFO]   Fetching article 8105: Retired Personnel
+2026-03-22 14:35:33,218 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:33,219 [INFO]   Fetching article 8106: Reserve Component Personnel
+2026-03-22 14:35:35,763 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:35,763 [INFO]   Chapter 8 done: 6 articles, 6 ok, 0 partial, 0 known_db
+2026-03-22 14:35:35,763 [INFO] Chapter 9: Additional Uniform Items
+2026-03-22 14:35:38,160 [INFO]   Fetching article 9101: Headgear
+2026-03-22 14:35:40,823 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:40,824 [INFO]   Fetching article 9102: Footwear
+2026-03-22 14:35:43,584 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:43,584 [INFO]   Fetching article 9103: Outerwear and All-Weather Coats
+2026-03-22 14:35:46,048 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:46,048 [INFO]   Fetching article 9104: Gloves
+2026-03-22 14:35:48,595 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:48,595 [INFO]   Fetching article 9105: Cold Weather Clothing
+2026-03-22 14:35:51,043 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:51,043 [INFO]   Fetching article 9106: Protective and Safety Clothing
+2026-03-22 14:35:53,505 [INFO]     ✓ live page (0 chars)
+2026-03-22 14:35:53,505 [INFO]   Chapter 9 done: 6 articles, 6 ok, 0 partial, 0 known_db
+2026-03-22 14:35:53,505 [INFO] Writing output files …
+2026-03-22 14:35:53,505 [INFO] Writing context file: /home/ef4bfd1e/Documents/n1ainavy/nemoclaw/consolidated/uniform_regs_context.txt
+2026-03-22 14:35:53,505 [INFO]   Context file: 40.7 KB
+2026-03-22 14:35:53,506 [INFO]   Manifest MD: uniform_manifest.md
+2026-03-22 14:35:53,508 [INFO]   Manifest JSON: uniform_manifest.json
+2026-03-22 14:35:53,508 [INFO] ============================================================
+2026-03-22 14:35:53,508 [INFO] Complete in 240s
+2026-03-22 14:35:53,508 [INFO] Articles: 87 total | 87 live | 0 brave | 0 known_db
+2026-03-22 14:35:53,508 [INFO] Context file: 40.7 KB → uniform_regs_context.txt
+2026-03-22 14:35:53,508 [INFO] Manifest:     uniform_manifest.md
+2026-03-22 14:35:53,508 [INFO] ============================================================
+2026-03-22 14:37:20,227 [INFO] ============================================================
+2026-03-22 14:37:20,227 [INFO] Navy Uniform Regulations Scraper starting
+2026-03-22 14:37:20,227 [INFO] Output directory: /home/ef4bfd1e/Documents/n1ainavy/nemoclaw/consolidated
+2026-03-22 14:37:20,227 [INFO] Brave API key: ✓ set
+2026-03-22 14:37:20,227 [INFO] Discovering article URLs from TOC …
+2026-03-22 14:37:21,989 [INFO]   Found 160 article URLs on live TOC
+2026-03-22 14:37:21,990 [INFO] Chapter 1: Authority, Administration, and Wear
+2026-03-22 14:37:23,597 [INFO]   Fetching article 1101: Authority and Purpose
+2026-03-22 14:37:25,212 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:37:26,526 [INFO]     ✓ Brave (2536 chars from 5 snippets)
+2026-03-22 14:37:26,526 [INFO]   Fetching article 1102: Scope and Applicability
+2026-03-22 14:37:28,260 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:37:30,724 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:37:30,724 [INFO]   Fetching article 1103: Responsibility and Administration
+2026-03-22 14:37:32,332 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:37:34,773 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:37:34,773 [INFO]   Fetching article 1104: Uniform Wear Policy
+2026-03-22 14:37:36,385 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:37:38,793 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:37:38,794 [INFO]   Fetching article 1105: Civilian Clothes and Off-Duty Wear
+2026-03-22 14:37:40,410 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:37:42,852 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:37:42,852 [INFO]   Fetching article 1106: Care and Maintenance of Uniforms
+2026-03-22 14:37:44,446 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:37:46,941 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:37:46,941 [INFO]   Fetching article 1107: Purchase and Source of Uniforms
+2026-03-22 14:37:48,564 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:37:51,240 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:37:51,241 [INFO]   Fetching article 1108: Prohibited Alterations and Modifications
+2026-03-22 14:37:52,867 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:37:55,261 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:37:55,261 [INFO]   Fetching article 1109: Uniform Regulations Waivers
+2026-03-22 14:37:57,040 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:37:59,442 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:37:59,442 [INFO]   Chapter 1 done: 9 articles, 0 ok, 1 partial, 8 known_db
+2026-03-22 14:37:59,442 [INFO] Chapter 2: Grooming Standards
+2026-03-22 14:38:01,064 [INFO]   Fetching article 2101: General Grooming Policy
+2026-03-22 14:38:02,746 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:03,998 [INFO]     ✓ Brave (2136 chars from 5 snippets)
+2026-03-22 14:38:03,998 [INFO]   Fetching article 2102: Male Hair Grooming Standards
+2026-03-22 14:38:05,625 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:08,074 [INFO]     ✓ Brave (1296 chars from 1 snippets)
+2026-03-22 14:38:08,075 [INFO]   Fetching article 2103: Female Hair Grooming Standards
+2026-03-22 14:38:09,711 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:12,161 [INFO]     ✓ Brave (2265 chars from 3 snippets)
+2026-03-22 14:38:12,161 [INFO]   Fetching article 2104: Facial Hair
+2026-03-22 14:38:13,785 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:16,226 [INFO]     ✓ Brave (2052 chars from 5 snippets)
+2026-03-22 14:38:16,226 [INFO]   Fetching article 2105: Fingernail Standards
+2026-03-22 14:38:17,845 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:20,258 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:38:20,259 [INFO]   Fetching article 2106: Cosmetics
+2026-03-22 14:38:21,922 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:24,341 [INFO]     ✓ Brave (1163 chars from 3 snippets)
+2026-03-22 14:38:24,341 [INFO]   Fetching article 2107: Tattoo, Body Piercing, and Body Alteration Policy
+2026-03-22 14:38:25,966 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:28,362 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:38:28,362 [INFO]   Fetching article 2108: Dental, Oral, and Body Ornamentation
+2026-03-22 14:38:29,985 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:32,410 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:38:32,410 [INFO]   Chapter 2 done: 8 articles, 0 ok, 5 partial, 3 known_db
+2026-03-22 14:38:32,410 [INFO] Chapter 3: Accessories
+2026-03-22 14:38:34,055 [INFO]   Fetching article 3101: Eyeglasses and Sunglasses
+2026-03-22 14:38:35,683 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:36,897 [INFO]     ✓ Brave (1387 chars from 2 snippets)
+2026-03-22 14:38:36,897 [INFO]   Fetching article 3102: Jewelry
+2026-03-22 14:38:38,575 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:41,066 [INFO]     ✓ Brave (2642 chars from 5 snippets)
+2026-03-22 14:38:41,066 [INFO]   Fetching article 3103: Handbags, Backpacks, and Gym Bags
+2026-03-22 14:38:42,744 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:45,156 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:38:45,156 [INFO]   Fetching article 3104: Umbrellas
+2026-03-22 14:38:46,782 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:49,343 [INFO]     ✓ Brave (2149 chars from 4 snippets)
+2026-03-22 14:38:49,343 [INFO]   Fetching article 3105: Civilian Clothing Items Worn with Uniforms
+2026-03-22 14:38:50,975 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:53,374 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:38:53,375 [INFO]   Fetching article 3106: Prosthetics and Adaptive Equipment
+2026-03-22 14:38:54,990 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:38:57,406 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:38:57,407 [INFO]   Chapter 3 done: 6 articles, 0 ok, 3 partial, 3 known_db
+2026-03-22 14:38:57,407 [INFO] Chapter 4: Personal Decorations, Awards, Badges, and Insignia
+2026-03-22 14:38:59,039 [INFO]   Fetching article 4101: Authorization and Wear of Awards
+2026-03-22 14:39:00,693 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:03,102 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:39:03,102 [INFO]   Fetching article 4102: Medals — Full Size and Miniature
+2026-03-22 14:39:04,760 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:06,018 [INFO]     ✓ Brave (682 chars from 1 snippets)
+2026-03-22 14:39:06,018 [INFO]   Fetching article 4103: Ribbons
+2026-03-22 14:39:07,635 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:09,074 [INFO]     ✓ Brave (1203 chars from 3 snippets)
+2026-03-22 14:39:09,076 [INFO]   Fetching article 4104: Warfare, Qualification, and Functional Badges
+2026-03-22 14:39:10,682 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:11,886 [INFO]     ✓ Brave (1302 chars from 2 snippets)
+2026-03-22 14:39:11,886 [INFO]   Fetching article 4105: Command and Special Badges
+2026-03-22 14:39:13,539 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:15,987 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:39:15,987 [INFO]   Fetching article 4106: Identification Badges
+2026-03-22 14:39:17,665 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:20,163 [INFO]     ✓ Brave (2385 chars from 5 snippets)
+2026-03-22 14:39:20,163 [INFO]   Fetching article 4107: Foreign Awards and Decorations
+2026-03-22 14:39:21,795 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:24,220 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:39:24,220 [INFO]   Fetching article 4108: Officer Grade Insignia
+2026-03-22 14:39:25,941 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:28,350 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:39:28,351 [INFO]   Fetching article 4109: Enlisted Rating Insignia
+2026-03-22 14:39:29,964 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:32,343 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:39:32,344 [INFO]   Fetching article 4110: Officer Corps Device
+2026-03-22 14:39:33,956 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:36,349 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:39:36,350 [INFO]   Fetching article 4111: Distinguishing Marks and Special Insignia
+2026-03-22 14:39:37,983 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:40,364 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:39:40,364 [INFO]   Fetching article 4112: Aiguillette
+2026-03-22 14:39:41,996 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:44,634 [INFO]     ✓ Brave (1039 chars from 4 snippets)
+2026-03-22 14:39:44,634 [INFO]   Chapter 4 done: 12 articles, 0 ok, 5 partial, 7 known_db
+2026-03-22 14:39:44,634 [INFO] Chapter 5: Officer Uniforms
+2026-03-22 14:39:46,285 [INFO]   Fetching article 5101: Applicability and Composition — Officers
+2026-03-22 14:39:47,944 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:49,228 [INFO]     ✓ Brave (1896 chars from 5 snippets)
+2026-03-22 14:39:49,228 [INFO]   Fetching article 5102: Full Dress Blue — Officers
+2026-03-22 14:39:50,831 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:53,337 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:39:53,337 [INFO]   Fetching article 5103: Full Dress White — Officers
+2026-03-22 14:39:54,965 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:39:57,449 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:39:57,449 [INFO]   Fetching article 5104: Dinner Dress Blue Jacket — Officers
+2026-03-22 14:39:59,106 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:01,600 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:01,600 [INFO]   Fetching article 5105: Dinner Dress White Jacket — Officers
+2026-03-22 14:40:03,351 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:05,829 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:05,829 [INFO]   Fetching article 5106: Dinner Dress Blue — Officers
+2026-03-22 14:40:07,471 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:09,892 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:09,892 [INFO]   Fetching article 5107: Dinner Dress White — Officers
+2026-03-22 14:40:11,525 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:13,994 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:13,994 [INFO]   Fetching article 5108: Service Dress Blue — Officers
+2026-03-22 14:40:15,683 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:18,140 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:18,141 [INFO]   Fetching article 5109: Service Dress White — Officers
+2026-03-22 14:40:19,773 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:22,202 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:22,202 [INFO]   Fetching article 5110: Summer White — Officers
+2026-03-22 14:40:23,858 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:26,293 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:26,293 [INFO]   Fetching article 5111: Winter Blue — Officers
+2026-03-22 14:40:27,972 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:30,443 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:30,444 [INFO]   Fetching article 5112: Service Khaki — Officers
+2026-03-22 14:40:32,055 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:34,541 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:34,541 [INFO]   Fetching article 5113: Navy Working Uniform (NWU) — Officers
+2026-03-22 14:40:36,225 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:38,724 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:38,724 [INFO]   Fetching article 5114: Physical Training Uniform — Officers
+2026-03-22 14:40:40,364 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:42,864 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:42,864 [INFO]   Fetching article 5115: Aviation Green — Officers
+2026-03-22 14:40:44,466 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:46,954 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:46,954 [INFO]   Chapter 5 done: 15 articles, 0 ok, 1 partial, 14 known_db
+2026-03-22 14:40:46,954 [INFO] Chapter 6: Enlisted Uniforms
+2026-03-22 14:40:48,676 [INFO]   Fetching article 6101: Applicability and Composition — Enlisted
+2026-03-22 14:40:50,342 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:52,833 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:52,833 [INFO]   Fetching article 6102: Full Dress Blue — E7 and Above
+2026-03-22 14:40:54,510 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:40:57,201 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:40:57,202 [INFO]   Fetching article 6103: Full Dress Blue — E6 and Below
+2026-03-22 14:40:58,852 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:01,346 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:01,346 [INFO]   Fetching article 6104: Full Dress White — Enlisted
+2026-03-22 14:41:03,077 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:05,610 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:05,611 [INFO]   Fetching article 6105: Dinner Dress Blue Jacket — Enlisted E7+
+2026-03-22 14:41:07,485 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:09,968 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:09,968 [INFO]   Fetching article 6106: Dinner Dress White Jacket — Enlisted E7+
+2026-03-22 14:41:11,671 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:14,124 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:14,124 [INFO]   Fetching article 6107: Dinner Dress Blue — Enlisted E7+
+2026-03-22 14:41:15,824 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:18,332 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:18,332 [INFO]   Fetching article 6108: Service Dress Blue — E7 and Above
+2026-03-22 14:41:20,143 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:22,626 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:22,627 [INFO]   Fetching article 6109: Service Dress Blue — E6 and Below
+2026-03-22 14:41:24,277 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:26,806 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:26,807 [INFO]   Fetching article 6110: Service Dress White — Enlisted
+2026-03-22 14:41:28,511 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:31,100 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:31,100 [INFO]   Fetching article 6111: Summer White — Enlisted
+2026-03-22 14:41:32,875 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:35,395 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:35,395 [INFO]   Fetching article 6112: Winter Blue — Enlisted
+2026-03-22 14:41:37,089 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:39,575 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:39,575 [INFO]   Fetching article 6113: Service Khaki — E7 and Above
+2026-03-22 14:41:41,190 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:43,716 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:43,716 [INFO]   Fetching article 6114: Navy Working Uniform (NWU) — Enlisted
+2026-03-22 14:41:45,470 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:48,025 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:48,026 [INFO]   Fetching article 6115: Physical Training Uniform — Enlisted
+2026-03-22 14:41:49,817 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:52,330 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:52,331 [INFO]   Fetching article 6116: Dress Whites — E6 and Below (Historical Reference)
+2026-03-22 14:41:53,995 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:41:56,545 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:41:56,546 [INFO]   Chapter 6 done: 16 articles, 0 ok, 0 partial, 16 known_db
+2026-03-22 14:41:56,546 [INFO] Chapter 7: Staff Corps and Special Programs
+2026-03-22 14:41:58,271 [INFO]   Fetching article 7101: Medical Corps
+2026-03-22 14:41:59,962 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:02,415 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:42:02,416 [INFO]   Fetching article 7102: Dental Corps
+2026-03-22 14:42:04,103 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:06,799 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:42:06,802 [INFO]   Fetching article 7103: Nurse Corps
+2026-03-22 14:42:08,469 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:10,938 [INFO]     ✓ Brave (1780 chars from 3 snippets)
+2026-03-22 14:42:10,939 [INFO]   Fetching article 7104: Medical Service Corps
+2026-03-22 14:42:12,694 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:15,160 [INFO]     ✓ Brave (896 chars from 1 snippets)
+2026-03-22 14:42:15,160 [INFO]   Fetching article 7105: Judge Advocate General Corps
+2026-03-22 14:42:16,807 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:19,327 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:42:19,328 [INFO]   Fetching article 7106: Supply Corps
+2026-03-22 14:42:21,067 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:23,503 [INFO]     ✓ Brave (876 chars from 1 snippets)
+2026-03-22 14:42:23,503 [INFO]   Fetching article 7107: Civil Engineer Corps
+2026-03-22 14:42:25,178 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:27,645 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:42:27,646 [INFO]   Fetching article 7108: Chaplain Corps
+2026-03-22 14:42:29,314 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:31,744 [INFO]     ✓ Brave (300 chars from 1 snippets)
+2026-03-22 14:42:31,745 [INFO]   Fetching article 7109: Special Duty Officers and Information Warfare
+2026-03-22 14:42:33,410 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:35,854 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:42:35,854 [INFO]   Chapter 7 done: 9 articles, 0 ok, 4 partial, 5 known_db
+2026-03-22 14:42:35,855 [INFO] Chapter 8: Special Uniform Situations
+2026-03-22 14:42:37,585 [INFO]   Fetching article 8101: Maternity Uniforms
+2026-03-22 14:42:39,244 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:41,694 [INFO]     ✓ Brave (1492 chars from 5 snippets)
+2026-03-22 14:42:41,694 [INFO]   Fetching article 8102: Joint Duty Assignments
+2026-03-22 14:42:43,329 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:45,721 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:42:45,722 [INFO]   Fetching article 8103: Non-Navy and Civilian Billets
+2026-03-22 14:42:47,364 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:49,743 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:42:49,743 [INFO]   Fetching article 8104: Civilian Attire at Official Functions
+2026-03-22 14:42:51,398 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:53,807 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:42:53,807 [INFO]   Fetching article 8105: Retired Personnel
+2026-03-22 14:42:55,519 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:42:57,947 [INFO]     ✓ Brave (59 chars from 1 snippets)
+2026-03-22 14:42:57,947 [INFO]   Fetching article 8106: Reserve Component Personnel
+2026-03-22 14:42:59,630 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:43:02,044 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:43:02,044 [INFO]   Chapter 8 done: 6 articles, 0 ok, 2 partial, 4 known_db
+2026-03-22 14:43:02,044 [INFO] Chapter 9: Additional Uniform Items
+2026-03-22 14:43:03,751 [INFO]   Fetching article 9101: Headgear
+2026-03-22 14:43:05,447 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:43:07,886 [INFO]     ✓ Brave (1180 chars from 5 snippets)
+2026-03-22 14:43:07,886 [INFO]   Fetching article 9102: Footwear
+2026-03-22 14:43:09,868 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:43:12,303 [INFO]     ✓ Brave (1997 chars from 5 snippets)
+2026-03-22 14:43:12,304 [INFO]   Fetching article 9103: Outerwear and All-Weather Coats
+2026-03-22 14:43:13,978 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:43:16,395 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:43:16,395 [INFO]   Fetching article 9104: Gloves
+2026-03-22 14:43:18,190 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:43:20,687 [INFO]     ✓ Brave (1459 chars from 4 snippets)
+2026-03-22 14:43:20,687 [INFO]   Fetching article 9105: Cold Weather Clothing
+2026-03-22 14:43:22,367 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:43:24,739 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:43:24,741 [INFO]   Fetching article 9106: Protective and Safety Clothing
+2026-03-22 14:43:26,497 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:43:28,924 [INFO]     ✗ Brave no results — using known_db description only
+2026-03-22 14:43:28,926 [INFO]   Chapter 9 done: 6 articles, 0 ok, 3 partial, 3 known_db
+2026-03-22 14:43:28,926 [INFO] Writing output files …
+2026-03-22 14:43:28,926 [INFO] Writing context file: /home/ef4bfd1e/Documents/n1ainavy/nemoclaw/consolidated/uniform_regs_context.txt
+2026-03-22 14:43:28,928 [INFO]   Context file: 84.9 KB
+2026-03-22 14:43:28,929 [INFO]   Manifest MD: uniform_manifest.md
+2026-03-22 14:43:28,945 [INFO]   Manifest JSON: uniform_manifest.json
+2026-03-22 14:43:28,945 [INFO] ============================================================
+2026-03-22 14:43:28,945 [INFO] Complete in 369s
+2026-03-22 14:43:28,945 [INFO] Articles: 87 total | 0 live | 24 brave | 63 known_db
+2026-03-22 14:43:28,945 [INFO] Context file: 84.9 KB → uniform_regs_context.txt
+2026-03-22 14:43:28,945 [INFO] Manifest:     uniform_manifest.md
+2026-03-22 14:43:28,945 [INFO] ============================================================
+2026-03-22 14:45:07,670 [INFO] ============================================================
+2026-03-22 14:45:07,672 [INFO] Navy Uniform Regulations Scraper starting
+2026-03-22 14:45:07,672 [INFO] Output directory: /home/ef4bfd1e/Documents/n1ainavy/nemoclaw/consolidated
+2026-03-22 14:45:07,672 [INFO] Brave API key: ✓ set
+2026-03-22 14:45:07,672 [INFO] Discovering article URLs from TOC …
+2026-03-22 14:45:09,401 [INFO]   Found 160 article URLs on live TOC
+2026-03-22 14:45:09,401 [INFO] Chapter 1: Authority, Administration, and Wear
+2026-03-22 14:45:11,009 [INFO]   Fetching article 1101: Authority and Purpose
+2026-03-22 14:45:12,646 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:45:13,899 [INFO]     ✓ Brave (4048 chars from 15 snippets)
+2026-03-22 14:45:13,899 [INFO]   Fetching article 1102: Scope and Applicability
+2026-03-22 14:45:15,544 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:45:21,705 [INFO]     ✓ Brave (9561 chars from 41 snippets)
+2026-03-22 14:45:21,705 [INFO]   Fetching article 1103: Responsibility and Administration
+2026-03-22 14:45:23,347 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:45:29,703 [INFO]     ✓ Brave (11495 chars from 43 snippets)
+2026-03-22 14:45:29,704 [INFO]   Fetching article 1104: Uniform Wear Policy
+2026-03-22 14:45:31,310 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:45:37,430 [INFO]     ✓ Brave (9742 chars from 39 snippets)
+2026-03-22 14:45:37,430 [INFO]   Fetching article 1105: Civilian Clothes and Off-Duty Wear
+2026-03-22 14:45:39,063 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:45:45,342 [INFO]     ✓ Brave (11131 chars from 34 snippets)
+2026-03-22 14:45:45,342 [INFO]   Fetching article 1106: Care and Maintenance of Uniforms
+2026-03-22 14:45:46,941 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:45:52,956 [INFO]     ✓ Brave (12592 chars from 46 snippets)
+2026-03-22 14:45:52,956 [INFO]   Fetching article 1107: Purchase and Source of Uniforms
+2026-03-22 14:45:54,565 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:46:00,762 [INFO]     ✓ Brave (5467 chars from 30 snippets)
+2026-03-22 14:46:00,762 [INFO]   Fetching article 1108: Prohibited Alterations and Modifications
+2026-03-22 14:46:02,608 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:46:08,618 [INFO]     ✓ Brave (9114 chars from 33 snippets)
+2026-03-22 14:46:08,618 [INFO]   Fetching article 1109: Uniform Regulations Waivers
+2026-03-22 14:46:10,222 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:46:16,310 [INFO]     ✓ Brave (7286 chars from 35 snippets)
+2026-03-22 14:46:16,310 [INFO]   Chapter 1 done: 9 articles, 0 ok, 9 partial, 0 known_db
+2026-03-22 14:46:16,310 [INFO] Chapter 2: Grooming Standards
+2026-03-22 14:46:17,941 [INFO]   Fetching article 2101: General Grooming Policy
+2026-03-22 14:46:19,557 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:46:20,770 [INFO]     ✓ Brave (2166 chars from 10 snippets)
+2026-03-22 14:46:20,770 [INFO]   Fetching article 2102: Male Hair Grooming Standards
+2026-03-22 14:46:22,419 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:46:28,527 [INFO]     ✓ Brave (13954 chars from 42 snippets)
+2026-03-22 14:46:28,527 [INFO]   Fetching article 2103: Female Hair Grooming Standards
+2026-03-22 14:46:30,138 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:46:36,383 [INFO]     ✓ Brave (15129 chars from 43 snippets)
+2026-03-22 14:46:36,383 [INFO]   Fetching article 2104: Facial Hair
+2026-03-22 14:46:38,010 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:46:44,178 [INFO]     ✓ Brave (16445 chars from 46 snippets)
+2026-03-22 14:46:44,178 [INFO]   Fetching article 2105: Fingernail Standards
+2026-03-22 14:46:45,785 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:46:51,923 [INFO]     ✓ Brave (13511 chars from 41 snippets)
+2026-03-22 14:46:51,923 [INFO]   Fetching article 2106: Cosmetics
+2026-03-22 14:46:53,542 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:46:59,656 [INFO]     ✓ Brave (7916 chars from 31 snippets)
+2026-03-22 14:46:59,656 [INFO]   Fetching article 2107: Tattoo, Body Piercing, and Body Alteration Policy
+2026-03-22 14:47:01,345 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:47:07,635 [INFO]     ✓ Brave (11401 chars from 40 snippets)
+2026-03-22 14:47:07,635 [INFO]   Fetching article 2108: Dental, Oral, and Body Ornamentation
+2026-03-22 14:47:09,253 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:47:15,315 [INFO]     ✓ Brave (3849 chars from 25 snippets)
+2026-03-22 14:47:15,315 [INFO]   Chapter 2 done: 8 articles, 0 ok, 8 partial, 0 known_db
+2026-03-22 14:47:15,316 [INFO] Chapter 3: Accessories
+2026-03-22 14:47:16,931 [INFO]   Fetching article 3101: Eyeglasses and Sunglasses
+2026-03-22 14:47:18,540 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:47:20,951 [INFO]     ✓ Brave (2291 chars from 10 snippets)
+2026-03-22 14:47:20,952 [INFO]   Fetching article 3102: Jewelry
+2026-03-22 14:47:22,588 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:47:28,683 [INFO]     ✓ Brave (11043 chars from 38 snippets)
+2026-03-22 14:47:28,683 [INFO]   Fetching article 3103: Handbags, Backpacks, and Gym Bags
+2026-03-22 14:47:30,426 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:47:36,693 [INFO]     ✓ Brave (8518 chars from 34 snippets)
+2026-03-22 14:47:36,693 [INFO]   Fetching article 3104: Umbrellas
+2026-03-22 14:47:38,336 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:47:44,488 [INFO]     ✓ Brave (10715 chars from 39 snippets)
+2026-03-22 14:47:44,488 [INFO]   Fetching article 3105: Civilian Clothing Items Worn with Uniforms
+2026-03-22 14:47:46,129 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:47:52,372 [INFO]     ✓ Brave (9672 chars from 30 snippets)
+2026-03-22 14:47:52,372 [INFO]   Fetching article 3106: Prosthetics and Adaptive Equipment
+2026-03-22 14:47:54,017 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:48:00,351 [INFO]     ✓ Brave (3161 chars from 23 snippets)
+2026-03-22 14:48:00,351 [INFO]   Chapter 3 done: 6 articles, 0 ok, 6 partial, 0 known_db
+2026-03-22 14:48:00,351 [INFO] Chapter 4: Personal Decorations, Awards, Badges, and Insignia
+2026-03-22 14:48:01,998 [INFO]   Fetching article 4101: Authorization and Wear of Awards
+2026-03-22 14:48:03,643 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:48:09,736 [INFO]     ✓ Brave (11817 chars from 37 snippets)
+2026-03-22 14:48:09,736 [INFO]   Fetching article 4102: Medals — Full Size and Miniature
+2026-03-22 14:48:11,370 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:48:18,014 [INFO]     ✓ Brave (13912 chars from 43 snippets)
+2026-03-22 14:48:18,014 [INFO]   Fetching article 4103: Ribbons
+2026-03-22 14:48:19,662 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:48:20,895 [INFO]     ✓ Brave (1538 chars from 10 snippets)
+2026-03-22 14:48:20,896 [INFO]   Fetching article 4104: Warfare, Qualification, and Functional Badges
+2026-03-22 14:48:22,525 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:48:24,936 [INFO]     ✓ Brave (2059 chars from 7 snippets)
+2026-03-22 14:48:24,936 [INFO]   Fetching article 4105: Command and Special Badges
+2026-03-22 14:48:26,597 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:48:32,736 [INFO]     ✓ Brave (13209 chars from 42 snippets)
+2026-03-22 14:48:32,736 [INFO]   Fetching article 4106: Identification Badges
+2026-03-22 14:48:34,468 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:48:40,631 [INFO]     ✓ Brave (12632 chars from 40 snippets)
+2026-03-22 14:48:40,631 [INFO]   Fetching article 4107: Foreign Awards and Decorations
+2026-03-22 14:48:42,295 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:48:48,657 [INFO]     ✓ Brave (12855 chars from 38 snippets)
+2026-03-22 14:48:48,658 [INFO]   Fetching article 4108: Officer Grade Insignia
+2026-03-22 14:48:50,289 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:48:56,570 [INFO]     ✓ Brave (14942 chars from 44 snippets)
+2026-03-22 14:48:56,570 [INFO]   Fetching article 4109: Enlisted Rating Insignia
+2026-03-22 14:48:58,215 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:49:04,463 [INFO]     ✓ Brave (13656 chars from 41 snippets)
+2026-03-22 14:49:04,464 [INFO]   Fetching article 4110: Officer Corps Device
+2026-03-22 14:49:06,084 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:49:12,686 [INFO]     ✓ Brave (11929 chars from 41 snippets)
+2026-03-22 14:49:12,686 [INFO]   Fetching article 4111: Distinguishing Marks and Special Insignia
+2026-03-22 14:49:14,477 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:49:20,708 [INFO]     ✓ Brave (12948 chars from 41 snippets)
+2026-03-22 14:49:20,708 [INFO]   Fetching article 4112: Aiguillette
+2026-03-22 14:49:22,348 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:49:28,499 [INFO]     ✓ Brave (7489 chars from 28 snippets)
+2026-03-22 14:49:28,499 [INFO]   Chapter 4 done: 12 articles, 0 ok, 12 partial, 0 known_db
+2026-03-22 14:49:28,499 [INFO] Chapter 5: Officer Uniforms
+2026-03-22 14:49:30,214 [INFO]   Fetching article 5101: Applicability and Composition — Officers
+2026-03-22 14:49:31,877 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:49:33,158 [INFO]     ✓ Brave (1579 chars from 5 snippets)
+2026-03-22 14:49:33,158 [INFO]   Fetching article 5102: Full Dress Blue — Officers
+2026-03-22 14:49:34,772 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:49:41,369 [INFO]     ✓ Brave (6962 chars from 23 snippets)
+2026-03-22 14:49:41,370 [INFO]   Fetching article 5103: Full Dress White — Officers
+2026-03-22 14:49:42,992 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:49:49,335 [INFO]     ✓ Brave (5780 chars from 23 snippets)
+2026-03-22 14:49:49,335 [INFO]   Fetching article 5104: Dinner Dress Blue Jacket — Officers
+2026-03-22 14:49:50,962 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:49:57,311 [INFO]     ✓ Brave (3810 chars from 23 snippets)
+2026-03-22 14:49:57,311 [INFO]   Fetching article 5105: Dinner Dress White Jacket — Officers
+2026-03-22 14:49:59,011 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:50:06,018 [INFO]     ✓ Brave (6152 chars from 27 snippets)
+2026-03-22 14:50:06,018 [INFO]   Fetching article 5106: Dinner Dress Blue — Officers
+2026-03-22 14:50:07,781 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:50:14,309 [INFO]     ✓ Brave (6257 chars from 25 snippets)
+2026-03-22 14:50:14,309 [INFO]   Fetching article 5107: Dinner Dress White — Officers
+2026-03-22 14:50:15,944 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:50:22,418 [INFO]     ✓ Brave (6377 chars from 26 snippets)
+2026-03-22 14:50:22,418 [INFO]   Fetching article 5108: Service Dress Blue — Officers
+2026-03-22 14:50:24,059 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:50:30,368 [INFO]     ✓ Brave (8511 chars from 27 snippets)
+2026-03-22 14:50:30,369 [INFO]   Fetching article 5109: Service Dress White — Officers
+2026-03-22 14:50:32,075 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:50:38,413 [INFO]     ✓ Brave (7282 chars from 27 snippets)
+2026-03-22 14:50:38,413 [INFO]   Fetching article 5110: Summer White — Officers
+2026-03-22 14:50:40,064 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:50:46,425 [INFO]     ✓ Brave (7832 chars from 31 snippets)
+2026-03-22 14:50:46,426 [INFO]   Fetching article 5111: Winter Blue — Officers
+2026-03-22 14:50:48,160 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:50:54,523 [INFO]     ✓ Brave (11169 chars from 31 snippets)
+2026-03-22 14:50:54,523 [INFO]   Fetching article 5112: Service Khaki — Officers
+2026-03-22 14:50:56,251 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:51:02,691 [INFO]     ✓ Brave (10810 chars from 32 snippets)
+2026-03-22 14:51:02,691 [INFO]   Fetching article 5113: Navy Working Uniform (NWU) — Officers
+2026-03-22 14:51:04,388 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:51:10,699 [INFO]     ✓ Brave (11372 chars from 38 snippets)
+2026-03-22 14:51:10,699 [INFO]   Fetching article 5114: Physical Training Uniform — Officers
+2026-03-22 14:51:12,323 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:51:18,713 [INFO]     ✓ Brave (8524 chars from 31 snippets)
+2026-03-22 14:51:18,713 [INFO]   Fetching article 5115: Aviation Green — Officers
+2026-03-22 14:51:20,374 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:51:26,810 [INFO]     ✓ Brave (14366 chars from 43 snippets)
+2026-03-22 14:51:26,811 [INFO]   Chapter 5 done: 15 articles, 0 ok, 15 partial, 0 known_db
+2026-03-22 14:51:26,811 [INFO] Chapter 6: Enlisted Uniforms
+2026-03-22 14:51:28,515 [INFO]   Fetching article 6101: Applicability and Composition — Enlisted
+2026-03-22 14:51:30,180 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:51:36,541 [INFO]     ✓ Brave (12097 chars from 43 snippets)
+2026-03-22 14:51:36,541 [INFO]   Fetching article 6102: Full Dress Blue — E7 and Above
+2026-03-22 14:51:38,180 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:51:44,546 [INFO]     ✓ Brave (7364 chars from 29 snippets)
+2026-03-22 14:51:44,547 [INFO]   Fetching article 6103: Full Dress Blue — E6 and Below
+2026-03-22 14:51:46,273 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:51:52,838 [INFO]     ✓ Brave (10857 chars from 35 snippets)
+2026-03-22 14:51:52,838 [INFO]   Fetching article 6104: Full Dress White — Enlisted
+2026-03-22 14:51:54,445 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:52:00,911 [INFO]     ✓ Brave (7407 chars from 28 snippets)
+2026-03-22 14:52:00,911 [INFO]   Fetching article 6105: Dinner Dress Blue Jacket — Enlisted E7+
+2026-03-22 14:52:02,517 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:52:09,073 [INFO]     ✓ Brave (5926 chars from 23 snippets)
+2026-03-22 14:52:09,073 [INFO]   Fetching article 6106: Dinner Dress White Jacket — Enlisted E7+
+2026-03-22 14:52:10,725 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:52:17,039 [INFO]     ✓ Brave (4970 chars from 19 snippets)
+2026-03-22 14:52:17,039 [INFO]   Fetching article 6107: Dinner Dress Blue — Enlisted E7+
+2026-03-22 14:52:18,655 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:52:24,905 [INFO]     ✓ Brave (5157 chars from 19 snippets)
+2026-03-22 14:52:24,905 [INFO]   Fetching article 6108: Service Dress Blue — E7 and Above
+2026-03-22 14:52:26,519 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:52:32,921 [INFO]     ✓ Brave (7317 chars from 29 snippets)
+2026-03-22 14:52:32,921 [INFO]   Fetching article 6109: Service Dress Blue — E6 and Below
+2026-03-22 14:52:34,540 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:52:41,149 [INFO]     ✓ Brave (10504 chars from 35 snippets)
+2026-03-22 14:52:41,149 [INFO]   Fetching article 6110: Service Dress White — Enlisted
+2026-03-22 14:52:42,784 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:52:49,145 [INFO]     ✓ Brave (10165 chars from 35 snippets)
+2026-03-22 14:52:49,145 [INFO]   Fetching article 6111: Summer White — Enlisted
+2026-03-22 14:52:50,773 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:52:57,276 [INFO]     ✓ Brave (8753 chars from 31 snippets)
+2026-03-22 14:52:57,276 [INFO]   Fetching article 6112: Winter Blue — Enlisted
+2026-03-22 14:52:58,883 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:53:05,234 [INFO]     ✓ Brave (10741 chars from 31 snippets)
+2026-03-22 14:53:05,234 [INFO]   Fetching article 6113: Service Khaki — E7 and Above
+2026-03-22 14:53:06,830 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:53:13,584 [INFO]     ✓ Brave (8952 chars from 38 snippets)
+2026-03-22 14:53:13,584 [INFO]   Fetching article 6114: Navy Working Uniform (NWU) — Enlisted
+2026-03-22 14:53:15,184 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:53:21,412 [INFO]     ✓ Brave (11900 chars from 39 snippets)
+2026-03-22 14:53:21,412 [INFO]   Fetching article 6115: Physical Training Uniform — Enlisted
+2026-03-22 14:53:23,016 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:53:29,303 [INFO]     ✓ Brave (7697 chars from 27 snippets)
+2026-03-22 14:53:29,303 [INFO]   Fetching article 6116: Dress Whites — E6 and Below (Historical Reference)
+2026-03-22 14:53:30,901 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:53:37,487 [INFO]     ✓ Brave (11384 chars from 37 snippets)
+2026-03-22 14:53:37,488 [INFO]   Chapter 6 done: 16 articles, 0 ok, 16 partial, 0 known_db
+2026-03-22 14:53:37,488 [INFO] Chapter 7: Staff Corps and Special Programs
+2026-03-22 14:53:39,090 [INFO]   Fetching article 7101: Medical Corps
+2026-03-22 14:53:40,697 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:53:43,149 [INFO]     ✓ Brave (1249 chars from 5 snippets)
+2026-03-22 14:53:43,149 [INFO]   Fetching article 7102: Dental Corps
+2026-03-22 14:53:44,747 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:53:50,834 [INFO]     ✓ Brave (7437 chars from 31 snippets)
+2026-03-22 14:53:50,834 [INFO]   Fetching article 7103: Nurse Corps
+2026-03-22 14:53:52,431 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:53:58,630 [INFO]     ✓ Brave (16277 chars from 47 snippets)
+2026-03-22 14:53:58,630 [INFO]   Fetching article 7104: Medical Service Corps
+2026-03-22 14:54:00,232 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:54:06,565 [INFO]     ✓ Brave (14505 chars from 39 snippets)
+2026-03-22 14:54:06,566 [INFO]   Fetching article 7105: Judge Advocate General Corps
+2026-03-22 14:54:08,159 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:54:14,339 [INFO]     ✓ Brave (12561 chars from 42 snippets)
+2026-03-22 14:54:14,339 [INFO]   Fetching article 7106: Supply Corps
+2026-03-22 14:54:15,946 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:54:22,018 [INFO]     ✓ Brave (11585 chars from 39 snippets)
+2026-03-22 14:54:22,019 [INFO]   Fetching article 7107: Civil Engineer Corps
+2026-03-22 14:54:23,774 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:54:29,943 [INFO]     ✓ Brave (9806 chars from 32 snippets)
+2026-03-22 14:54:29,943 [INFO]   Fetching article 7108: Chaplain Corps
+2026-03-22 14:54:31,571 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:54:37,672 [INFO]     ✓ Brave (14707 chars from 44 snippets)
+2026-03-22 14:54:37,672 [INFO]   Fetching article 7109: Special Duty Officers and Information Warfare
+2026-03-22 14:54:39,292 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:54:45,652 [INFO]     ✓ Brave (12544 chars from 36 snippets)
+2026-03-22 14:54:45,652 [INFO]   Chapter 7 done: 9 articles, 0 ok, 9 partial, 0 known_db
+2026-03-22 14:54:45,653 [INFO] Chapter 8: Special Uniform Situations
+2026-03-22 14:54:47,251 [INFO]   Fetching article 8101: Maternity Uniforms
+2026-03-22 14:54:48,897 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:54:55,002 [INFO]     ✓ Brave (10612 chars from 41 snippets)
+2026-03-22 14:54:55,002 [INFO]   Fetching article 8102: Joint Duty Assignments
+2026-03-22 14:54:56,616 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:55:02,739 [INFO]     ✓ Brave (12139 chars from 38 snippets)
+2026-03-22 14:55:02,740 [INFO]   Fetching article 8103: Non-Navy and Civilian Billets
+2026-03-22 14:55:04,403 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:55:10,393 [INFO]     ✓ Brave (9742 chars from 38 snippets)
+2026-03-22 14:55:10,393 [INFO]   Fetching article 8104: Civilian Attire at Official Functions
+2026-03-22 14:55:12,020 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:55:18,015 [INFO]     ✓ Brave (7450 chars from 35 snippets)
+2026-03-22 14:55:18,015 [INFO]   Fetching article 8105: Retired Personnel
+2026-03-22 14:55:19,621 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:55:25,757 [INFO]     ✓ Brave (12252 chars from 31 snippets)
+2026-03-22 14:55:25,757 [INFO]   Fetching article 8106: Reserve Component Personnel
+2026-03-22 14:55:27,366 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:55:33,441 [INFO]     ✓ Brave (10524 chars from 34 snippets)
+2026-03-22 14:55:33,442 [INFO]   Chapter 8 done: 6 articles, 0 ok, 6 partial, 0 known_db
+2026-03-22 14:55:33,442 [INFO] Chapter 9: Additional Uniform Items
+2026-03-22 14:55:35,035 [INFO]   Fetching article 9101: Headgear
+2026-03-22 14:55:36,669 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:55:42,755 [INFO]     ✓ Brave (11296 chars from 41 snippets)
+2026-03-22 14:55:42,755 [INFO]   Fetching article 9102: Footwear
+2026-03-22 14:55:44,358 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:55:50,596 [INFO]     ✓ Brave (9847 chars from 35 snippets)
+2026-03-22 14:55:50,597 [INFO]   Fetching article 9103: Outerwear and All-Weather Coats
+2026-03-22 14:55:52,197 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:55:58,441 [INFO]     ✓ Brave (14331 chars from 44 snippets)
+2026-03-22 14:55:58,441 [INFO]   Fetching article 9104: Gloves
+2026-03-22 14:56:00,046 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:56:06,598 [INFO]     ✓ Brave (8338 chars from 34 snippets)
+2026-03-22 14:56:06,598 [INFO]   Fetching article 9105: Cold Weather Clothing
+2026-03-22 14:56:08,249 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:56:14,414 [INFO]     ✓ Brave (17043 chars from 47 snippets)
+2026-03-22 14:56:14,415 [INFO]   Fetching article 9106: Protective and Safety Clothing
+2026-03-22 14:56:16,054 [INFO]     live blocked or empty — trying Brave API
+2026-03-22 14:56:22,124 [INFO]     ✓ Brave (11764 chars from 40 snippets)
+2026-03-22 14:56:22,124 [INFO]   Chapter 9 done: 6 articles, 0 ok, 6 partial, 0 known_db
+2026-03-22 14:56:22,125 [INFO] Writing output files …
+2026-03-22 14:56:22,125 [INFO] Writing context file: /home/ef4bfd1e/Documents/n1ainavy/nemoclaw/consolidated/uniform_regs_context.txt
+2026-03-22 14:56:22,128 [INFO]   Context file: 932.4 KB
+2026-03-22 14:56:22,129 [INFO]   Manifest MD: uniform_manifest.md
+2026-03-22 14:56:22,144 [INFO]   Manifest JSON: uniform_manifest.json
+2026-03-22 14:56:22,144 [INFO] ============================================================
+2026-03-22 14:56:22,144 [INFO] Complete in 674s
+2026-03-22 14:56:22,144 [INFO] Articles: 87 total | 0 live | 87 brave | 0 known_db
+2026-03-22 14:56:22,144 [INFO] Context file: 932.4 KB → uniform_regs_context.txt
+2026-03-22 14:56:22,145 [INFO] Manifest:     uniform_manifest.md
+2026-03-22 14:56:22,145 [INFO] ============================================================
